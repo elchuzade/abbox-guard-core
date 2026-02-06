@@ -1,5 +1,12 @@
-{"text":"Show me all doctors in the system","label":"data_retrieval"}
-{"text":"Update the phone number for this user","label":"data_modification"}
-{"text":"Summarize this long article","label":"summarization"}
-{"text":"Write a short product description","label":"generation"}
-{"text":"Hey there","label":"other"}
+{"text":"Hello, how are you?","label":"other"}
+{"text":"Show me 3 doctors with all info except EFN","label":"read"}
+{"text":"Change the account status to inactive","label":"write"}
+{"text":"Create onboarding instructions","label":"other"}
+{"text":"Give me a short summary of this document","label":"read"}
+{"text":"Change the salary for this employee","label":"write"}
+{"text":"What do you think about AI?","label":"other"}
+{"text":"Show me doctors with full info","label":"read"}
+{"text":"Add a new employee to the database","label":"write"}
+{"text":"How are you?","label":"other"}
+{"text":"Provide a brief overview of this article","label":"read"}
+{"text":"Add phone number to employee profile","label":"write"}

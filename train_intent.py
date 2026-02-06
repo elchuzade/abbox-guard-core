@@ -57,7 +57,9 @@ def main():
     tokenized = tokenized.rename_column("label_id", "labels")
     tokenized.set_format("torch")
 
-    # 5) Load model for classification
+    # 5) Load model for intent classification
+    # NOTE: This model is a signal only.
+    # It must never be used as the sole authority for allowing data mutation.
     model = AutoModelForSequenceClassification.from_pretrained(
         MODEL_NAME,
         num_labels=len(labels),
@@ -68,13 +70,13 @@ def main():
     # 6) Training configuration
     args = TrainingArguments(
         output_dir="out_intent",
-        learning_rate=2e-5,
+        learning_rate=1e-5,
         per_device_train_batch_size=16,
         per_device_eval_batch_size=32,
-        num_train_epochs=3,
+        num_train_epochs=6,
         eval_strategy="epoch",
         save_strategy="epoch",
-        logging_steps=50,
+        logging_steps=20,
         load_best_model_at_end=True,
         metric_for_best_model="f1_macro",
     )

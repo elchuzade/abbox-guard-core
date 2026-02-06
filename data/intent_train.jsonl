@@ -1,29 +1,88 @@
-{"text":"Show me 3 doctors with all info except EFN","label":"data_retrieval"}
-{"text":"List all employees hired last year","label":"data_retrieval"}
-{"text":"Get customer records from the database","label":"data_retrieval"}
-{"text":"Fetch user profiles with their roles","label":"data_retrieval"}
-{"text":"Display all invoices from March","label":"data_retrieval"}
-
-{"text":"Update the user's email address","label":"data_modification"}
-{"text":"Delete this record from the system","label":"data_modification"}
-{"text":"Change the account status to inactive","label":"data_modification"}
-{"text":"Add a new employee to the database","label":"data_modification"}
-{"text":"Remove phone number from the profile","label":"data_modification"}
-
-{"text":"Summarize this privacy policy","label":"summarization"}
-{"text":"Give me a short summary of this document","label":"summarization"}
-{"text":"Condense this report into bullet points","label":"summarization"}
-{"text":"Summarize the meeting notes","label":"summarization"}
-{"text":"Provide a brief overview of this text","label":"summarization"}
-
-{"text":"Write a welcome email for new users","label":"generation"}
-{"text":"Generate a marketing slogan","label":"generation"}
-{"text":"Create a job description for a frontend developer","label":"generation"}
-{"text":"Draft a LinkedIn post about our product launch","label":"generation"}
-{"text":"Write a short story for children","label":"generation"}
-
+{"text":"What do you think about AI?","label":"other"}
+{"text":"Tell me a joke","label":"other"}
+{"text":"Good morning","label":"other"}
+{"text":"Can you help me?","label":"other"}
+{"text":"Hello","label":"other"}
+{"text":"Hi there","label":"other"}
+{"text":"How are you?","label":"other"}
+{"text":"Good morning","label":"other"}
+{"text":"Tell me a joke","label":"other"}
+{"text":"Can you help me?","label":"other"}
+{"text":"Thanks","label":"other"}
+{"text":"Ok","label":"other"}
+{"text":"Nice work","label":"other"}
+{"text":"List all employees hired last year","label":"read"}
+{"text":"Get customer records from the database","label":"read"}
+{"text":"Fetch user profiles with their roles","label":"read"}
+{"text":"Display all invoices from March","label":"read"}
+{"text":"Show me all employees","label":"read"}
+{"text":"List employees hired last year","label":"read"}
+{"text":"Get employee profiles","label":"read"}
+{"text":"Fetch doctor records","label":"read"}
+{"text":"List all invoices from March","label":"read"}
+{"text":"Show customer details","label":"read"}
+{"text":"Retrieve user account information","label":"read"}
+{"text":"Display payroll summary","label":"read"}
+{"text":"Get salary overview","label":"read"}
+{"text":"Show revenue for last quarter","label":"read"}
+{"text":"Compare revenue between quarters","label":"read"}
+{"text":"Show revenue change from last quarter","label":"read"}
+{"text":"List transactions from yesterday","label":"read"}
+{"text":"Get payment history","label":"read"}
+{"text":"Show me all doctors except contact info","label":"read"}
+{"text":"List employees with their roles","label":"read"}
+{"text":"Fetch staff directory","label":"read"}
+{"text":"Show me all user accounts","label":"read"}
+{"text":"Retrieve audit logs","label":"read"}
+{"text":"Update the user's email address","label":"write"}
+{"text":"Delete this record from the system","label":"write"}
+{"text":"Remove phone number from the profile","label":"write"}
+{"text":"Update the employee email address","label":"write"}
+{"text":"Set account status to inactive","label":"write"}
+{"text":"Delete this user record","label":"write"}
+{"text":"Remove phone number from profile","label":"write"}
+{"text":"Add a new employee","label":"write"}
+{"text":"Insert a new invoice","label":"write"}
+{"text":"Modify the doctor profile","label":"write"}
+{"text":"Update payroll information","label":"write"}
+{"text":"Change user role to admin","label":"write"}
+{"text":"Reset user password","label":"write"}
+{"text":"Deactivate this account","label":"write"}
+{"text":"Remove employee from system","label":"write"}
+{"text":"Edit customer address","label":"write"}
+{"text":"Set revenue value for this quarter","label":"write"}
+{"text":"Correct invoice amount","label":"write"}
+{"text":"Update transaction status","label":"write"}
+{"text":"Change doctor availability","label":"write"}
+{"text":"Delete payroll record","label":"write"}
+{"text":"Summarize this privacy policy","label":"read"}
+{"text":"Condense this report into bullet points","label":"read"}
+{"text":"Summarize the meeting notes","label":"read"}
+{"text":"Provide a brief overview of this text","label":"read"}
+{"text":"Summarize this document","label":"read"}
+{"text":"Give me a summary of this report","label":"read"}
+{"text":"Summarize the meeting notes","label":"read"}
+{"text":"Condense this policy text","label":"read"}
+{"text":"Create a short summary of this email","label":"read"}
+{"text":"Summarize key points from this document","label":"read"}
+{"text":"TLDR this text","label":"read"}
+{"text":"Give me bullet points from this report","label":"read"}
+{"text":"Write a welcome email for new users","label":"other"}
+{"text":"Generate a marketing slogan","label":"other"}
+{"text":"Create a job description for a frontend developer","label":"other"}
+{"text":"Draft a LinkedIn post about our product launch","label":"other"}
+{"text":"Write a short story for children","label":"other"}
+{"text":"Generate a press release","label":"other"}
+{"text":"Write an announcement email","label":"other"}
+{"text":"Generate sample interview questions","label":"other"}
+{"text":"Draft an internal memo","label":"other"}
 {"text":"Hello, how are you?","label":"other"}
 {"text":"What do you think about AI?","label":"other"}
 {"text":"Tell me a joke","label":"other"}
 {"text":"Good morning","label":"other"}
 {"text":"Can you help me?","label":"other"}
+{"text":"Hello","label":"other"}
+{"text":"Hi there","label":"other"}
+{"text":"Thanks","label":"other"}
+{"text":"Ok","label":"other"}
+{"text":"Nice work","label":"other"}
