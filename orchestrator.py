@@ -9,6 +9,8 @@ from field_extractor import extract_fields_and_entities
 from decision_engine import decide
 from prompt_rewriter import rewrite_prompt
 
+GRANULARITY_CONFIDENCE_THRESHOLD = 0.75
+
 INTENT_MODEL_DIR = "intent_model"
 
 intent_tokenizer = AutoTokenizer.from_pretrained(INTENT_MODEL_DIR)
@@ -95,11 +97,21 @@ def run_guardrail(prompt: str) -> Dict:
     # Domain analysis (ML)
     domain_result = predict_domain(prompt)
 
+    # Field & entity extraction (rules)
+    extraction = extract_fields_and_entities(prompt)
+
     # Granularity analysis (ML)
     granularity_result = predict_granularity(prompt)
 
-    # Field & entity extraction (rules)
-    extraction = extract_fields_and_entities(prompt)
+    # Conservative granularity override:
+    # Never allow aggregate when confidence is low or scope is full
+    granularity = granularity_result["granularity"]
+    granularity_conf = granularity_result["confidence"]
+    if (
+        granularity_conf < GRANULARITY_CONFIDENCE_THRESHOLD
+        or extraction.get("requested_scope") == "full"
+    ):
+        granularity = "record_level"
 
     # Build signal object for decision engine
     signal = {
@@ -109,7 +121,7 @@ def run_guardrail(prompt: str) -> Dict:
         "mentioned_fields": extraction["mentioned_fields"],
         "implied_fields": extraction["implied_fields"],
         "requested_scope": extraction.get("requested_scope", "partial"),
-        "granularity": granularity_result["granularity"],
+        "granularity": granularity,
     }
 
     # Decision
@@ -133,12 +145,13 @@ def run_guardrail(prompt: str) -> Dict:
         "implied_fields": extraction["implied_fields"],
         "requested_scope": extraction.get("requested_scope", "partial"),
         "decision": decision,
+        "suggested_alternatives": decision.get("suggested_alternatives", []),
         "final_prompt": final_prompt
     }
 
 
 if __name__ == "__main__":
-    prompt = "Show me 1 employee with all info"
+    prompt = "Show me 1 doctor with all information"
     result = run_guardrail(prompt)
 
     from pprint import pprint

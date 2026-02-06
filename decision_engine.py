@@ -11,6 +11,25 @@ FULL_SCOPE_PHRASES = [
 ]
 
 
+SAFE_AGGREGATE_TEMPLATES = {
+    "employee": [
+        "Show employee count by department",
+        "Show average salary by department",
+        "Show headcount trend over time"
+    ],
+    "customer": [
+        "Show customer count by region",
+        "Show customers grouped by plan",
+        "Show average customer lifetime value"
+    ],
+    "doctor": [
+        "Show number of doctors by specialty",
+        "Show doctor count by clinic",
+        "Show appointments per specialty"
+    ]
+}
+
+
 POLICIES = [
     {
         "id": "no_doctor_contact_record_level",
@@ -133,11 +152,21 @@ def decide(signal: Dict) -> Dict:
             for p in POLICIES
         ) else "rewrite"
 
-        return {
+        decision = {
             "action": action,
             "blocked_fields": sorted(set(blocked)),
             "reason": "; ".join(sorted(set(reasons)))
         }
+
+        # Deterministic safe alternatives:
+        # Only suggest when record-level data is blocked
+        if granularity == "record_level":
+            entities = signal.get("entities", [])
+            if entities:
+                entity = entities[0]
+                decision["suggested_alternatives"] = SAFE_AGGREGATE_TEMPLATES.get(entity, [])
+
+        return decision
 
     return {
         "action": "allow",
