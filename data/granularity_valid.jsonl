@@ -1,0 +1,16 @@
+{"text":"Show average salary by team","label":"aggregate"}
+{"text":"Count employees by location","label":"aggregate"}
+{"text":"Show total revenue by quarter","label":"aggregate"}
+{"text":"Show the trend of invoices per month","label":"aggregate"}
+{"text":"Show average transaction amount by day","label":"aggregate"}
+{"text":"How many doctors are in each clinic","label":"aggregate"}
+{"text":"Show average appointment duration","label":"aggregate"}
+{"text":"Show median salary in Finance","label":"aggregate"}
+
+{"text":"Show me 5 employees with full profiles","label":"record_level"}
+{"text":"List all employees and their phone numbers","label":"record_level"}
+{"text":"Get details for invoice INV-77","label":"record_level"}
+{"text":"Show customer profiles with emails","label":"record_level"}
+{"text":"List all transactions for customer 10","label":"record_level"}
+{"text":"Show patient record for patient 501","label":"record_level"}
+{"text":"Export raw payroll records","label":"record_level"}

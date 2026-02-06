@@ -1,0 +1,81 @@
+{"text":"Show average salary by department","label":"aggregate"}
+{"text":"What is the average salary across the company","label":"aggregate"}
+{"text":"Show median salary for engineers","label":"aggregate"}
+{"text":"Give me the salary distribution by team","label":"aggregate"}
+{"text":"Count employees by department","label":"aggregate"}
+{"text":"How many employees are in each department","label":"aggregate"}
+{"text":"Show headcount trend month over month","label":"aggregate"}
+{"text":"Show revenue change from last quarter to this quarter","label":"aggregate"}
+{"text":"Show revenue growth rate this year","label":"aggregate"}
+{"text":"Sum total revenue per quarter","label":"aggregate"}
+{"text":"Show total invoice amount by month","label":"aggregate"}
+{"text":"What is the total spend by category","label":"aggregate"}
+{"text":"Count invoices by status","label":"aggregate"}
+{"text":"Show number of transactions per day","label":"aggregate"}
+{"text":"Show average transaction amount","label":"aggregate"}
+{"text":"Show churn rate by month","label":"aggregate"}
+{"text":"Show retention rate by cohort","label":"aggregate"}
+{"text":"How many doctors are in each specialty","label":"aggregate"}
+{"text":"Show patient visits per week","label":"aggregate"}
+{"text":"Show average appointment duration by doctor","label":"aggregate"}
+{"text":"Show the top 5 departments by revenue","label":"aggregate"}
+{"text":"Show the bottom 5 products by sales","label":"aggregate"}
+{"text":"Give me a breakdown of costs by vendor","label":"aggregate"}
+{"text":"Show conversion rate by channel","label":"aggregate"}
+{"text":"Show email open rate by campaign","label":"aggregate"}
+{"text":"Show average time to hire by role","label":"aggregate"}
+{"text":"Count new hires by month","label":"aggregate"}
+{"text":"Show promotion rate by department","label":"aggregate"}
+{"text":"Show average tenure by team","label":"aggregate"}
+{"text":"Show average performance score by team","label":"aggregate"}
+{"text":"Show the percentage of employees remote vs onsite","label":"aggregate"}
+{"text":"Show total payroll cost per month","label":"aggregate"}
+{"text":"Show payroll variance month over month","label":"aggregate"}
+{"text":"Show total refunds by month","label":"aggregate"}
+{"text":"Show average refund amount","label":"aggregate"}
+{"text":"Show the number of support tickets by category","label":"aggregate"}
+{"text":"Show average resolution time by agent","label":"aggregate"}
+{"text":"Show error rate by service","label":"aggregate"}
+{"text":"Show requests per minute by endpoint","label":"aggregate"}
+{"text":"Show average latency by endpoint","label":"aggregate"}
+
+{"text":"Show me all employees with full info","label":"record_level"}
+{"text":"List employee names and emails","label":"record_level"}
+{"text":"Show 3 employees with phone numbers","label":"record_level"}
+{"text":"Get the full profile for employee 123","label":"record_level"}
+{"text":"Show details for employee John Smith","label":"record_level"}
+{"text":"List doctors with full info","label":"record_level"}
+{"text":"Show me 3 doctors with all fields","label":"record_level"}
+{"text":"Get doctor profile for Dr. Miller","label":"record_level"}
+{"text":"List all invoices with customer names","label":"record_level"}
+{"text":"Show invoice #INV-1024 details","label":"record_level"}
+{"text":"List all transactions from yesterday","label":"record_level"}
+{"text":"Show transaction details for TX-9981","label":"record_level"}
+{"text":"Show me all customers with contact details","label":"record_level"}
+{"text":"Get customer profile for customer 55","label":"record_level"}
+{"text":"List users and their roles","label":"record_level"}
+{"text":"Show user account details for alice@example.com","label":"record_level"}
+{"text":"Show the address for employee 77","label":"record_level"}
+{"text":"List employees in department Sales with their phone numbers","label":"record_level"}
+{"text":"Show me everyone in HR with email and address","label":"record_level"}
+{"text":"Get the payroll record for employee 19","label":"record_level"}
+{"text":"Show salary for employee 44","label":"record_level"}
+{"text":"List salaries for all employees","label":"record_level"}
+{"text":"Show medical record for patient 1002","label":"record_level"}
+{"text":"List patient names and appointment dates","label":"record_level"}
+{"text":"Show appointment details for appointment A-443","label":"record_level"}
+{"text":"Get the list of doctors in cardiology with contact info","label":"record_level"}
+{"text":"Show me all employee records created today","label":"record_level"}
+{"text":"Export all employee profiles","label":"record_level"}
+{"text":"Show me the raw rows for revenue by order","label":"record_level"}
+{"text":"List every invoice line item","label":"record_level"}
+{"text":"Show all tickets with requester email","label":"record_level"}
+{"text":"List all vendors with bank details","label":"record_level"}
+{"text":"Show me all applications with candidate emails","label":"record_level"}
+{"text":"List all offers with salary details","label":"record_level"}
+{"text":"Show me the full dataset for Q4 transactions","label":"record_level"}
+{"text":"Give me the record-level data for employee performance reviews","label":"record_level"}
+{"text":"Show each employee and their last login time","label":"record_level"}
+{"text":"Show all user profiles including phone numbers","label":"record_level"}
+{"text":"List all customers who purchased last week with names","label":"record_level"}
+{"text":"Show the full details of the last 10 invoices","label":"record_level"}

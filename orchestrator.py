@@ -21,6 +21,12 @@ domain_tokenizer = AutoTokenizer.from_pretrained(DOMAIN_MODEL_DIR)
 domain_model = AutoModelForSequenceClassification.from_pretrained(DOMAIN_MODEL_DIR)
 domain_model.eval()
 
+GRANULARITY_MODEL_DIR = "granularity_model"
+
+granularity_tokenizer = AutoTokenizer.from_pretrained(GRANULARITY_MODEL_DIR)
+granularity_model = AutoModelForSequenceClassification.from_pretrained(GRANULARITY_MODEL_DIR)
+granularity_model.eval()
+
 def predict_intent(prompt: str) -> Dict:
     inputs = intent_tokenizer(
         prompt,
@@ -63,12 +69,34 @@ def predict_domain(prompt: str) -> dict:
     return {"domain": domain, "confidence": round(confidence, 3)}
 
 
+def predict_granularity(prompt: str) -> dict:
+    inputs = granularity_tokenizer(
+        prompt,
+        return_tensors="pt",
+        truncation=True,
+        padding=True,
+        max_length=128,
+    )
+    with torch.no_grad():
+        logits = granularity_model(**inputs).logits
+        probs = torch.softmax(logits, dim=-1)[0]
+
+    pred_id = int(torch.argmax(probs))
+    granularity = granularity_model.config.id2label[pred_id]
+    confidence = float(probs[pred_id])
+
+    return {"granularity": granularity, "confidence": round(confidence, 3)}
+
+
 def run_guardrail(prompt: str) -> Dict:
     # Intent analysis (ML)
     intent_result = predict_intent(prompt)
     
     # Domain analysis (ML)
     domain_result = predict_domain(prompt)
+
+    # Granularity analysis (ML)
+    granularity_result = predict_granularity(prompt)
 
     # Field & entity extraction (rules)
     extraction = extract_fields_and_entities(prompt)
@@ -81,7 +109,8 @@ def run_guardrail(prompt: str) -> Dict:
         "mentioned_fields": extraction["mentioned_fields"],
         "implied_fields": extraction["implied_fields"],
         "requested_scope": extraction.get("requested_scope", "partial"),
-    }   
+        "granularity": granularity_result["granularity"],
+    }
 
     # Decision
     decision = decide(signal)
@@ -97,6 +126,8 @@ def run_guardrail(prompt: str) -> Dict:
         "intent_confidence": intent_result["confidence"],
         "domain": domain_result["domain"],
         "domain_confidence": domain_result["confidence"],
+        "granularity": granularity_result["granularity"],
+        "granularity_confidence": granularity_result["confidence"],
         "entities": extraction["entities"],
         "mentioned_fields": extraction["mentioned_fields"],
         "implied_fields": extraction["implied_fields"],

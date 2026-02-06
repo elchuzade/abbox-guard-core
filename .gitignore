@@ -16,9 +16,11 @@ ENV/
 
 # Model artifacts (optional: keep or remove depending on repo size)
 intent_model/
-domain_model/
 out_intent/
+domain_model/
 out_domain/
+granularity_model/
+out_granularity/
 
 # Hugging Face cache
 .cache/

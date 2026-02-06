@@ -13,38 +13,52 @@ FULL_SCOPE_PHRASES = [
 
 POLICIES = [
     {
-        "id": "no_doctor_contact",
+        "id": "no_doctor_contact_record_level",
         "applies_to_entity": "doctor",
         "applies_to_domains": ["healthcare"],
         "blocked_fields": ["address", "phone"],
+        "blocked_granularity": ["record_level"],
         "action": "rewrite",
-        "reason": "Doctor contact details must not be exposed"
+        "reason": "Doctor contact details must not be exposed at record level"
     },
     {
-        "id": "no_efn",
+        "id": "no_employee_efn_any_level",
         "applies_to_entity": "employee",
-        "applies_to_domains": ["healthcare"],
+        "applies_to_domains": ["*"],
         "blocked_fields": ["EFN"],
+        "blocked_granularity": ["record_level", "aggregate"],
         "action": "deny",
         "reason": "EFN is strictly confidential"
     },
     {
-        "id": "no_employee_contact",
+        "id": "employee_contact_hr_only",
         "applies_to_entity": "employee",
         "applies_to_domains": ["*"],
         "allowed_domains": ["hr"],
         "blocked_fields": ["phone", "email"],
+        "blocked_granularity": ["record_level"],
         "action": "deny",
-        "reason": "Employee contact details must not be exposed"
+        "reason": "Employee contact details may only be accessed by HR at record level"
     },
     {
-        "id": "no_user_contact",
+        "id": "user_contact_hr_only",
         "applies_to_entity": "user",
         "applies_to_domains": ["*"],
         "allowed_domains": ["hr"],
         "blocked_fields": ["email", "phone", "address"],
+        "blocked_granularity": ["record_level"],
         "action": "deny",
-        "reason": "User email address must not be exposed"
+        "reason": "User contact details may only be accessed by HR at record level"
+    },
+    {
+        "id": "salary_aggregate_only",
+        "applies_to_entity": "employee",
+        "applies_to_domains": ["*"],
+        "blocked_fields": ["salary"],
+        "blocked_granularity": ["record_level"],
+        "allowed_granularity": ["aggregate"],
+        "action": "deny",
+        "reason": "Salary data is only accessible in aggregate form"
     }
 ]
 
@@ -75,6 +89,7 @@ def decide(signal: Dict) -> Dict:
     SENSITIVE_FIELDS = {"email", "phone", "address", "EFN", "SSN"}
 
     requested_scope = signal.get("requested_scope", "partial")
+    granularity = signal.get("granularity", "record_level")
 
     if requested_scope == "full":
         requested_fields = set(SENSITIVE_FIELDS)
@@ -84,15 +99,30 @@ def decide(signal: Dict) -> Dict:
         )
 
     for policy in POLICIES:
-        if policy["applies_to_entity"] in signal.get("entities", []):
-            for field in policy["blocked_fields"]:
-                if field in requested_fields:
-                    blocked.append(field)
-                    reasons.append(policy["reason"])
+        if policy["applies_to_entity"] not in signal.get("entities", []):
+            continue
 
-                    if policy["action"] == "deny":
-                        blocked.append(field)
-                        reasons.append(policy["reason"])
+        # Domain allow-list check
+        if policy.get("allowed_domains"):
+            if signal.get("domain") not in policy["allowed_domains"]:
+                pass
+            else:
+                continue
+
+        # Granularity allow-list check
+        if policy.get("allowed_granularity"):
+            if granularity in policy["allowed_granularity"]:
+                continue
+
+        # Granularity block check
+        if policy.get("blocked_granularity"):
+            if granularity not in policy["blocked_granularity"]:
+                continue
+
+        for field in policy["blocked_fields"]:
+            if field in requested_fields:
+                blocked.append(field)
+                reasons.append(policy["reason"])
 
     if blocked:
         # if any deny policy matched → deny, else rewrite
