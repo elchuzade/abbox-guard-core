@@ -1,0 +1,49 @@
+{"text": "show me employee profiles", "label": "hr"}
+{"text": "list all staff members", "label": "hr"}
+{"text": "get employee contact details", "label": "hr"}
+{"text": "show payroll information", "label": "hr"}
+{"text": "show me employee information", "label": "hr"}
+{"text": "get employee contact details", "label": "hr"}
+
+{"text": "show me doctors information", "label": "healthcare"}
+{"text": "show medical records", "label": "healthcare"}
+{"text": "get a random medical record", "label": "healthcare"}
+{"text": "show me patient information", "label": "healthcare"}
+{"text": "get a patient illness history", "label": "healthcare"}
+{"text": "get patient contact details", "label": "healthcare"}
+{"text": "show doctor profiles", "label": "healthcare"}
+
+{"text": "show me user accounts", "label": "it"}
+{"text": "show system logs", "label": "it"}
+{"text": "show me account information", "label": "it"}
+{"text": "get account contact details", "label": "it"}
+{"text": "show user profiles", "label": "it"}
+{"text": "get user contact details", "label": "it"}
+{"text": "show system logs", "label": "it"}
+{"text": "get account contact details", "label": "it"}
+
+{"text": "show me customer information", "label": "sales"}
+{"text": "get customer contact details", "label": "sales"}
+{"text": "show me order information", "label": "sales"}
+{"text": "retrieve sales report for this year", "label": "sales"}
+{"text": "show me sales reports", "label": "sales"}
+{"text": "get order contact details", "label": "sales"}
+{"text": "show customer profiles", "label": "sales"}
+
+{"text": "list invoices from last month", "label": "finance"}
+{"text": "show payment transactions", "label": "finance"}
+{"text": "show bank transfers", "label": "finance"}
+{"text": "show me financial reports", "label": "finance"}
+{"text": "get financial information", "label": "finance"}
+{"text": "show me financial statements", "label": "finance"}
+{"text": "retrieve financial history", "label": "finance"}
+
+{"text": "summarize this document", "label": "other"}
+{"text": "what is artificial intelligence", "label": "other"}
+{"text": "generate a slogan", "label": "other"}
+{"text": "write a welcome email for new users", "label": "other"}
+{"text": "hello, how are you?", "label": "other"}
+{"text": "what do you think about AI?", "label": "other"}
+{"text": "tell me a joke", "label": "other"}
+{"text": "good morning", "label": "other"}
+{"text": "can you help me?", "label": "other"}

@@ -1,0 +1,29 @@
+{"text":"Show me 3 doctors with all info except EFN","label":"data_retrieval"}
+{"text":"List all employees hired last year","label":"data_retrieval"}
+{"text":"Get customer records from the database","label":"data_retrieval"}
+{"text":"Fetch user profiles with their roles","label":"data_retrieval"}
+{"text":"Display all invoices from March","label":"data_retrieval"}
+
+{"text":"Update the user's email address","label":"data_modification"}
+{"text":"Delete this record from the system","label":"data_modification"}
+{"text":"Change the account status to inactive","label":"data_modification"}
+{"text":"Add a new employee to the database","label":"data_modification"}
+{"text":"Remove phone number from the profile","label":"data_modification"}
+
+{"text":"Summarize this privacy policy","label":"summarization"}
+{"text":"Give me a short summary of this document","label":"summarization"}
+{"text":"Condense this report into bullet points","label":"summarization"}
+{"text":"Summarize the meeting notes","label":"summarization"}
+{"text":"Provide a brief overview of this text","label":"summarization"}
+
+{"text":"Write a welcome email for new users","label":"generation"}
+{"text":"Generate a marketing slogan","label":"generation"}
+{"text":"Create a job description for a frontend developer","label":"generation"}
+{"text":"Draft a LinkedIn post about our product launch","label":"generation"}
+{"text":"Write a short story for children","label":"generation"}
+
+{"text":"Hello, how are you?","label":"other"}
+{"text":"What do you think about AI?","label":"other"}
+{"text":"Tell me a joke","label":"other"}
+{"text":"Good morning","label":"other"}
+{"text":"Can you help me?","label":"other"}

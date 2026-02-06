@@ -1,0 +1,5 @@
+{"text":"Show me all doctors in the system","label":"data_retrieval"}
+{"text":"Update the phone number for this user","label":"data_modification"}
+{"text":"Summarize this long article","label":"summarization"}
+{"text":"Write a short product description","label":"generation"}
+{"text":"Hey there","label":"other"}

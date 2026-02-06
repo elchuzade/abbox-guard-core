@@ -1,0 +1,48 @@
+---
+
+# .gitignore
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Model artifacts (optional: keep or remove depending on repo size)
+intent_model/
+domain_model/
+out_intent/
+out_domain/
+
+# Hugging Face cache
+.cache/
+huggingface/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
