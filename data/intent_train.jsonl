@@ -5,12 +5,20 @@
 {"text":"Hello","label":"other"}
 {"text":"Hi there","label":"other"}
 {"text":"How are you?","label":"other"}
-{"text":"Good morning","label":"other"}
-{"text":"Tell me a joke","label":"other"}
-{"text":"Can you help me?","label":"other"}
 {"text":"Thanks","label":"other"}
 {"text":"Ok","label":"other"}
 {"text":"Nice work","label":"other"}
+{"text":"Write a welcome email for new users","label":"other"}
+{"text":"Generate a marketing slogan","label":"other"}
+{"text":"Create a job description for a frontend developer","label":"other"}
+{"text":"Draft a LinkedIn post about our product launch","label":"other"}
+{"text":"Write a short story for children","label":"other"}
+{"text":"Generate a press release","label":"other"}
+{"text":"Write an announcement email","label":"other"}
+{"text":"Generate sample interview questions","label":"other"}
+{"text":"Draft an internal memo","label":"other"}
+{"text":"Hello, how are you?","label":"other"}
+
 {"text":"List all employees hired last year","label":"read"}
 {"text":"Get customer records from the database","label":"read"}
 {"text":"Fetch user profiles with their roles","label":"read"}
@@ -34,6 +42,66 @@
 {"text":"Fetch staff directory","label":"read"}
 {"text":"Show me all user accounts","label":"read"}
 {"text":"Retrieve audit logs","label":"read"}
+{"text":"Summarize this privacy policy","label":"read"}
+{"text":"Condense this report into bullet points","label":"read"}
+{"text":"Summarize the meeting notes","label":"read"}
+{"text":"Provide a brief overview of this text","label":"read"}
+{"text":"Summarize this document","label":"read"}
+{"text":"Give me a summary of this report","label":"read"}
+{"text":"Condense this policy text","label":"read"}
+{"text":"Create a short summary of this email","label":"read"}
+{"text":"Summarize key points from this document","label":"read"}
+{"text":"TLDR this text","label":"read"}
+{"text":"Give me bullet points from this report","label":"read"}
+{"text":"Display salary increase statistics","label":"read"}
+{"text":"Show updated revenue report","label":"read"}
+{"text":"View changes in payroll over time","label":"read"}
+{"text":"Compare employee salaries year over year","label":"read"}
+{"text":"Show differences between last month and this month","label":"read"}
+{"text":"Get list of modified records","label":"read"}
+{"text":"Display recently updated invoices","label":"read"}
+{"text":"Show updated employee list","label":"read"}
+{"text":"View changes made last week","label":"read"}
+{"text":"Show how revenue has changed","label":"read"}
+{"text":"Display growth in customer numbers","label":"read"}
+{"text":"Show change in active users","label":"read"}
+{"text":"Get change history of transactions","label":"read"}
+{"text":"View audit trail of modifications","label":"read"}
+{"text":"Show salary changes by department","label":"read"}
+{"text":"Display payroll changes summary","label":"read"}
+{"text":"Show modification log","label":"read"}
+{"text":"View updated doctor schedules","label":"read"}
+{"text":"Show differences in account balances","label":"read"}
+{"text":"Display change trends in usage","label":"read"}
+{"text":"Show employee turnover changes","label":"read"}
+{"text":"Get revenue delta by region","label":"read"}
+{"text":"Show increase in signups","label":"read"}
+{"text":"Display change metrics","label":"read"}
+{"text":"Show updated compliance status","label":"read"}
+{"text":"View changed permissions report","label":"read"}
+{"text":"Show modification statistics","label":"read"}
+{"text":"Display salary variance report","label":"read"}
+{"text":"Show change breakdown","label":"read"}
+{"text":"View differences in payroll","label":"read"}
+{"text":"Show updated policy list","label":"read"}
+{"text":"Display changed invoice totals","label":"read"}
+{"text":"Show changes in employee count","label":"read"}
+{"text":"Get updated audit summary","label":"read"}
+{"text":"Display modification overview","label":"read"}
+{"text":"Show how salaries changed","label":"read"}
+{"text":"View historical changes","label":"read"}
+{"text":"Show updated metrics dashboard","label":"read"}
+{"text":"Display change analysis","label":"read"}
+{"text":"Show variance in revenue","label":"read"}
+{"text":"View updated records","label":"read"}
+{"text":"Show change report","label":"read"}
+{"text":"Display updated figures","label":"read"}
+{"text":"Show difference report","label":"read"}
+{"text":"View modified data summary","label":"read"}
+{"text":"Show change overview","label":"read"}
+{"text":"Display trends over time","label":"read"}
+{"text":"Show updated statistics","label":"read"}
+
 {"text":"Update the user's email address","label":"write"}
 {"text":"Delete this record from the system","label":"write"}
 {"text":"Remove phone number from the profile","label":"write"}
@@ -55,34 +123,50 @@
 {"text":"Update transaction status","label":"write"}
 {"text":"Change doctor availability","label":"write"}
 {"text":"Delete payroll record","label":"write"}
-{"text":"Summarize this privacy policy","label":"read"}
-{"text":"Condense this report into bullet points","label":"read"}
-{"text":"Summarize the meeting notes","label":"read"}
-{"text":"Provide a brief overview of this text","label":"read"}
-{"text":"Summarize this document","label":"read"}
-{"text":"Give me a summary of this report","label":"read"}
-{"text":"Summarize the meeting notes","label":"read"}
-{"text":"Condense this policy text","label":"read"}
-{"text":"Create a short summary of this email","label":"read"}
-{"text":"Summarize key points from this document","label":"read"}
-{"text":"TLDR this text","label":"read"}
-{"text":"Give me bullet points from this report","label":"read"}
-{"text":"Write a welcome email for new users","label":"other"}
-{"text":"Generate a marketing slogan","label":"other"}
-{"text":"Create a job description for a frontend developer","label":"other"}
-{"text":"Draft a LinkedIn post about our product launch","label":"other"}
-{"text":"Write a short story for children","label":"other"}
-{"text":"Generate a press release","label":"other"}
-{"text":"Write an announcement email","label":"other"}
-{"text":"Generate sample interview questions","label":"other"}
-{"text":"Draft an internal memo","label":"other"}
-{"text":"Hello, how are you?","label":"other"}
-{"text":"What do you think about AI?","label":"other"}
-{"text":"Tell me a joke","label":"other"}
-{"text":"Good morning","label":"other"}
-{"text":"Can you help me?","label":"other"}
-{"text":"Hello","label":"other"}
-{"text":"Hi there","label":"other"}
-{"text":"Thanks","label":"other"}
-{"text":"Ok","label":"other"}
-{"text":"Nice work","label":"other"}
+{"text":"Change employee salary","label":"write"}
+{"text":"Update revenue value","label":"write"}
+{"text":"Modify payroll record","label":"write"}
+{"text":"Set salary to new value","label":"write"}
+{"text":"Edit employee information","label":"write"}
+{"text":"Adjust salary for employee","label":"write"}
+{"text":"Update doctor contact details","label":"write"}
+{"text":"Remove phone number","label":"write"}
+{"text":"Delete employee record","label":"write"}
+{"text":"Change payroll data","label":"write"}
+{"text":"Set account status","label":"write"}
+{"text":"Modify transaction value","label":"write"}
+{"text":"Update address field","label":"write"}
+{"text":"Change user role","label":"write"}
+{"text":"Edit customer profile","label":"write"}
+{"text":"Reset account password","label":"write"}
+{"text":"Remove email address","label":"write"}
+{"text":"Update system configuration","label":"write"}
+{"text":"Delete invoice","label":"write"}
+{"text":"Update salary record","label":"write"}
+{"text":"Modify user permissions","label":"write"}
+{"text":"Deactivate account","label":"write"}
+{"text":"Change payroll entry","label":"write"}
+{"text":"Insert new employee","label":"write"}
+{"text":"Remove customer record","label":"write"}
+{"text":"Update payment status","label":"write"}
+{"text":"Change invoice total","label":"write"}
+{"text":"Edit transaction data","label":"write"}
+{"text":"Set revenue number","label":"write"}
+{"text":"Correct payroll mistake","label":"write"}
+{"text":"Modify employee role","label":"write"}
+{"text":"Change department assignment","label":"write"}
+{"text":"Update audit configuration","label":"write"}
+{"text":"Remove user access","label":"write"}
+{"text":"Change employee status","label":"write"}
+{"text":"Update doctor profile","label":"write"}
+{"text":"Delete payroll entry","label":"write"}
+{"text":"Edit invoice","label":"write"}
+{"text":"Modify salary amount","label":"write"}
+{"text":"Change contact information","label":"write"}
+{"text":"Update customer address","label":"write"}
+{"text":"Remove transaction","label":"write"}
+{"text":"Set employee inactive","label":"write"}
+{"text":"Edit compliance settings","label":"write"}
+{"text":"Change billing information","label":"write"}
+{"text":"Update system values","label":"write"}
+{"text":"Modify stored data","label":"write"}
