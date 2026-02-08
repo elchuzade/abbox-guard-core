@@ -22,5 +22,15 @@ def predict_granularity(text: str):
     }
 
 if __name__ == "__main__":
-    print(predict_granularity("Show average salary by team"))
-    print(predict_granularity("List employees with emails"))
+    # 3 prompts per granularity label, not seen in granularity_train.jsonl or granularity_valid.jsonl
+    tests = [
+        ("aggregate", "What is the average deal size by sales region?"),
+        ("aggregate", "Show the total number of active sessions per hour."),
+        ("aggregate", "Give me the breakdown of expenses by cost center."),
+        ("record_level", "Show me the full record for visit ID 8821."),
+        ("record_level", "List all consultants in the Boston office with their emails."),
+        ("record_level", "Get the detailed profile for appointment with ID A-334."),
+    ]
+    for expected, prompt in tests:
+        result = predict_granularity(prompt)
+        print(f"{expected}: {prompt!r} -> {result}")
