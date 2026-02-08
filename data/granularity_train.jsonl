@@ -38,6 +38,201 @@
 {"text":"Show error rate by service","label":"aggregate"}
 {"text":"Show requests per minute by endpoint","label":"aggregate"}
 {"text":"Show average latency by endpoint","label":"aggregate"}
+{"text": "Calculate the average bonus percentage by department", "label": "aggregate"}
+{"text": "What is the total headcount growth since January?", "label": "aggregate"}
+{"text": "Show me the distribution of employee ratings for the last cycle", "label": "aggregate"}
+{"text": "Summarize the total tax withheld by state", "label": "aggregate"}
+{"text": "What is the median tenure of the engineering team?", "label": "aggregate"}
+{"text": "Show a month-over-month comparison of total operating costs", "label": "aggregate"}
+{"text": "Count the number of open tickets per priority level", "label": "aggregate"}
+{"text": "What is the percentage of female leadership in the company?", "label": "aggregate"}
+{"text": "Show the average time it takes to resolve a high-priority bug", "label": "aggregate"}
+{"text": "Sum the total insurance claims paid out this quarter", "label": "aggregate"}
+{"text": "What is the ratio of billable to non-billable hours?", "label": "aggregate"}
+{"text": "Show the average patient wait time per clinic location", "label": "aggregate"}
+{"text": "Give me the total sales volume by region", "label": "aggregate"}
+{"text": "What is the churn rate for subscription tier A?", "label": "aggregate"}
+{"text": "Show the trend of server uptime over the last 30 days", "label": "aggregate"}
+{"text": "Calculate the average revenue per user (ARPU)", "label": "aggregate"}
+{"text": "What is the total value of assets currently in inventory?", "label": "aggregate"}
+{"text": "Show the percentage of invoices paid within 30 days", "label": "aggregate"}
+{"text": "Count the number of patient readmissions by specialty", "label": "aggregate"}
+{"text": "What is the average discount applied to sales last month?", "label": "aggregate"}
+{"text": "Show the frequency of login failures by hour", "label": "aggregate"}
+{"text": "Calculate the year-to-date total for employee travel expenses", "label": "aggregate"}
+{"text": "What is the average salary of remote workers vs onsite workers?", "label": "aggregate"}
+{"text": "Show the distribution of age across our patient database", "label": "aggregate"}
+{"text": "Summarize total commissions earned per sales rep", "label": "aggregate"}
+{"text": "Show the average number of appointments per doctor per week", "label": "aggregate"}
+{"text": "What is the success rate of the current marketing campaign?", "label": "aggregate"}
+{"text": "Count the total number of prescriptions filled by category", "label": "aggregate"}
+{"text": "Show the trend of cost-per-hire over the last 3 years", "label": "aggregate"}
+{"text": "What is the average transaction value for international orders?", "label": "aggregate"}
+{"text": "Show the percentage of customers who used a promo code", "label": "aggregate"}
+{"text": "Summarize the total hours worked by department", "label": "aggregate"}
+{"text": "What is the average performance score for new hires?", "label": "aggregate"}
+{"text": "Show the trend of patient cancellations by month", "label": "aggregate"}
+{"text": "Count how many users are active versus inactive", "label": "aggregate"}
+{"text": "What is the total value of pending purchase orders?", "label": "aggregate"}
+{"text": "Show the distribution of salaries in $10k increments", "label": "aggregate"}
+{"text": "Calculate the profit margin for each product category", "label": "aggregate"}
+{"text": "What is the average response time for helpdesk emails?", "label": "aggregate"}
+{"text": "Show the total number of medical procedures by type", "label": "aggregate"}
+{"text": "Summarize total 401k contributions by office location", "label": "aggregate"}
+{"text": "What is the average length of stay for hospital patients?", "label": "aggregate"}
+{"text": "Show the percentage of total spend going to top 3 vendors", "label": "aggregate"}
+{"text": "Count employees by their highest degree earned", "label": "aggregate"}
+{"text": "What is the trend of cloud infrastructure costs per month?", "label": "aggregate"}
+{"text": "Show the average customer lifetime value by segment", "label": "aggregate"}
+{"text": "Summarize total patient billing by insurance provider", "label": "aggregate"}
+{"text": "What is the average number of sick days taken per team?", "label": "aggregate"}
+{"text": "Show the distribution of order processing times", "label": "aggregate"}
+{"text": "Count how many employees are eligible for retirement", "label": "aggregate"}
+{"text": "What is the average cost of maintenance per facility?", "label": "aggregate"}
+{"text": "Show the conversion rate trend for the checkout page", "label": "aggregate"}
+{"text": "Summarize total debt-to-equity ratio by quarter", "label": "aggregate"}
+{"text": "What is the average click-through rate for the newsletter?", "label": "aggregate"}
+{"text": "Show the distribution of patient satisfaction scores", "label": "aggregate"}
+{"text": "Count total security incidents by severity", "label": "aggregate"}
+{"text": "What is the average turnaround time for lab results?", "label": "aggregate"}
+{"text": "Show the percentage of payroll that is overtime pay", "label": "aggregate"}
+{"text": "Summarize total sales by lead source", "label": "aggregate"}
+{"text": "What is the average training cost per employee?", "label": "aggregate"}
+{"text": "Show the trend of inventory turnover rate", "label": "aggregate"}
+{"text": "Count the number of active projects per manager", "label": "aggregate"}
+{"text": "What is the average salary increase given this year?", "label": "aggregate"}
+{"text": "Show the percentage of patients with complete records", "label": "aggregate"}
+{"text": "Summarize total bank fees by month", "label": "aggregate"}
+{"text": "What is the average age of a physical asset in the company?", "label": "aggregate"}
+{"text": "Show the trend of email bounce rates", "label": "aggregate"}
+{"text": "Count the number of new leads per day", "label": "aggregate"}
+{"text": "What is the average dollar value of a refund?", "label": "aggregate"}
+{"text": "Show the distribution of employee commute distances", "label": "aggregate"}
+{"text": "Summarize total revenue per square foot of retail space", "label": "aggregate"}
+{"text": "What is the average number of dependents per employee?", "label": "aggregate"}
+{"text": "Show the percentage of recurring revenue vs one-time sales", "label": "aggregate"}
+{"text": "Count how many doctors are currently on leave", "label": "aggregate"}
+{"text": "What is the average time to approve an expense report?", "label": "aggregate"}
+{"text": "Show the trend of social media mentions by month", "label": "aggregate"}
+{"text": "Summarize total energy consumption by building", "label": "aggregate"}
+{"text": "What is the average discount given by the top sales rep?", "label": "aggregate"}
+{"text": "Show the distribution of support ticket resolution times", "label": "aggregate"}
+{"text": "Count the number of patients seen per hour", "label": "aggregate"}
+{"text": "What is the average cost of a surgical kit?", "label": "aggregate"}
+{"text": "Show the percentage of employees with over 5 years tenure", "label": "aggregate"}
+{"text": "Summarize total dividends paid per shareholder", "label": "aggregate"}
+{"text": "What is the average page load time by country?", "label": "aggregate"}
+{"text": "Show the trend of cash-on-hand over the last year", "label": "aggregate"}
+{"text": "Count the total number of active insurance policies", "label": "aggregate"}
+{"text": "What is the average size of a data packet on the network?", "label": "aggregate"}
+{"text": "Show the percentage of orders that are gifts", "label": "aggregate"}
+{"text": "Summarize total travel mileage by department", "label": "aggregate"}
+{"text": "What is the average number of items per transaction?", "label": "aggregate"}
+{"text": "Show the distribution of employees by their primary skill", "label": "aggregate"}
+{"text": "Count the number of open positions by job level", "label": "aggregate"}
+{"text": "What is the average vacancy period for a role?", "label": "aggregate"}
+{"text": "Show the trend of net promoter score (NPS)", "label": "aggregate"}
+{"text": "Summarize total scrap value from the manufacturing line", "label": "aggregate"}
+{"text": "What is the average recovery time for system outages?", "label": "aggregate"}
+{"text": "Show the percentage of mobile vs desktop traffic", "label": "aggregate"}
+{"text": "Count the number of patients by blood type", "label": "aggregate"}
+{"text": "What is the average shipping cost for domestic orders?", "label": "aggregate"}
+{"text": "Show the distribution of employees by their office floor", "label": "aggregate"}
+{"text": "Summarize total liability by insurance category", "label": "aggregate"}
+{"text": "What is the average number of login sessions per user?", "label": "aggregate"}
+{"text": "Show the trend of pharmacy inventory waste", "label": "aggregate"}
+{"text": "Count the number of followers by social platform", "label": "aggregate"}
+{"text": "What is the average price of a unit sold?", "label": "aggregate"}
+{"text": "Show the percentage of users who finished onboarding", "label": "aggregate"}
+{"text": "Summarize total carbon footprint by department", "label": "aggregate"}
+{"text": "What is the average frequency of customer visits?", "label": "aggregate"}
+{"text": "Show the distribution of patient BMI scores", "label": "aggregate"}
+{"text": "Count the number of software licenses in use", "label": "aggregate"}
+{"text": "What is the average time a lead stays in the 'Warm' stage?", "label": "aggregate"}
+{"text": "Show the trend of employee turnover in the first 90 days", "label": "aggregate"}
+{"text": "Summarize total late fees collected by month", "label": "aggregate"}
+{"text": "What is the average amount of a corporate donation?", "label": "aggregate"}
+{"text": "Show the distribution of ticket sales by venue", "label": "aggregate"}
+{"text": "Count how many employees have a company-issued phone", "label": "aggregate"}
+{"text": "What is the average tax rate across all international entities?", "label": "aggregate"}
+{"text": "Show the percentage of work hours spent in meetings", "label": "aggregate"}
+{"text": "Summarize total cost of goods sold (COGS) by month", "label": "aggregate"}
+{"text": "What is the average weight of a shipped package?", "label": "aggregate"}
+{"text": "Show the distribution of employees by language proficiency", "label": "aggregate"}
+{"text": "Count the number of active vendors in the APAC region", "label": "aggregate"}
+{"text": "What is the average referral bonus paid out?", "label": "aggregate"}
+{"text": "Show the trend of website downtime", "label": "aggregate"}
+{"text": "Summarize total water usage by facility", "label": "aggregate"}
+{"text": "What is the average duration of a support phone call?", "label": "aggregate"}
+{"text": "Show the distribution of students by grade level", "label": "aggregate"}
+{"text": "Count the number of prescriptions per pharmacy", "label": "aggregate"}
+{"text": "What is the average tenure of a client?", "label": "aggregate"}
+{"text": "Show the percentage of leads converted into deals", "label": "aggregate"}
+{"text": "Summarize total petty cash spend", "label": "aggregate"}
+{"text": "What is the average frequency of system updates?", "label": "aggregate"}
+{"text": "Show the distribution of customer age in the loyalty program", "label": "aggregate"}
+{"text": "Count total active developers by programming language", "label": "aggregate"}
+{"text": "What is the average score on the annual safety audit?", "label": "aggregate"}
+{"text": "Show the trend of app downloads month over month", "label": "aggregate"}
+{"text": "Summarize total legal fees by case type", "label": "aggregate"}
+{"text": "What is the average conversion value of a Facebook ad?", "label": "aggregate"}
+{"text": "Show the distribution of employees by birth month", "label": "aggregate"}
+{"text": "Count the number of patient visits for physical therapy", "label": "aggregate"}
+{"text": "What is the average cost of a data breach?", "label": "aggregate"}
+{"text": "Show the percentage of recurring vs one-time revenue", "label": "aggregate"}
+{"text": "Summarize total maintenance hours for the fleet", "label": "aggregate"}
+{"text": "What is the average price of a service contract?", "label": "aggregate"}
+{"text": "Show the distribution of survey respondents by location", "label": "aggregate"}
+{"text": "Count the number of active contracts per salesperson", "label": "aggregate"}
+{"text": "What is the average amount of storage used per user?", "label": "aggregate"}
+{"text": "Show the trend of interest rates on business loans", "label": "aggregate"}
+{"text": "Summarize total postage costs by month", "label": "aggregate"}
+{"text": "What is the average response time for a feature request?", "label": "aggregate"}
+{"text": "Show the distribution of employee stock options by level", "label": "aggregate"}
+{"text": "Count total number of active trials for the software", "label": "aggregate"}
+{"text": "What is the average cost of electricity per square foot?", "label": "aggregate"}
+{"text": "Show the percentage of employees with a master's degree", "label": "aggregate"}
+{"text": "Summarize total overtime pay for the nursing staff", "label": "aggregate"}
+{"text": "What is the average life cycle of a workstation?", "label": "aggregate"}
+{"text": "Show the distribution of sales by time of day", "label": "aggregate"}
+{"text": "Count how many patients have a primary care physician assigned", "label": "aggregate"}
+{"text": "What is the average value of a lost lead?", "label": "aggregate"}
+{"text": "Show the trend of customer complaints per thousand orders", "label": "aggregate"}
+{"text": "Summarize total software licensing fees by year", "label": "aggregate"}
+{"text": "What is the average number of training hours per month?", "label": "aggregate"}
+{"text": "Show the distribution of employees by their commute mode", "label": "aggregate"}
+{"text": "Count the number of active subscriptions per user", "label": "aggregate"}
+{"text": "What is the average salary for the 'Manager' job title?", "label": "aggregate"}
+{"text": "Show the trend of raw material price index", "label": "aggregate"}
+{"text": "Summarize total lunch expenses for the office", "label": "aggregate"}
+{"text": "What is the average number of pages in a medical chart?", "label": "aggregate"}
+{"text": "Show the distribution of users by their device OS", "label": "aggregate"}
+{"text": "Count the number of doctors who have a medical license in CA", "label": "aggregate"}
+{"text": "What is the average growth rate of the marketing list?", "label": "aggregate"}
+{"text": "Show the percentage of helpdesk tickets solved on first contact", "label": "aggregate"}
+{"text": "Summarize total freight costs by carrier", "label": "aggregate"}
+{"text": "What is the average cost of a coffee for the breakroom?", "label": "aggregate"}
+{"text": "Show the distribution of employees by their personality type", "label": "aggregate"}
+{"text": "Count how many invoices are currently in 'Review' status", "label": "aggregate"}
+{"text": "What is the average lead time for a custom order?", "label": "aggregate"}
+{"text": "Show the trend of employee sick leave during flu season", "label": "aggregate"}
+{"text": "Summarize total training hours for the HR team", "label": "aggregate"}
+{"text": "What is the average amount of bandwidth used by the guest network?", "label": "aggregate"}
+{"text": "Show the distribution of patients by their height", "label": "aggregate"}
+{"text": "Count the number of active VPN users by region", "label": "aggregate"}
+{"text": "What is the average duration of a board meeting?", "label": "aggregate"}
+{"text": "Show the percentage of revenue from international clients", "label": "aggregate"}
+{"text": "Summarize total dollar value of gift cards sold", "label": "aggregate"}
+{"text": "What is the average number of revisions for a design project?", "label": "aggregate"}
+{"text": "Show the distribution of employees by the year they were hired", "label": "aggregate"}
+{"text": "Count total number of prescriptions per medication type", "label": "aggregate"}
+{"text": "What is the average cost of recruiting a software engineer?", "label": "aggregate"}
+{"text": "Show the trend of hospital bed occupancy rates", "label": "aggregate"}
+{"text": "Summarize total security patch installations by week", "label": "aggregate"}
+{"text": "What is the average number of mentions per influencer?", "label": "aggregate"}
+{"text": "Show the distribution of users by their session length", "label": "aggregate"}
+{"text": "Count how many employees are currently working overtime", "label": "aggregate"}
+{"text": "What is the average return on investment for the R&D lab?", "label": "aggregate"}
 
 {"text":"Show me all employees with full info","label":"record_level"}
 {"text":"List employee names and emails","label":"record_level"}
@@ -79,3 +274,201 @@
 {"text":"Show all user profiles including phone numbers","label":"record_level"}
 {"text":"List all customers who purchased last week with names","label":"record_level"}
 {"text":"Show the full details of the last 10 invoices","label":"record_level"}
+{"text": "Show me the full profile for Dr. Alice Thompson", "label": "record_level"}
+{"text": "List all employees in the Finance department and their salaries", "label": "record_level"}
+{"text": "Show me the detailed record for transaction #TX-55412", "label": "record_level"}
+{"text": "Get the contact details for every customer in Germany", "label": "record_level"}
+{"text": "Show me the raw invoice data for all unpaid bills", "label": "record_level"}
+{"text": "List every patient who visited the clinic yesterday", "label": "record_level"}
+{"text": "Get the full account details for user 'tech_admin'", "label": "record_level"}
+{"text": "Show me all fields for the last 5 hires", "label": "record_level"}
+{"text": "List all doctors and their office suite numbers", "label": "record_level"}
+{"text": "Get the medical history notes for patient #12998", "label": "record_level"}
+{"text": "Show me the row for employee Sarah Miller", "label": "record_level"}
+{"text": "List all transactions exceeding $1,000 with details", "label": "record_level"}
+{"text": "Show me the employee ID, name, and address for all staff", "label": "record_level"}
+{"text": "Get the detailed line items for invoice #INV-2024-001", "label": "record_level"}
+{"text": "Show me the contact information for vendor 'Global Supplies'", "label": "record_level"}
+{"text": "List all users who have 'Admin' access level", "label": "record_level"}
+{"text": "Show the full bio for every doctor in the Cardiology wing", "label": "record_level"}
+{"text": "Get the raw data for all orders placed on Black Friday", "label": "record_level"}
+{"text": "Show me the performance review text for employee #505", "label": "record_level"}
+{"text": "List every employee who has a birthday today", "label": "record_level"}
+{"text": "Show me the details of the most recent security alert", "label": "record_level"}
+{"text": "Get the personal email and home phone for John Doe", "label": "record_level"}
+{"text": "Show me all patient records with a 'Critical' flag", "label": "record_level"}
+{"text": "List all employees with their hire date and manager name", "label": "record_level"}
+{"text": "Show me the raw log for user 'j.smith' activity", "label": "record_level"}
+{"text": "Get the full bank details for the payroll account", "label": "record_level"}
+{"text": "Show me every line in the transaction log for yesterday", "label": "record_level"}
+{"text": "List all customers who have a credit balance", "label": "record_level"}
+{"text": "Show me the full record for patient 'Robert Williams'", "label": "record_level"}
+{"text": "Get the detailed profile for clinical trial participant #99", "label": "record_level"}
+{"text": "Show me the hire letter for employee #332", "label": "record_level"}
+{"text": "List all patients currently in the ICU with their room numbers", "label": "record_level"}
+{"text": "Show me the raw rows for the travel expense table", "label": "record_level"}
+{"text": "Get the contact info for all doctors in the network", "label": "record_level"}
+{"text": "Show me the details of invoice #8872 including tax and shipping", "label": "record_level"}
+{"text": "List every employee who works remotely in Texas", "label": "record_level"}
+{"text": "Show me the account profile for vendor 'Apex Logistics'", "label": "record_level"}
+{"text": "Get the individual ratings for employee Jane Watson", "label": "record_level"}
+{"text": "Show me the full history of medical notes for patient #443", "label": "record_level"}
+{"text": "List every transaction that was refunded last month", "label": "record_level"}
+{"text": "Show me all employees who have 'Senior' in their title", "label": "record_level"}
+{"text": "Get the full metadata for the database table 'Employees'", "label": "record_level"}
+{"text": "Show me the row for the transaction with ID 'ABC-123'", "label": "record_level"}
+{"text": "List all users and their last 5 login timestamps", "label": "record_level"}
+{"text": "Show me every customer profile with an active subscription", "label": "record_level"}
+{"text": "Get the detailed breakdown of charges for patient #776", "label": "record_level"}
+{"text": "Show me the record for the doctor with NPI number 1234567890", "label": "record_level"}
+{"text": "List all employees who are on the safety committee", "label": "record_level"}
+{"text": "Show me the raw data for the marketing email list", "label": "record_level"}
+{"text": "Get the full profile for vendor contact 'Mary Brown'", "label": "record_level"}
+{"text": "Show me the detailed record for appointment #APPT-100", "label": "record_level"}
+{"text": "List every employee and their primary workstation ID", "label": "record_level"}
+{"text": "Show me the full text of the latest performance review for employee #22", "label": "record_level"}
+{"text": "Get the contact details for the emergency contact of employee #10", "label": "record_level"}
+{"text": "Show me every transaction that occurred in the last hour", "label": "record_level"}
+{"text": "List all patients with a pending insurance claim", "label": "record_level"}
+{"text": "Show me the record for the employee who was hired today", "label": "record_level"}
+{"text": "Get the full profile for doctor #D-505", "label": "record_level"}
+{"text": "Show me every row from the 'Invoices' table for the year 2023", "label": "record_level"}
+{"text": "List all users who have changed their password today", "label": "record_level"}
+{"text": "Show me the full profile for patient 'Emily Davis'", "label": "record_level"}
+{"text": "Get the detailed transaction history for customer #552", "label": "record_level"}
+{"text": "Show me the raw rows from the 'Salary' table", "label": "record_level"}
+{"text": "List every doctor who has a specialty in 'Oncology'", "label": "record_level"}
+{"text": "Show me the detailed record for the last shipment", "label": "record_level"}
+{"text": "Get the full account details for user #8832", "label": "record_level"}
+{"text": "Show me every employee who has a 'Masters' degree", "label": "record_level"}
+{"text": "List all transactions that are currently in a 'Pending' state", "label": "record_level"}
+{"text": "Show me the full profile for customer 'Apex Corp'", "label": "record_level"}
+{"text": "Get the detailed medical record for patient with SSN xxx-xx-xxxx", "label": "record_level"}
+{"text": "Show me every row in the 'Attendance' table for employee #15", "label": "record_level"}
+{"text": "List all users who have an 'Editor' role", "label": "record_level"}
+{"text": "Show me the full record for the doctor with ID #441", "label": "record_level"}
+{"text": "Get the detailed profile for employee 'Michael Ross'", "label": "record_level"}
+{"text": "Show me every transaction that was made with a credit card", "label": "record_level"}
+{"text": "List all patients who have an upcoming appointment", "label": "record_level"}
+{"text": "Show me the full record for invoice with ID #INV-999", "label": "record_level"}
+{"text": "Get the detailed profile for doctor 'Sarah Jenkins'", "label": "record_level"}
+{"text": "Show me every row from the 'Feedback' table", "label": "record_level"}
+{"text": "List all users who have not logged in for over 30 days", "label": "record_level"}
+{"text": "Show me the full record for patient with ID #P-123", "label": "record_level"}
+{"text": "Get the detailed profile for employee 'Jane Doe'", "label": "record_level"}
+{"text": "Show me every transaction that was made in 'USD'", "label": "record_level"}
+{"text": "List all patients who have a 'Chronic' condition", "label": "record_level"}
+{"text": "Show me the full record for the doctor with name 'Dr. Bob'", "label": "record_level"}
+{"text": "Get the detailed profile for customer #C-771", "label": "record_level"}
+{"text": "Show me every row from the 'Inventory' table", "label": "record_level"}
+{"text": "List all users who have an 'Admin' role", "label": "record_level"}
+{"text": "Show me the full record for employee with email 'test@test.com'", "label": "record_level"}
+{"text": "Get the detailed profile for patient 'John Smith'", "label": "record_level"}
+{"text": "Show me every transaction that was made yesterday", "label": "record_level"}
+{"text": "List all patients who have a 'Normal' status", "label": "record_level"}
+{"text": "Show me the full record for the doctor with specialty 'Pediatrics'", "label": "record_level"}
+{"text": "Get the detailed profile for customer with name 'Test Customer'", "label": "record_level"}
+{"text": "Show me every row from the 'Users' table", "label": "record_level"}
+{"text": "List all users who have a 'User' role", "label": "record_level"}
+{"text": "Show me the full record for employee with name 'Jane Doe'", "label": "record_level"}
+{"text": "Get the detailed profile for patient with email 'p@p.com'", "label": "record_level"}
+{"text": "Show me every transaction that was made today", "label": "record_level"}
+{"text": "List all patients who have a 'High' risk level", "label": "record_level"}
+{"text": "Show me the full record for the doctor with phone number '555-1234'", "label": "record_level"}
+{"text": "Get the detailed profile for customer with email 'c@c.com'", "label": "record_level"}
+{"text": "Show me every row from the 'Customers' table", "label": "record_level"}
+{"text": "List all users who have a 'Manager' role", "label": "record_level"}
+{"text": "Show me the full record for employee with phone number '555-5678'", "label": "record_level"}
+{"text": "Get the detailed profile for patient with name 'Jane Smith'", "label": "record_level"}
+{"text": "Show me every transaction that was made in 'EUR'", "label": "record_level"}
+{"text": "List all patients who have a 'Medium' risk level", "label": "record_level"}
+{"text": "Show me the full record for the doctor with email 'd@d.com'", "label": "record_level"}
+{"text": "Get the detailed profile for customer with phone number '555-4321'", "label": "record_level"}
+{"text": "Show me every row from the 'Transactions' table", "label": "record_level"}
+{"text": "List all users who have a 'Staff' role", "label": "record_level"}
+{"text": "Show me the full record for employee with ID #12345", "label": "record_level"}
+{"text": "Get the detailed profile for patient with ID #98765", "label": "record_level"}
+{"text": "Show me every transaction that was made by 'Alice'", "label": "record_level"}
+{"text": "List all patients who have a 'Low' risk level", "label": "record_level"}
+{"text": "Show me the full record for the doctor with ID #54321", "label": "record_level"}
+{"text": "Get the detailed profile for customer with ID #67890", "label": "record_level"}
+{"text": "Show me every row from the 'Logs' table", "label": "record_level"}
+{"text": "List all users who have a 'Superadmin' role", "label": "record_level"}
+{"text": "Show me the full record for employee with last name 'Smith'", "label": "record_level"}
+{"text": "Get the detailed profile for patient with last name 'Doe'", "label": "record_level"}
+{"text": "Show me every transaction that was made for amount '100.00'", "label": "record_level"}
+{"text": "List all patients who have a 'Stable' condition", "label": "record_level"}
+{"text": "Show me the full record for the doctor with last name 'Miller'", "label": "record_level"}
+{"text": "Get the detailed profile for customer with last name 'Jones'", "label": "record_level"}
+{"text": "Show me every row from the 'Profiles' table", "label": "record_level"}
+{"text": "List all users who have a 'Developer' role", "label": "record_level"}
+{"text": "Show me the full record for employee with first name 'John'", "label": "record_level"}
+{"text": "Get the detailed profile for patient with first name 'Jane'", "label": "record_level"}
+{"text": "Show me every transaction that was made on '2023-01-01'", "label": "record_level"}
+{"text": "List all patients who have a 'Healthy' status", "label": "record_level"}
+{"text": "Show me the full record for the doctor with first name 'Alice'", "label": "record_level"}
+{"text": "Get the detailed profile for customer with first name 'Bob'", "label": "record_level"}
+{"text": "Show me every row from the 'Invoices' table", "label": "record_level"}
+{"text": "List all users who have a 'Guest' role", "label": "record_level"}
+{"text": "Show me the full record for employee with address '123 Main St'", "label": "record_level"}
+{"text": "Get the detailed profile for patient with address '456 Elm St'", "label": "record_level"}
+{"text": "Show me every transaction that was made by customer 'C-1'", "label": "record_level"}
+{"text": "List all patients who have a 'Sick' status", "label": "record_level"}
+{"text": "Show me the full record for the doctor with address '789 Oak St'", "label": "record_level"}
+{"text": "Get the detailed profile for customer with address '321 Pine St'", "label": "record_level"}
+{"text": "Show me every row from the 'Appointments' table", "label": "record_level"}
+{"text": "List all users who have a 'Viewer' role", "label": "record_level"}
+{"text": "Show me the full record for employee with hire date '2020-01-01'", "label": "record_level"}
+{"text": "Get the detailed profile for patient with birth date '1990-01-01'", "label": "record_level"}
+{"text": "Show me every transaction that was made for category 'Food'", "label": "record_level"}
+{"text": "List all patients who have a 'Recovered' status", "label": "record_level"}
+{"text": "Show me the full record for the doctor with hire date '2015-01-01'", "label": "record_level"}
+{"text": "Get the detailed profile for customer with join date '2022-01-01'", "label": "record_level"}
+{"text": "Show me every row from the 'Doctors' table", "label": "record_level"}
+{"text": "List all users who have a 'Support' role", "label": "record_level"}
+{"text": "Show me the full record for employee with department 'HR'", "label": "record_level"}
+{"text": "Get the detailed profile for patient with doctor 'Dr. Alice'", "label": "record_level"}
+{"text": "Show me every transaction that was made for office 'New York'", "label": "record_level"}
+{"text": "List all patients who have a 'Critical' condition", "label": "record_level"}
+{"text": "Show me the full record for the doctor with department 'ER'", "label": "record_level"}
+{"text": "Get the detailed profile for customer with segment 'Enterprise'", "label": "record_level"}
+{"text": "Show me every row from the 'Employees' table", "label": "record_level"}
+{"text": "List all users who have a 'Sales' role", "label": "record_level"}
+{"text": "Show me the full record for employee with title 'Engineer'", "label": "record_level"}
+{"text": "Get the detailed profile for patient with status 'Active'", "label": "record_level"}
+{"text": "Show me every transaction that was made by user 'User-1'", "label": "record_level"}
+{"text": "List all patients who have a 'Frail' status", "label": "record_level"}
+{"text": "Show me the full record for the doctor with title 'Surgeon'", "label": "record_level"}
+{"text": "Get the detailed profile for customer with status 'Gold'", "label": "record_level"}
+{"text": "Show me every row from the 'Records' table", "label": "record_level"}
+{"text": "List all users who have an 'Analyst' role", "label": "record_level"}
+{"text": "Show me the full record for employee with manager 'Manager-1'", "label": "record_level"}
+{"text": "Get the detailed profile for patient with room '101'", "label": "record_level"}
+{"text": "Show me every transaction that was made for amount '500.00'", "label": "record_level"}
+{"text": "List all patients who have a 'Weak' status", "label": "record_level"}
+{"text": "Show me the full record for the doctor with manager 'Chief-1'", "label": "record_level"}
+{"text": "Get the detailed profile for customer with priority 'High'", "label": "record_level"}
+{"text": "Show me every row from the 'Settings' table", "label": "record_level"}
+{"text": "List all users who have a 'Contributor' role", "label": "record_level"}
+{"text": "Show me the full record for employee with salary '75000'", "label": "record_level"}
+{"text": "Get the detailed profile for patient with age '30'", "label": "record_level"}
+{"text": "Show me every transaction that was made for channel 'Online'", "label": "record_level"}
+{"text": "List all patients who have a 'Improving' status", "label": "record_level"}
+{"text": "Show me the full record for the doctor with salary '200000'", "label": "record_level"}
+{"text": "Get the detailed profile for customer with location 'London'", "label": "record_level"}
+{"text": "Show me every row from the 'Schedules' table", "label": "record_level"}
+{"text": "List all users who have a 'Lead' role", "label": "record_level"}
+{"text": "Show me the full record for employee with bonus '5000'", "label": "record_level"}
+{"text": "Get the detailed profile for patient with height '180cm'", "label": "record_level"}
+{"text": "Show me every transaction that was made for region 'APAC'", "label": "record_level"}
+{"text": "List all patients who have a 'Deteriorating' status", "label": "record_level"}
+{"text": "Show me the full record for the doctor with bonus '20000'", "label": "record_level"}
+{"text": "Get the detailed profile for customer with loyalty 'Platinum'", "label": "record_level"}
+{"text": "Show me every row from the 'Applications' table", "label": "record_level"}
+{"text": "List all users who have a 'Junior' role", "label": "record_level"}
+{"text": "Show me the full record for employee with office 'Chicago'", "label": "record_level"}
+{"text": "Get the detailed profile for patient with weight '70kg'", "label": "record_level"}
+{"text": "Show me every transaction that was made for date '2023-12-31'", "label": "record_level"}
+{"text": "List all patients who have a 'Stable' status", "label": "record_level"}
+{"text": "Show me the full record for the doctor with office 'Miami'", "label": "record_level"}
+{"text": "Get the detailed profile for customer with tier 'Silver'", "label": "record_level"}
