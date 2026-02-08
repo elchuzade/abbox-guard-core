@@ -4,6 +4,136 @@
 {"text": "show payroll information", "label": "hr"}
 {"text": "show me employee information", "label": "hr"}
 {"text": "get employee contact details", "label": "hr"}
+{"text": "What is the current headcount for the engineering department?", "label": "hr"}
+{"text": "Retrieve the onboarding checklist for the new hire.", "label": "hr"}
+{"text": "Show me the performance review scores for Q4.", "label": "hr"}
+{"text": "List all employees currently on maternity leave.", "label": "hr"}
+{"text": "Get the emergency contact info for Sarah Jenkins.", "label": "hr"}
+{"text": "Display the salary history for the marketing manager.", "label": "hr"}
+{"text": "Who is the primary supervisor for the junior developers?", "label": "hr"}
+{"text": "Show me the vacation balance for the sales team.", "label": "hr"}
+{"text": "Retrieve the signed employment contract for Michael Ross.", "label": "hr"}
+{"text": "List staff members who are eligible for the 10-year anniversary award.", "label": "hr"}
+{"text": "Show me the diversity and inclusion metrics for this year.", "label": "hr"}
+{"text": "Get a list of all part-time employees in the London office.", "label": "hr"}
+{"text": "Display the benefits enrollment status for the design team.", "label": "hr"}
+{"text": "Show me the training completion records for the safety course.", "label": "hr"}
+{"text": "Retrieve the background check results for the pending candidates.", "label": "hr"}
+{"text": "What are the current job descriptions for the executive roles?", "label": "hr"}
+{"text": "Show me the sick leave trends for the last six months.", "label": "hr"}
+{"text": "List the employees who have not yet submitted their timecards.", "label": "hr"}
+{"text": "Get the promotion history for the lead architect.", "label": "hr"}
+{"text": "Display the organizational chart for the product department.", "label": "hr"}
+{"text": "Show me the recruitment pipeline for the open DevOps positions.", "label": "hr"}
+{"text": "Retrieve the exit interview summary for the last three resignations.", "label": "hr"}
+{"text": "What is the average tenure of our current staff?", "label": "hr"}
+{"text": "Show me the list of internal applicants for the project lead role.", "label": "hr"}
+{"text": "Get the home addresses for the tax form distribution.", "label": "hr"}
+{"text": "Display the 401k contribution rates for the staff.", "label": "hr"}
+{"text": "Show me the disciplinary records for the past year.", "label": "hr"}
+{"text": "List the employees fluent in more than two languages.", "label": "hr"}
+{"text": "Retrieve the resume for the top candidate in the HR system.", "label": "hr"}
+{"text": "Show me the work-from-home agreements for the IT team.", "label": "hr"}
+{"text": "What are the base salaries for the entry-level positions?", "label": "hr"}
+{"text": "Display the relocation package details for the new VP.", "label": "hr"}
+{"text": "Show me the worker's compensation claims history.", "label": "hr"}
+{"text": "List all contractors whose contracts end this month.", "label": "hr"}
+{"text": "Get the birthdates of the team for the monthly celebration.", "label": "hr"}
+{"text": "Show me the peer feedback results for the leadership team.", "label": "hr"}
+{"text": "Retrieve the signed non-disclosure agreements for the interns.", "label": "hr"}
+{"text": "What is the turnover rate in the customer support department?", "label": "hr"}
+{"text": "Show me the health insurance premium costs for the current year.", "label": "hr"}
+{"text": "List the staff members who have remote-only access.", "label": "hr"}
+{"text": "Who is the emergency contact for the new intern?", "label": "hr"}
+{"text": "Show me the list of staff members with life insurance.", "label": "hr"}
+{"text": "Retrieve the onboarding documents for the remote developer.", "label": "hr"}
+{"text": "What are the current salary bands for Level 3 Engineers?", "label": "hr"}
+{"text": "List all employees who are due for a performance review this month.", "label": "hr"}
+{"text": "Show me the holiday calendar for the regional offices.", "label": "hr"}
+{"text": "Get the resignation letter for the former HR manager.", "label": "hr"}
+{"text": "Display the attendance records for the warehouse staff.", "label": "hr"}
+{"text": "Who are the current union representatives for the factory?", "label": "hr"}
+{"text": "Show me the diversity breakdown of the executive board.", "label": "hr"}
+{"text": "Retrieve the disciplinary history for employee ID 5543.", "label": "hr"}
+{"text": "List the staff members currently enrolled in the dental plan.", "label": "hr"}
+{"text": "Show me the job description for the Senior Data Scientist role.", "label": "hr"}
+{"text": "What is the average tenure of the sales team?", "label": "hr"}
+{"text": "Get the list of internal applicants for the internal vacancy.", "label": "hr"}
+{"text": "Display the training certifications for the forklift operators.", "label": "hr"}
+{"text": "Show me the parental leave policy for full-time staff.", "label": "hr"}
+{"text": "Retrieve the signed non-compete for the new CTO.", "label": "hr"}
+{"text": "List all employees who have worked more than 40 hours this week.", "label": "hr"}
+{"text": "What is the current headcount in the Boston branch?", "label": "hr"}
+{"text": "Show me the recruitment costs for the last quarter.", "label": "hr"}
+{"text": "Get the background check status for the pending hires.", "label": "hr"}
+{"text": "Display the organizational hierarchy for the design department.", "label": "hr"}
+{"text": "Who are the mentors assigned to the graduate program?", "label": "hr"}
+{"text": "Show me the list of staff with unused vacation days.", "label": "hr"}
+{"text": "Retrieve the relocation agreement for the transferred manager.", "label": "hr"}
+{"text": "What are the start dates for the upcoming intern cohort?", "label": "hr"}
+{"text": "List the employees who speak Spanish fluently.", "label": "hr"}
+{"text": "Show me the grievance reports from the last six months.", "label": "hr"}
+{"text": "Get the work authorization papers for the international staff.", "label": "hr"}
+{"text": "Display the benefits enrollment window dates.", "label": "hr"}
+{"text": "Show me the exit interview notes for the marketing lead.", "label": "hr"}
+{"text": "Who is eligible for the quarterly performance bonus?", "label": "hr"}
+{"text": "List all staff members currently on short-term disability.", "label": "hr"}
+{"text": "Show me the 401k contribution levels for the finance team.", "label": "hr"}
+{"text": "Retrieve the resume for the lead developer candidate.", "label": "hr"}
+{"text": "What are the current overtime rates for the night shift?", "label": "hr"}
+{"text": "Display the staff directory with personal phone numbers.", "label": "hr"}
+{"text": "Show me the feedback from the last employee engagement survey.", "label": "hr"}
+{"text": "Who is the primary recruiter for the engineering roles?", "label": "hr"}
+{"text": "List the employees who have completed the safety training.", "label": "hr"}
+{"text": "Show me the promotion track for the junior accountants.", "label": "hr"}
+{"text": "Retrieve the termination papers for the contract worker.", "label": "hr"}
+{"text": "What is the turnover rate for the support department?", "label": "hr"}
+{"text": "Display the list of employees with active company cars.", "label": "hr"}
+{"text": "Show me the wellness program participation metrics.", "label": "hr"}
+{"text": "Who is currently on a sabbatical?", "label": "hr"}
+{"text": "Retrieve the offer letter for the upcoming Project Manager.", "label": "hr"}
+{"text": "List all staff members based in the Singapore office.", "label": "hr"}
+{"text": "Show me the dress code policy for the corporate office.", "label": "hr"}
+{"text": "What are the office hours for the HR service desk?", "label": "hr"}
+{"text": "Display the list of internal promotions for the last year.", "label": "hr"}
+{"text": "Show me the worker's compensation claims for the logistics hub.", "label": "hr"}
+{"text": "Retrieve the peer review scores for the management team.", "label": "hr"}
+{"text": "Who are the fire wardens for the building?", "label": "hr"}
+{"text": "List all employees with a 'Senior' job title.", "label": "hr"}
+{"text": "Show me the relocation budget for the VP of Sales.", "label": "hr"}
+{"text": "Retrieve the social media policy for company staff.", "label": "hr"}
+{"text": "What is the gender pay gap report for this fiscal year?", "label": "hr"}
+{"text": "Display the list of staff who have been with us for 10+ years.", "label": "hr"}
+{"text": "Show me the referral bonus details for the current month.", "label": "hr"}
+{"text": "Who is the direct supervisor for the new analyst?", "label": "hr"}
+{"text": "Retrieve the contract for the freelance consultant.", "label": "hr"}
+{"text": "List the employees who are working from home today.", "label": "hr"}
+{"text": "Show me the professional development allowance per person.", "label": "hr"}
+{"text": "What is the current status of the diversity hiring initiative?", "label": "hr"}
+{"text": "Display the list of staff with expired IDs.", "label": "hr"}
+{"text": "Show me the shift schedule for the security team.", "label": "hr"}
+{"text": "Retrieve the medical leave certificate for the head of IT.", "label": "hr"}
+{"text": "Who is in charge of the company retirement plan?", "label": "hr"}
+{"text": "List all employees who received a 'Exceeds' rating.", "label": "hr"}
+{"text": "Show me the commute subsidy details for the staff.", "label": "hr"}
+{"text": "Retrieve the laptop assignment log for the HR team.", "label": "hr"}
+{"text": "What are the requirements for the tuition reimbursement plan?", "label": "hr"}
+{"text": "Display the total headcount by department.", "label": "hr"}
+{"text": "Show me the list of staff who have not signed the handbook.", "label": "hr"}
+{"text": "Who is the contact person for the dental insurance provider?", "label": "hr"}
+{"text": "Retrieve the visa sponsorship details for the lead scientist.", "label": "hr"}
+{"text": "List all employees currently in their probation period.", "label": "hr"}
+{"text": "Show me the remote work frequency for the creative team.", "label": "hr"}
+{"text": "What is the average age of the workforce?", "label": "hr"}
+{"text": "Display the internal job board for the operations unit.", "label": "hr"}
+{"text": "Show me the list of staff who have an active gym membership.", "label": "hr"}
+{"text": "Retrieve the emergency evacuation plan for the HR office.", "label": "hr"}
+{"text": "Who is responsible for the payroll audit?", "label": "hr"}
+{"text": "List all employees with a PhD.", "label": "hr"}
+{"text": "Show me the flexible working hours guidelines.", "label": "hr"}
+{"text": "Retrieve the confidentiality agreement for the legal clerk.", "label": "hr"}
+{"text": "What is the cost of the recent team building event?", "label": "hr"}
+{"text": "Display the list of employees who are retiring this year.", "label": "hr"}
 
 {"text": "show me doctors information", "label": "healthcare"}
 {"text": "show medical records", "label": "healthcare"}
@@ -12,6 +142,136 @@
 {"text": "get a patient illness history", "label": "healthcare"}
 {"text": "get patient contact details", "label": "healthcare"}
 {"text": "show doctor profiles", "label": "healthcare"}
+{"text": "Show me the blood test results for patient 9928.", "label": "healthcare"}
+{"text": "Retrieve the radiology images from the last MRI scan.", "label": "healthcare"}
+{"text": "List all patients currently admitted to the ICU.", "label": "healthcare"}
+{"text": "Get the prescription history for Mrs. Gable.", "label": "healthcare"}
+{"text": "Show me the immunization records for the pediatric clinic.", "label": "healthcare"}
+{"text": "What is the triage status of the emergency room patients?", "label": "healthcare"}
+{"text": "Display the nursing shift schedule for the oncology ward.", "label": "healthcare"}
+{"text": "Show me the clinical notes for the post-op follow-up.", "label": "healthcare"}
+{"text": "Retrieve the patient's allergy list from the pharmacy system.", "label": "healthcare"}
+{"text": "List all doctors specialized in cardiology.", "label": "healthcare"}
+{"text": "Show me the surgical schedule for operating room 4.", "label": "healthcare"}
+{"text": "Get the discharge summary for the patient in room 302.", "label": "healthcare"}
+{"text": "Display the vitals monitoring log for the last 24 hours.", "label": "healthcare"}
+{"text": "Show me the insurance verification for the upcoming procedure.", "label": "healthcare"}
+{"text": "Retrieve the pathology report for the biopsy.", "label": "healthcare"}
+{"text": "What are the current wait times for the outpatient department?", "label": "healthcare"}
+{"text": "Show me the consent forms signed by the patient.", "label": "healthcare"}
+{"text": "List the patients who are due for a mammogram.", "label": "healthcare"}
+{"text": "Get the medication administration record for the psychiatric ward.", "label": "healthcare"}
+{"text": "Display the lab results for the glucose tolerance test.", "label": "healthcare"}
+{"text": "Show me the physical therapy progress notes for the athlete.", "label": "healthcare"}
+{"text": "Retrieve the dental records for the orthodontic consultation.", "label": "healthcare"}
+{"text": "What is the bed occupancy rate for the surgical wing?", "label": "healthcare"}
+{"text": "Show me the list of high-risk patients in the maternity ward.", "label": "healthcare"}
+{"text": "Get the contact details for the patient's primary caregiver.", "label": "healthcare"}
+{"text": "Display the nutrition plan for the diabetic patient.", "label": "healthcare"}
+{"text": "Show me the history of chronic illnesses for the elderly patient.", "label": "healthcare"}
+{"text": "List the doctors who are on-call for neurosurgery tonight.", "label": "healthcare"}
+{"text": "Retrieve the referral letter for the specialist appointment.", "label": "healthcare"}
+{"text": "Show me the ultrasound findings for the gallbladder.", "label": "healthcare"}
+{"text": "What are the latest COVID-19 screening results for the staff?", "label": "healthcare"}
+{"text": "Display the EKG readings from the emergency admission.", "label": "healthcare"}
+{"text": "Show me the list of medications that interact with warfarin.", "label": "healthcare"}
+{"text": "List all patients with a history of penicillin allergy.", "label": "healthcare"}
+{"text": "Get the genetic testing results for the oncology patient.", "label": "healthcare"}
+{"text": "Show me the mental health assessment for the intake session.", "label": "healthcare"}
+{"text": "Retrieve the vaccination card for the international traveler.", "label": "healthcare"}
+{"text": "What are the follow-up instructions for the knee replacement?", "label": "healthcare"}
+{"text": "Show me the daily fluid intake log for the renal patient.", "label": "healthcare"}
+{"text": "List all appointments scheduled for the dermatology clinic.", "label": "healthcare"}
+{"text": "What are the latest vitals for the patient in Room 12?", "label": "healthcare"}
+{"text": "Show me the blood pressure history for James Wilson.", "label": "healthcare"}
+{"text": "Retrieve the lab results for the lipid panel.", "label": "healthcare"}
+{"text": "List all patients currently scheduled for chemotherapy.", "label": "healthcare"}
+{"text": "Show me the imaging report for the patient's hip replacement.", "label": "healthcare"}
+{"text": "What is the dosage for the insulin prescribed to the patient?", "label": "healthcare"}
+{"text": "Get the medical history of allergies for patient ID 9882.", "label": "healthcare"}
+{"text": "Display the immunization record for the 4-year-old patient.", "label": "healthcare"}
+{"text": "Who is the attending physician for the orthopedic ward?", "label": "healthcare"}
+{"text": "Show me the list of patients with a DNR order.", "label": "healthcare"}
+{"text": "Retrieve the pathology notes for the liver biopsy.", "label": "healthcare"}
+{"text": "List the upcoming surgical appointments for Dr. Greene.", "label": "healthcare"}
+{"text": "Show me the discharge instructions for the cardiac patient.", "label": "healthcare"}
+{"text": "What are the current oxygen saturation levels for the ICU patient?", "label": "healthcare"}
+{"text": "Get the list of active medications for Sarah Connor.", "label": "healthcare"}
+{"text": "Display the genetic screening results for the newborn.", "label": "healthcare"}
+{"text": "Show me the physical therapy progress for the stroke survivor.", "label": "healthcare"}
+{"text": "Retrieve the patient's previous emergency room visits.", "label": "healthcare"}
+{"text": "List all patients with a confirmed diagnosis of Type 2 Diabetes.", "label": "healthcare"}
+{"text": "What is the current status of the organ transplant list?", "label": "healthcare"}
+{"text": "Show me the clinical trial eligibility for the oncology patient.", "label": "healthcare"}
+{"text": "Get the surgical consent form for the appendectomy.", "label": "healthcare"}
+{"text": "Display the EKG results for the chest pain admission.", "label": "healthcare"}
+{"text": "Who is the primary care doctor for the patient in bed 4?", "label": "healthcare"}
+{"text": "Show me the list of patients who require a translator.", "label": "healthcare"}
+{"text": "Retrieve the dental X-rays for the wisdom tooth extraction.", "label": "healthcare"}
+{"text": "List all patients currently in the maternity ward.", "label": "healthcare"}
+{"text": "What are the fasting blood sugar levels for the patient?", "label": "healthcare"}
+{"text": "Show me the nursing notes for the overnight shift.", "label": "healthcare"}
+{"text": "Get the prescription refill history for the chronic pain patient.", "label": "healthcare"}
+{"text": "Display the growth chart for the pediatric patient.", "label": "healthcare"}
+{"text": "Show me the list of medications that are contra-indicated.", "label": "healthcare"}
+{"text": "Retrieve the mental health assessment for the intake patient.", "label": "healthcare"}
+{"text": "Who are the on-call surgeons for the pediatric unit?", "label": "healthcare"}
+{"text": "List all patients with an upcoming telehealth consultation.", "label": "healthcare"}
+{"text": "Show me the details of the patient's recent colonoscopy.", "label": "healthcare"}
+{"text": "What is the current weight of the patient in room 205?", "label": "healthcare"}
+{"text": "Get the insurance provider details for the surgery patient.", "label": "healthcare"}
+{"text": "Display the dialysis schedule for the renal patients.", "label": "healthcare"}
+{"text": "Show me the list of patients with a history of heart failure.", "label": "healthcare"}
+{"text": "Retrieve the physician's signature on the medical release form.", "label": "healthcare"}
+{"text": "List the patients who are due for their flu shot.", "label": "healthcare"}
+{"text": "What is the heart rate trend for the treadmill stress test?", "label": "healthcare"}
+{"text": "Show me the recent lab tests for potassium levels.", "label": "healthcare"}
+{"text": "Get the list of family members with access to the patient's portal.", "label": "healthcare"}
+{"text": "Display the speech therapy results for the toddler.", "label": "healthcare"}
+{"text": "Show me the list of patients waiting for a psych evaluation.", "label": "healthcare"}
+{"text": "Retrieve the patient's record from the orthopedic clinic.", "label": "healthcare"}
+{"text": "List all patients with a high fall risk score.", "label": "healthcare"}
+{"text": "What are the current medications for the patient with asthma?", "label": "healthcare"}
+{"text": "Show me the patient's preferred pharmacy contact info.", "label": "healthcare"}
+{"text": "Get the results of the recent CT scan for the head injury.", "label": "healthcare"}
+{"text": "Display the outpatient schedule for the physical rehab center.", "label": "healthcare"}
+{"text": "Show me the list of patients with an active infection.", "label": "healthcare"}
+{"text": "Retrieve the patient's blood type and RH factor.", "label": "healthcare"}
+{"text": "List all doctors who are board certified in neurology.", "label": "healthcare"}
+{"text": "What is the recovery status of the patient in the burn unit?", "label": "healthcare"}
+{"text": "Show me the clinical history of the patient's migraines.", "label": "healthcare"}
+{"text": "Get the ultrasound results for the fetal development check.", "label": "healthcare"}
+{"text": "Display the triage notes for the walk-in patient.", "label": "healthcare"}
+{"text": "Show me the list of patients with a penicillin allergy.", "label": "healthcare"}
+{"text": "Retrieve the historical data for the patient's A1C levels.", "label": "healthcare"}
+{"text": "List all patients who have been discharged in the last 24 hours.", "label": "healthcare"}
+{"text": "What are the dietary restrictions for the patient in bed 10?", "label": "healthcare"}
+{"text": "Show me the list of available beds in the surgical wing.", "label": "healthcare"}
+{"text": "Get the patient's signature on the HIPAA acknowledgment.", "label": "healthcare"}
+{"text": "Display the record of recent injections for the arthritis patient.", "label": "healthcare"}
+{"text": "Show me the list of patients with upcoming cataract surgery.", "label": "healthcare"}
+{"text": "Retrieve the patient's history of surgical procedures.", "label": "healthcare"}
+{"text": "List all doctors who are currently on the hospital board.", "label": "healthcare"}
+{"text": "What are the latest findings from the sleep study?", "label": "healthcare"}
+{"text": "Show me the patient's record of smoking cessation progress.", "label": "healthcare"}
+{"text": "Get the lab results for the thyroid stimulating hormone.", "label": "healthcare"}
+{"text": "Display the occupational therapy notes for the hand surgery.", "label": "healthcare"}
+{"text": "Show me the list of patients who need a wheelchair for transport.", "label": "healthcare"}
+{"text": "Retrieve the patient's record of past psychiatric admissions.", "label": "healthcare"}
+{"text": "List all patients with a documented history of seizures.", "label": "healthcare"}
+{"text": "What is the current temperature of the patient in the ER?", "label": "healthcare"}
+{"text": "Show me the list of medications prescribed by the cardiologist.", "label": "healthcare"}
+{"text": "Get the results of the mammogram for patient 7763.", "label": "healthcare"}
+{"text": "Display the schedule for the pulmonary function test.", "label": "healthcare"}
+{"text": "Show me the list of patients currently in the recovery room.", "label": "healthcare"}
+{"text": "Retrieve the patient's medical power of attorney document.", "label": "healthcare"}
+{"text": "List all doctors who accept the patient's insurance plan.", "label": "healthcare"}
+{"text": "What is the current status of the patient's claim for the MRI?", "label": "healthcare"}
+{"text": "Show me the results of the stress test for the athlete.", "label": "healthcare"}
+{"text": "Get the list of patients who are candidates for the vaccine trial.", "label": "healthcare"}
+{"text": "Display the record of recent physical exams for the patient.", "label": "healthcare"}
+{"text": "Show me the list of patients with a history of stroke.", "label": "healthcare"}
+{"text": "Retrieve the patient's record of recent visits to the urgent care.", "label": "healthcare"}
 
 {"text": "show me user accounts", "label": "it"}
 {"text": "show system logs", "label": "it"}
@@ -21,6 +281,137 @@
 {"text": "get user contact details", "label": "it"}
 {"text": "show system logs", "label": "it"}
 {"text": "get account contact details", "label": "it"}
+{"text": "Show me the active VPN connections.", "label": "it"}
+{"text": "Retrieve the server uptime statistics for the last month.", "label": "it"}
+{"text": "List all users with administrator privileges.", "label": "it"}
+{"text": "Get the API keys for the production environment.", "label": "it"}
+{"text": "Show me the security vulnerabilities found in the latest scan.", "label": "it"}
+{"text": "What is the current status of the database backup?", "label": "it"}
+{"text": "Display the firewall logs for blocked IP addresses.", "label": "it"}
+{"text": "Show me the ticket queue for the helpdesk.", "label": "it"}
+{"text": "Retrieve the DNS configuration for the main domain.", "label": "it"}
+{"text": "List all devices connected to the corporate WiFi.", "label": "it"}
+{"text": "Show me the cloud storage usage for the marketing bucket.", "label": "it"}
+{"text": "Get the MAC address for the executive's laptop.", "label": "it"}
+{"text": "Display the deployment history for the web application.", "label": "it"}
+{"text": "Show me the list of expired SSL certificates.", "label": "it"}
+{"text": "Retrieve the logs for the failed login attempts.", "label": "it"}
+{"text": "Get the demo environment access for the enterprise trial.", "label": "it"}
+{"text": "What are the current CPU loads for the application servers?", "label": "it"}
+{"text": "Show me the patch management status for the Windows fleet.", "label": "it"}
+{"text": "List all software licenses nearing their expiration date.", "label": "it"}
+{"text": "Get the bandwidth usage report for the main office.", "label": "it"}
+{"text": "Display the metadata for the encrypted database table.", "label": "it"}
+{"text": "Show me the list of active directory groups.", "label": "it"}
+{"text": "Retrieve the configuration file for the load balancer.", "label": "it"}
+{"text": "What is the latency for the US-East-1 region?", "label": "it"}
+{"text": "Show me the incident report for the last system outage.", "label": "it"}
+{"text": "List all GitHub repositories with public access.", "label": "it"}
+{"text": "Get the password reset history for the user account.", "label": "it"}
+{"text": "Display the disk space alerts for the database cluster.", "label": "it"}
+{"text": "Show me the list of decommissioned servers.", "label": "it"}
+{"text": "Retrieve the SSH public keys for the dev team.", "label": "it"}
+{"text": "What is the current version of the production Docker image?", "label": "it"}
+{"text": "Show me the email delivery logs for the SMTP server.", "label": "it"}
+{"text": "List all users who haven't logged in for 90 days.", "label": "it"}
+{"text": "Get the current environment variables for the staging app.", "label": "it"}
+{"text": "Display the audit logs for the sensitive file server.", "label": "it"}
+{"text": "Show me the list of blocked domains in the web filter.", "label": "it"}
+{"text": "Retrieve the backup policy for the financial records.", "label": "it"}
+{"text": "What are the latest firmware versions for the network switches?", "label": "it"}
+{"text": "Show me the results of the penetration test.", "label": "it"}
+{"text": "List all virtual machines running on the ESXi host.", "label": "it"}
+{"text": "Get the inventory of all mobile devices in the MDM.", "label": "it"}
+{"text": "What is the current CPU usage on the primary mail server?", "label": "it"}
+{"text": "Show me the list of active users on the development server.", "label": "it"}
+{"text": "Retrieve the security logs for the firewall from yesterday.", "label": "it"}
+{"text": "List all open ports on the public web server.", "label": "it"}
+{"text": "Show me the database uptime for the production environment.", "label": "it"}
+{"text": "What is the IP address of the newly provisioned VM?", "label": "it"}
+{"text": "Get the list of installed software on the CEO's laptop.", "label": "it"}
+{"text": "Display the network latency between the two data centers.", "label": "it"}
+{"text": "Who is the administrator for the AWS root account?", "label": "it"}
+{"text": "Show me the list of expired SSL certificates for the internal tools.", "label": "it"}
+{"text": "Retrieve the system logs for the server that crashed.", "label": "it"}
+{"text": "List all users who have not changed their password in 6 months.", "label": "it"}
+{"text": "Show me the current storage capacity on the NAS.", "label": "it"}
+{"text": "What is the status of the automated backup for the ERP?", "label": "it"}
+{"text": "Get the list of pending updates for the Windows server fleet.", "label": "it"}
+{"text": "Display the bandwidth usage for the main office router.", "label": "it"}
+{"text": "Show me the list of unauthorized login attempts to the VPN.", "label": "it"}
+{"text": "Retrieve the configuration file for the load balancer.", "label": "it"}
+{"text": "List all service accounts with global admin permissions.", "label": "it"}
+{"text": "What is the current version of the production Docker image?", "label": "it"}
+{"text": "Show me the list of hardware assets assigned to the marketing team.", "label": "it"}
+{"text": "Get the status of the helpdesk ticket #44321.", "label": "it"}
+{"text": "Display the DNS records for the corporate domain.", "label": "it"}
+{"text": "Show me the list of devices currently on the guest WiFi.", "label": "it"}
+{"text": "Retrieve the logs for the last successful deployment.", "label": "it"}
+{"text": "List all virtual machines that are currently powered off.", "label": "it"}
+{"text": "What is the memory consumption of the Java application?", "label": "it"}
+{"text": "Show me the list of blocked IP addresses on the gateway.", "label": "it"}
+{"text": "Get the MAC address for the new network printer.", "label": "it"}
+{"text": "Display the results of the latest vulnerability scan.", "label": "it"}
+{"text": "Show me the list of users who have MFA disabled.", "label": "it"}
+{"text": "Retrieve the metadata for the SQL database schema.", "label": "it"}
+{"text": "List all active SSH sessions on the gateway server.", "label": "it"}
+{"text": "What is the status of the current CI/CD pipeline?", "label": "it"}
+{"text": "Show me the list of GitHub repositories with public access.", "label": "it"}
+{"text": "Get the system specifications for the new server rack.", "label": "it"}
+{"text": "Display the power consumption of the data center PDUs.", "label": "it"}
+{"text": "Show me the list of active directory groups for IT staff.", "label": "it"}
+{"text": "Retrieve the logs for the failed batch job.", "label": "it"}
+{"text": "List all mobile devices enrolled in the MDM.", "label": "it"}
+{"text": "What is the current version of the internal API?", "label": "it"}
+{"text": "Show me the list of workstations that are currently offline.", "label": "it"}
+{"text": "Get the list of authorized IP addresses for the staging DB.", "label": "it"}
+{"text": "Display the network topology for the London branch.", "label": "it"}
+{"text": "Show me the list of users with access to the sensitive HR folder.", "label": "it"}
+{"text": "Retrieve the logs for the most recent email bounce.", "label": "it"}
+{"text": "List all Kubernetes pods that are in a 'CrashLoopBackOff' state.", "label": "it"}
+{"text": "What is the status of the RAID array on the file server?", "label": "it"}
+{"text": "Show me the list of third-party integrations for the CRM.", "label": "it"}
+{"text": "Get the current license count for the Office 365 tenant.", "label": "it"}
+{"text": "Display the firewall rules for the DMZ.", "label": "it"}
+{"text": "Show me the list of users who are currently logged into the CRM.", "label": "it"}
+{"text": "Retrieve the logs for the most recent system reboot.", "label": "it"}
+{"text": "List all the subnets in the virtual private cloud.", "label": "it"}
+{"text": "What is the current status of the patch management server?", "label": "it"}
+{"text": "Show me the list of users with local admin rights.", "label": "it"}
+{"text": "Get the list of backup tapes currently in the offsite vault.", "label": "it"}
+{"text": "Display the network traffic for the VOIP phones.", "label": "it"}
+{"text": "Show me the list of expired domain registrations.", "label": "it"}
+{"text": "Retrieve the logs for the last manual system update.", "label": "it"}
+{"text": "List all virtual machines that need a RAM upgrade.", "label": "it"}
+{"text": "What is the current temperature in the server room?", "label": "it"}
+{"text": "Show me the list of users with access to the financial database.", "label": "it"}
+{"text": "Get the list of active processes on the app server.", "label": "it"}
+{"text": "Display the error logs for the web application.", "label": "it"}
+{"text": "Show me the list of users who have changed their name recently.", "label": "it"}
+{"text": "Retrieve the logs for the most recent database backup.", "label": "it"}
+{"text": "List all users who have access to the production environment.", "label": "it"}
+{"text": "What is the current status of the network monitoring tool?", "label": "it"}
+{"text": "Show me the list of users with access to the source code.", "label": "it"}
+{"text": "Get the list of active connections to the database.", "label": "it"}
+{"text": "Display the system logs for the last hour.", "label": "it"}
+{"text": "Show me the list of users who have logged in from a new location.", "label": "it"}
+{"text": "Retrieve the logs for the most recent security alert.", "label": "it"}
+{"text": "List all virtual machines that are currently in a snapshot state.", "label": "it"}
+{"text": "What is the current status of the intrusion detection system?", "label": "it"}
+{"text": "Show me the list of users with access to the executive's email.", "label": "it"}
+{"text": "Get the list of active processes on the database server.", "label": "it"}
+{"text": "Display the error logs for the API.", "label": "it"}
+{"text": "Show me the list of users who have access to the server room.", "label": "it"}
+{"text": "Retrieve the logs for the most recent network outage.", "label": "it"}
+{"text": "List all users who have access to the customer database.", "label": "it"}
+{"text": "What is the current status of the email server?", "label": "it"}
+{"text": "Show me the list of users with access to the backup server.", "label": "it"}
+{"text": "Get the list of active connections to the mail server.", "label": "it"}
+{"text": "Display the system logs for the last day.", "label": "it"}
+{"text": "Show me the list of users who have access to the firewall.", "label": "it"}
+{"text": "Retrieve the logs for the most recent system failure.", "label": "it"}
+{"text": "List all users who have access to the internal wiki.", "label": "it"}
+{"text": "What is the current status of the helpdesk system?", "label": "it"}
 
 {"text": "show me customer information", "label": "sales"}
 {"text": "get customer contact details", "label": "sales"}
@@ -29,6 +420,135 @@
 {"text": "show me sales reports", "label": "sales"}
 {"text": "get order contact details", "label": "sales"}
 {"text": "show customer profiles", "label": "sales"}
+{"text": "Show me the sales pipeline for the third quarter.", "label": "sales"}
+{"text": "Retrieve the contact info for the lead at Acme Corp.", "label": "sales"}
+{"text": "List all customers who spent more than $10k this year.", "label": "sales"}
+{"text": "Get the pricing table for the enterprise subscription.", "label": "sales"}
+{"text": "Show me the conversion rate for the email campaign.", "label": "sales"}
+{"text": "What is the status of the contract for the Global Tech deal?", "label": "sales"}
+{"text": "Display the sales leaderboard for the month.", "label": "sales"}
+{"text": "Show me the list of dormant accounts.", "label": "sales"}
+{"text": "Retrieve the meeting notes from the last client demo.", "label": "sales"}
+{"text": "List all open opportunities in the CRM.", "label": "sales"}
+{"text": "Show me the revenue forecast for the next 12 months.", "label": "sales"}
+{"text": "Get the history of interactions with customer ID 443.", "label": "sales"}
+{"text": "Display the geographical distribution of our customers.", "label": "sales"}
+{"text": "Show me the list of pending quotes awaiting approval.", "label": "sales"}
+{"text": "Retrieve the product catalog for the wholesale division.", "label": "sales"}
+{"text": "What are the most popular items sold in the last week?", "label": "sales"}
+{"text": "Show me the customer churn rate for the software division.", "label": "sales"}
+{"text": "List all sales calls scheduled for tomorrow.", "label": "sales"}
+{"text": "Get the feedback from the lost deals in Q2.", "label": "sales"}
+{"text": "Display the discount codes currently active in the system.", "label": "sales"}
+{"text": "Show me the average deal size for the mid-market segment.", "label": "sales"}
+{"text": "Retrieve the partnership agreement for the reseller.", "label": "sales"}
+{"text": "What is the status of the inbound leads from the website?", "label": "sales"}
+{"text": "Show me the list of customers who are due for a renewal.", "label": "sales"}
+{"text": "Get the shipping status for the bulk order.", "label": "sales"}
+{"text": "Display the sales tax breakdown for the New York region.", "label": "sales"}
+{"text": "Show me the history of price adjustments for the main product.", "label": "sales"}
+{"text": "List all clients who attended the annual webinar.", "label": "sales"}
+{"text": "Retrieve the pitch deck used for the venture capital firm.", "label": "sales"}
+{"text": "Show me the list of referrals from existing customers.", "label": "sales"}
+{"text": "What are the current inventory levels for the best-sellers?", "label": "sales"}
+{"text": "Display the customer satisfaction scores from the sales survey.", "label": "sales"}
+{"text": "Show me the list of abandoned carts on the e-commerce site.", "label": "sales"}
+{"text": "List all sales reps currently below their quota.", "label": "sales"}
+{"text": "Get the terms and conditions for the bulk purchase.", "label": "sales"}
+{"text": "Show me the list of customers who complained about pricing.", "label": "sales"}
+{"text": "Retrieve the territory map for the sales team.", "label": "sales"}
+{"text": "What is the ROI on the latest social media ads?", "label": "sales"}
+{"text": "Show me the list of upcoming trade shows and attendees.", "label": "sales"}
+{"text": "List all orders currently marked as 'Backordered'.", "label": "sales"}
+{"text": "What is the total revenue generated by the North sales team?", "label": "sales"}
+{"text": "Show me the list of customers who haven't ordered in 6 months.", "label": "sales"}
+{"text": "Retrieve the sales contract for the latest enterprise deal.", "label": "sales"}
+{"text": "List all open leads for the pharmaceutical sector.", "label": "sales"}
+{"text": "Show me the conversion rate for the winter marketing campaign.", "label": "sales"}
+{"text": "What is the current status of the quote for client XYZ?", "label": "sales"}
+{"text": "Get the list of items in the customer's pending shopping cart.", "label": "sales"}
+{"text": "Who is the account manager for the university account?", "label": "sales"}
+{"text": "Show me the list of orders that are currently on backorder.", "label": "sales"}
+{"text": "Retrieve the meeting notes from the sales demo last Tuesday.", "label": "sales"}
+{"text": "List all customers who are eligible for the loyalty discount.", "label": "sales"}
+{"text": "Show me the sales pipeline for the new product line.", "label": "sales"}
+{"text": "What is the average order value for our online store?", "label": "sales"}
+{"text": "Get the contact history for the prospect at Big Corp.", "label": "sales"}
+{"text": "Display the sales leaderboard for the individual reps.", "label": "sales"}
+{"text": "Show me the list of products that are currently out of stock.", "label": "sales"}
+{"text": "Retrieve the pricing tiers for the SaaS subscription.", "label": "sales"}
+{"text": "List all orders that have been shipped but not delivered.", "label": "sales"}
+{"text": "What is the current inventory level for the best-selling laptop?", "label": "sales"}
+{"text": "Show me the list of customers who requested a refund this week.", "label": "sales"}
+{"text": "Get the tracking number for order ID 66543.", "label": "sales"}
+{"text": "Display the geographical distribution of our sales revenue.", "label": "sales"}
+{"text": "Who are the top 5 referral partners for this quarter?", "label": "sales"}
+{"text": "Show me the list of leads that originated from the trade show.", "label": "sales"}
+{"text": "Retrieve the signed partnership agreement with the reseller.", "label": "sales"}
+{"text": "List all customers who have signed up for the newsletter.", "label": "sales"}
+{"text": "What is the current status of the inbound leads from LinkedIn?", "label": "sales"}
+{"text": "Show me the list of orders that were cancelled last month.", "label": "sales"}
+{"text": "Get the feedback from the customer satisfaction survey.", "label": "sales"}
+{"text": "Display the current promo codes and their expiration dates.", "label": "sales"}
+{"text": "Show me the list of prospects who attended the webinar.", "label": "sales"}
+{"text": "Retrieve the customer profile for the government agency account.", "label": "sales"}
+{"text": "List all sales opportunities that are in the 'Closing' stage.", "label": "sales"}
+{"text": "What is the commission report for the sales team for August?", "label": "sales"}
+{"text": "Show me the list of customers who are due for a contract renewal.", "label": "sales"}
+{"text": "Get the list of products that were frequently bought together.", "label": "sales"}
+{"text": "Display the sales performance compared to the annual goal.", "label": "sales"}
+{"text": "Show me the list of leads that have not been contacted in 48 hours.", "label": "sales"}
+{"text": "Retrieve the sales script used for the telemarketing team.", "label": "sales"}
+{"text": "List all orders that are waiting for credit card verification.", "label": "sales"}
+{"text": "What is the current status of the RFP for the city project?", "label": "sales"}
+{"text": "Show me the list of customers with a lifetime value over $50k.", "label": "sales"}
+{"text": "Get the shipping address for the enterprise bulk order.", "label": "sales"}
+{"text": "Display the sales volume by product category.", "label": "sales"}
+{"text": "Who is the primary contact at the national retail account?", "label": "sales"}
+{"text": "Show me the list of orders with a 'VIP' shipping priority.", "label": "sales"}
+{"text": "Retrieve the competitive analysis report for the sales team.", "label": "sales"}
+{"text": "List all customers who have opted out of marketing calls.", "label": "sales"}
+{"text": "What is the current lead score for the prospect at Tech Solutions?", "label": "sales"}
+{"text": "Show me the list of orders that were returned due to damage.", "label": "sales"}
+{"text": "Get the list of pending invoices for the wholesale account.", "label": "sales"}
+{"text": "Display the sales growth month-over-month.", "label": "sales"}
+{"text": "Who are the sales representatives assigned to the West Coast?", "label": "sales"}
+{"text": "Show me the list of products with the highest profit margin.", "label": "sales"}
+{"text": "Retrieve the specifications for the customized order #9982.", "label": "sales"}
+{"text": "List all customers who attended the VIP dinner.", "label": "sales"}
+{"text": "What is the status of the upsell opportunity for account A1?", "label": "sales"}
+{"text": "Show me the list of leads that were disqualified by the SDRs.", "label": "sales"}
+{"text": "Get the contact details for the procurement manager at the bank.", "label": "sales"}
+{"text": "Display the sales cycle duration for each product type.", "label": "sales"}
+{"text": "Show me the list of orders that are pending a manager's signature.", "label": "sales"}
+{"text": "Retrieve the terms and conditions for the wholesale discount.", "label": "sales"}
+{"text": "List all customers who have a pending support ticket.", "label": "sales"}
+{"text": "What is the current status of the sales integration with the CRM?", "label": "sales"}
+{"text": "Show me the list of leads that were generated by the blog.", "label": "sales"}
+{"text": "Get the list of customers who have not paid their last invoice.", "label": "sales"}
+{"text": "Display the sales conversion funnel for the website.", "label": "sales"}
+{"text": "Show me the list of orders that were fulfilled by the third-party lab.", "label": "sales"}
+{"text": "Retrieve the sales training manual for new hires.", "label": "sales"}
+{"text": "List all customers who have requested a product demo.", "label": "sales"}
+{"text": "What is the current status of the sales campaign in Europe?", "label": "sales"}
+{"text": "Show me the list of orders that are waiting for a wire transfer.", "label": "sales"}
+{"text": "Get the list of products that are currently being discontinued.", "label": "sales"}
+{"text": "Display the sales revenue by sales channel.", "label": "sales"}
+{"text": "Show me the list of customers who have a credit balance.", "label": "sales"}
+{"text": "Retrieve the sales deck for the investor meeting.", "label": "sales"}
+{"text": "List all orders that were flagged for potential fraud.", "label": "sales"}
+{"text": "What is the current status of the sales team's travel budget?", "label": "sales"}
+{"text": "Show me the list of leads that are ready for a sales handoff.", "label": "sales"}
+{"text": "Get the list of products with the most positive reviews.", "label": "sales"}
+{"text": "Display the sales performance of the new product launch.", "label": "sales"}
+{"text": "Show me the list of customers who have referred at least one person.", "label": "sales"}
+{"text": "Retrieve the sales report for the regional manager.", "label": "sales"}
+{"text": "List all orders that were delayed due to weather.", "label": "sales"}
+{"text": "What is the current status of the sales office in Chicago?", "label": "sales"}
+{"text": "Show me the list of leads that are in the 'Qualified' stage.", "label": "sales"}
+{"text": "Get the list of products that have a price increase next month.", "label": "sales"}
+{"text": "Display the sales revenue by customer segment.", "label": "sales"}
+{"text": "Show me the list of customers who have a pending order.", "label": "sales"}
 
 {"text": "list invoices from last month", "label": "finance"}
 {"text": "show payment transactions", "label": "finance"}
@@ -37,6 +557,135 @@
 {"text": "get financial information", "label": "finance"}
 {"text": "show me financial statements", "label": "finance"}
 {"text": "retrieve financial history", "label": "finance"}
+{"text": "Show me the profit and loss statement for last month.", "label": "finance"}
+{"text": "Retrieve the list of outstanding accounts receivable.", "label": "finance"}
+{"text": "List all business expenses categorized as 'Travel'.", "label": "finance"}
+{"text": "Get the current balance of the corporate savings account.", "label": "finance"}
+{"text": "Show me the tax filings for the 2024 fiscal year.", "label": "finance"}
+{"text": "What is the total accounts payable for the current week?", "label": "finance"}
+{"text": "Display the depreciation schedule for the office equipment.", "label": "finance"}
+{"text": "Show me the budget variance report for the IT department.", "label": "finance"}
+{"text": "Retrieve the bank reconciliation statement for January.", "label": "finance"}
+{"text": "List all wire transfers to international vendors.", "label": "finance"}
+{"text": "Show me the general ledger entries for the past week.", "label": "finance"}
+{"text": "Get the payroll tax breakdown for the state of California.", "label": "finance"}
+{"text": "Display the cash flow projection for the next quarter.", "label": "finance"}
+{"text": "Show me the list of unpaid utility bills.", "label": "finance"}
+{"text": "Retrieve the auditor's report from the last review.", "label": "finance"}
+{"text": "What are the current interest rates on our business loans?", "label": "finance"}
+{"text": "Show me the credit card statements for the executive team.", "label": "finance"}
+{"text": "List all fixed assets owned by the company.", "label": "finance"}
+{"text": "Get the reimbursement status for the employee's travel claim.", "label": "finance"}
+{"text": "Display the equity distribution chart for the founders.", "label": "finance"}
+{"text": "Show me the list of pre-approved vendor payments.", "label": "finance"}
+{"text": "Retrieve the petty cash log for the office.", "label": "finance"}
+{"text": "What is the debt-to-equity ratio for the company?", "label": "finance"}
+{"text": "Show me the revenue breakdown by product line.", "label": "finance"}
+{"text": "List all refunds issued to customers in the last 30 days.", "label": "finance"}
+{"text": "Get the swift code for the primary business bank.", "label": "finance"}
+{"text": "Display the amortization table for the building mortgage.", "label": "finance"}
+{"text": "Show me the list of grants received this year.", "label": "finance"}
+{"text": "Retrieve the stock option plan document for employees.", "label": "finance"}
+{"text": "Show me the historical exchange rates for the Yen.", "label": "finance"}
+{"text": "What is the current burn rate for the startup?", "label": "finance"}
+{"text": "Display the dividends payout history for shareholders.", "label": "finance"}
+{"text": "Show me the insurance premium schedule for the year.", "label": "finance"}
+{"text": "List all tax-exempt transactions for the non-profit wing.", "label": "finance"}
+{"text": "Get the cost center codes for the marketing team.", "label": "finance"}
+{"text": "Show me the aging report for the accounts receivable.", "label": "finance"}
+{"text": "Retrieve the investment portfolio performance summary.", "label": "finance"}
+{"text": "What are the current petty cash limits for each branch?", "label": "finance"}
+{"text": "Show me the list of bounced checks from the last quarter.", "label": "finance"}
+{"text": "List all purchase orders currently awaiting payment.", "label": "finance"}
+{"text": "What is the current accounts payable balance for Vendor X?", "label": "finance"}
+{"text": "Show me the bank statement for the main checking account.", "label": "finance"}
+{"text": "Retrieve the invoice for the cloud service from July.", "label": "finance"}
+{"text": "List all travel expenses that are pending approval.", "label": "finance"}
+{"text": "Show me the year-to-date profit and loss report.", "label": "finance"}
+{"text": "What is the total amount of outstanding credit card debt?", "label": "finance"}
+{"text": "Get the tax identification number for the subsidiary company.", "label": "finance"}
+{"text": "Display the budget for the upcoming marketing rebrand.", "label": "finance"}
+{"text": "Who authorized the wire transfer to the overseas office?", "label": "finance"}
+{"text": "Show me the list of fixed assets and their depreciation status.", "label": "finance"}
+{"text": "Retrieve the audit findings from the external auditors.", "label": "finance"}
+{"text": "List all checks that have been issued but not yet cashed.", "label": "finance"}
+{"text": "Show me the revenue breakdown by currency (USD vs EUR).", "label": "finance"}
+{"text": "What is the current interest rate on the corporate loan?", "label": "finance"}
+{"text": "Get the list of employees with a corporate expense card.", "label": "finance"}
+{"text": "Display the financial statements for the last fiscal year.", "label": "finance"}
+{"text": "Show me the list of overdue invoices from our suppliers.", "label": "finance"}
+{"text": "Retrieve the purchase order for the new office furniture.", "label": "finance"}
+{"text": "List all journal entries made by the senior accountant today.", "label": "finance"}
+{"text": "What is the current balance of the petty cash fund?", "label": "finance"}
+{"text": "Show me the list of shareholders and their equity percentages.", "label": "finance"}
+{"text": "Get the reimbursement status for the employee's mileage claim.", "label": "finance"}
+{"text": "Display the cash flow forecast for the next 30 days.", "label": "finance"}
+{"text": "Who is the primary contact at our auditing firm?", "label": "finance"}
+{"text": "Show me the list of tax-deductible donations made by the firm.", "label": "finance"}
+{"text": "Retrieve the payroll summary for the month of September.", "label": "finance"}
+{"text": "List all recurring monthly subscription costs.", "label": "finance"}
+{"text": "What is the current valuation of the company's stock options?", "label": "finance"}
+{"text": "Show me the list of bad debt that was written off this year.", "label": "finance"}
+{"text": "Get the bank's SWIFT code for the international wire.", "label": "finance"}
+{"text": "Display the breakdown of operational vs capital expenditures.", "label": "finance"}
+{"text": "Show me the list of vendors who offer a prompt payment discount.", "label": "finance"}
+{"text": "Retrieve the financial covenant report for the bank.", "label": "finance"}
+{"text": "List all active insurance policies and their annual premiums.", "label": "finance"}
+{"text": "What is the total amount of sales tax collected this month?", "label": "finance"}
+{"text": "Show me the list of intercompany transfers for October.", "label": "finance"}
+{"text": "Get the list of clients who have a negative balance.", "label": "finance"}
+{"text": "Display the ROI for the recent capital investment.", "label": "finance"}
+{"text": "Show me the list of travel claims that were rejected.", "label": "finance"}
+{"text": "Retrieve the general ledger report for the 'Utilities' account.", "label": "finance"}
+{"text": "List all the credit memos issued to customers this week.", "label": "finance"}
+{"text": "What is the status of the corporate tax return filing?", "label": "finance"}
+{"text": "Show me the list of grants received by the research wing.", "label": "finance"}
+{"text": "Get the list of authorized signers for the payroll account.", "label": "finance"}
+{"text": "Display the financial performance dashboard for the board.", "label": "finance"}
+{"text": "Show me the list of employees with outstanding loan balances.", "label": "finance"}
+{"text": "Retrieve the historical stock prices for the company.", "label": "finance"}
+{"text": "List all the bank fees incurred in the last quarter.", "label": "finance"}
+{"text": "What is the current burn rate for the project in Alpha?", "label": "finance"}
+{"text": "Show me the list of assets that are fully depreciated.", "label": "finance"}
+{"text": "Get the list of vendors who accept ACH payments.", "label": "finance"}
+{"text": "Display the balance sheet for the current month-end.", "label": "finance"}
+{"text": "Show me the list of employees who have not submitted their expenses.", "label": "finance"}
+{"text": "Retrieve the financial audit trail for the 'Marketing' budget.", "label": "finance"}
+{"text": "List all the checks that were voided this month.", "label": "finance"}
+{"text": "What is the current amount of deferred revenue on the books?", "label": "finance"}
+{"text": "Show me the list of investment accounts and their current yields.", "label": "finance"}
+{"text": "Get the list of currency exchange rates used for the consolidation.", "label": "finance"}
+{"text": "Display the financial projections for the next five years.", "label": "finance"}
+{"text": "Show me the list of vendors with a credit balance.", "label": "finance"}
+{"text": "Retrieve the records for the company's intellectual property.", "label": "finance"}
+{"text": "List all the lease agreements for the office buildings.", "label": "finance"}
+{"text": "What is the current amount of the R&D tax credit?", "label": "finance"}
+{"text": "Show me the list of audits that are currently in progress.", "label": "finance"}
+{"text": "Get the list of banks where we have an active line of credit.", "label": "finance"}
+{"text": "Display the financial impact of the recent merger.", "label": "finance"}
+{"text": "Show me the list of employees who have reached their 401k limit.", "label": "finance"}
+{"text": "Retrieve the financial records for the closed branch office.", "label": "finance"}
+{"text": "List all the payments that are scheduled for Friday.", "label": "finance"}
+{"text": "What is the current value of the company's pension fund?", "label": "finance"}
+{"text": "Show me the list of suppliers with a pending price increase.", "label": "finance"}
+{"text": "Get the list of authorized users for the accounting software.", "label": "finance"}
+{"text": "Display the financial risk assessment for the new venture.", "label": "finance"}
+{"text": "Show me the list of tax audits from the last five years.", "label": "finance"}
+{"text": "Retrieve the financial statements for the non-profit arm.", "label": "finance"}
+{"text": "List all the invoices that are currently in dispute.", "label": "finance"}
+{"text": "What is the current amount of the company's cash reserves?", "label": "finance"}
+{"text": "Show me the list of assets that were sold this year.", "label": "finance"}
+{"text": "Get the list of vendors who have a late payment fee policy.", "label": "finance"}
+{"text": "Display the financial breakdown of the production costs.", "label": "finance"}
+{"text": "Show me the list of employees with a company car allowance.", "label": "finance"}
+{"text": "Retrieve the financial data for the recent marketing event.", "label": "finance"}
+{"text": "List all the recurring bank transfers to the tax account.", "label": "finance"}
+{"text": "What is the current amount of the company's trade credit?", "label": "finance"}
+{"text": "Show me the list of audits that were completed last year.", "label": "finance"}
+{"text": "Get the list of banks where we have a savings account.", "label": "finance"}
+{"text": "Display the financial analysis of the new product line.", "label": "finance"}
+{"text": "Show me the list of employees with a stock option grant.", "label": "finance"}
+{"text": "Retrieve the financial records for the new subsidiary.", "label": "finance"}
 
 {"text": "summarize this document", "label": "other"}
 {"text": "what is artificial intelligence", "label": "other"}
@@ -47,3 +696,133 @@
 {"text": "tell me a joke", "label": "other"}
 {"text": "good morning", "label": "other"}
 {"text": "can you help me?", "label": "other"}
+{"text": "Can you summarize the plot of The Great Gatsby?", "label": "other"}
+{"text": "What is the recipe for chocolate chip cookies?", "label": "other"}
+{"text": "Explain the theory of general relativity to a five-year-old.", "label": "other"}
+{"text": "Generate a list of catchy names for a new coffee shop.", "label": "other"}
+{"text": "Write a short poem about the ocean.", "label": "other"}
+{"text": "What are the main ingredients in a Margarita?", "label": "other"}
+{"text": "Translate 'Where is the library?' into Japanese.", "label": "other"}
+{"text": "Who won the World Series in 2016?", "label": "other"}
+{"text": "How far away is the moon from the earth?", "label": "other"}
+{"text": "Tell me an interesting fact about octopuses.", "label": "other"}
+{"text": "What is the capital of Kazakhstan?", "label": "other"}
+{"text": "Write a funny caption for a photo of a cat.", "label": "other"}
+{"text": "How do you say 'thank you' in Swedish?", "label": "other"}
+{"text": "What are some good workout routines for beginners?", "label": "other"}
+{"text": "Give me a motivational quote for the day.", "label": "other"}
+{"text": "What is the weather like in Tokyo right now?", "label": "other"}
+{"text": "Explain how a steam engine works.", "label": "other"}
+{"text": "Write a script for a 30-second radio ad.", "label": "other"}
+{"text": "What are the best-selling books of all time?", "label": "other"}
+{"text": "How do I remove a red wine stain from a rug?", "label": "other"}
+{"text": "What are the rules of Chess?", "label": "other"}
+{"text": "Write a formal apology letter for missing a meeting.", "label": "other"}
+{"text": "Who painted the Sistine Chapel ceiling?", "label": "other"}
+{"text": "How do plants make their own food?", "label": "other"}
+{"text": "What are the top vacation spots in South America?", "label": "other"}
+{"text": "Give me some tips for improving my public speaking.", "label": "other"}
+{"text": "What is the most popular sport in the world?", "label": "other"}
+{"text": "How do I fix a leaky faucet?", "label": "other"}
+{"text": "What are the lyrics to 'Bohemian Rhapsody'?", "label": "other"}
+{"text": "Tell me a riddle that is hard to solve.", "label": "other"}
+{"text": "Can you explain the difference between a hurricane and a typhoon?", "label": "other"}
+{"text": "What is the highest grossing movie of all time?", "label": "other"}
+{"text": "How do you make a classic French omelet?", "label": "other"}
+{"text": "Write a short story about a time-traveling detective.", "label": "other"}
+{"text": "What are the three branches of the US government?", "label": "other"}
+{"text": "Explain the process of photosynthesis in simple terms.", "label": "other"}
+{"text": "Who won the Nobel Peace Prize in 2023?", "label": "other"}
+{"text": "What is the square root of 144?", "label": "other"}
+{"text": "Tell me a fun fact about the planet Jupiter.", "label": "other"}
+{"text": "What are the main causes of the French Revolution?", "label": "other"}
+{"text": "Write a LinkedIn post announcing a new job promotion.", "label": "other"}
+{"text": "How do I calculate the area of a circle?", "label": "other"}
+{"text": "What is the best way to train for a half-marathon?", "label": "other"}
+{"text": "Give me a list of common idioms and their meanings.", "label": "other"}
+{"text": "What are the benefits of drinking green tea?", "label": "other"}
+{"text": "Explain the rules of American Football.", "label": "other"}
+{"text": "Who is the lead singer of the band U2?", "label": "other"}
+{"text": "What are the ingredients in a traditional Paella?", "label": "other"}
+{"text": "Write a thank you note for a wedding gift.", "label": "other"}
+{"text": "How do I get red wine stains out of a white shirt?", "label": "other"}
+{"text": "What is the distance between London and Paris?", "label": "other"}
+{"text": "Tell me a bedtime story about a friendly dragon.", "label": "other"}
+{"text": "What are the most popular tourist attractions in Rome?", "label": "other"}
+{"text": "How do I start a podcast on a budget?", "label": "other"}
+{"text": "What is the difference between an asteroid and a comet?", "label": "other"}
+{"text": "Write a professional email to a recruiter.", "label": "other"}
+{"text": "What are the primary colors in painting?", "label": "other"}
+{"text": "How do I make a paper airplane that flies well?", "label": "other"}
+{"text": "What is the meaning of the word 'redundant'?", "label": "other"}
+{"text": "Who invented the telephone?", "label": "other"}
+{"text": "What are the seven wonders of the ancient world?", "label": "other"}
+{"text": "Write a script for a 1-minute YouTube intro.", "label": "other"}
+{"text": "How do I grow tomatoes in a small apartment?", "label": "other"}
+{"text": "What is the capital of Australia?", "label": "other"}
+{"text": "Give me a healthy smoothie recipe.", "label": "other"}
+{"text": "Explain the basic concepts of supply and demand.", "label": "other"}
+{"text": "Who wrote the novel '1984'?", "label": "other"}
+{"text": "What are the symptoms of a common cold?", "label": "other"}
+{"text": "How do I reset my Wi-Fi router?", "label": "other"}
+{"text": "What is the fastest animal on land?", "label": "other"}
+{"text": "Tell me a joke about a computer.", "label": "other"}
+{"text": "What is the current population of the world?", "label": "other"}
+{"text": "Write a 5-star review for a local coffee shop.", "label": "other"}
+{"text": "How do I meditate if I have a busy mind?", "label": "other"}
+{"text": "What are the health benefits of yoga?", "label": "other"}
+{"text": "Explain the water cycle to a 2nd grader.", "label": "other"}
+{"text": "Who was the first person to walk on the moon?", "label": "other"}
+{"text": "What is the difference between a crocodile and an alligator?", "label": "other"}
+{"text": "How do I cook a perfect medium-rare steak?", "label": "other"}
+{"text": "What are the main themes of the movie 'The Matrix'?", "label": "other"}
+{"text": "Write a short bio for a dating app.", "label": "other"}
+{"text": "How do I stop my glasses from fogging up with a mask?", "label": "other"}
+{"text": "What is the most spoken language in the world?", "label": "other"}
+{"text": "Tell me about the history of the Olympic Games.", "label": "other"}
+{"text": "What are the ingredients in a Caesar salad?", "label": "other"}
+{"text": "How do I learn to play the guitar?", "label": "other"}
+{"text": "What is the difference between 'their', 'there', and 'they're'?", "label": "other"}
+{"text": "Write a sympathy card message for a lost pet.", "label": "other"}
+{"text": "What are the rules of the card game Poker?", "label": "other"}
+{"text": "How do I save money on my monthly groceries?", "label": "other"}
+{"text": "What is the largest organ in the human body?", "label": "other"}
+{"text": "Tell me a story about a talking cat.", "label": "other"}
+{"text": "What are the benefits of reading every day?", "label": "other"}
+{"text": "How do I improve my typing speed?", "label": "other"}
+{"text": "What is the capital of Canada?", "label": "other"}
+{"text": "Write a caption for an Instagram photo of a sunset.", "label": "other"}
+{"text": "How do I make a budget in Excel?", "label": "other"}
+{"text": "What are the best-selling video games of all time?", "label": "other"}
+{"text": "Explain how a solar panel generates electricity.", "label": "other"}
+{"text": "Who is the current Prime Minister of the UK?", "label": "other"}
+{"text": "What are the main ingredients in hummus?", "label": "other"}
+{"text": "How do I get better at public speaking?", "label": "other"}
+{"text": "What is the difference between a virus and a bacterium?", "label": "other"}
+{"text": "Write a formal cover letter for a marketing job.", "label": "other"}
+{"text": "What are the primary colors in the CMYK model?", "label": "other"}
+{"text": "How do I bake a potato in the microwave?", "label": "other"}
+{"text": "What is the meaning of the word 'resilient'?", "label": "other"}
+{"text": "Who painted the Mona Lisa?", "label": "other"}
+{"text": "What are the five senses of the human body?", "label": "other"}
+{"text": "Write a 1-sentence horror story.", "label": "other"}
+{"text": "How do I care for a succulent plant?", "label": "other"}
+{"text": "What is the most popular social media app?", "label": "other"}
+{"text": "Tell me about the history of the Eiffel Tower.", "label": "other"}
+{"text": "What are the ingredients in a Mojito?", "label": "other"}
+{"text": "How do I learn a new language fast?", "label": "other"}
+{"text": "What is the difference between 'affect' and 'effect'?", "label": "other"}
+{"text": "Write a graduation card message for a college student.", "label": "other"}
+{"text": "What are the rules of the game Monopoly?", "label": "other"}
+{"text": "How do I lower my electricity bill?", "label": "other"}
+{"text": "What is the largest country in the world by land area?", "label": "other"}
+{"text": "Tell me a story about a haunted house.", "label": "other"}
+{"text": "What are the benefits of sleep for brain health?", "label": "other"}
+{"text": "How do I improve my handwriting?", "label": "other"}
+{"text": "What is the capital of Germany?", "label": "other"}
+{"text": "Write a caption for a photo of a beach.", "label": "other"}
+{"text": "How do I make a to-do list that actually works?", "label": "other"}
+{"text": "What are the best-selling smartphones of all time?", "label": "other"}
+{"text": "Explain how a wind turbine works.", "label": "other"}
+{"text": "Who is the current President of France?", "label": "other"}
+{"text": "What are the main ingredients in guacamole?", "label": "other"}

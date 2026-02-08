@@ -4,3 +4,123 @@
 {"text": "show sales data for Q1", "label": "sales"}
 {"text": "write a blog post", "label": "other"}
 {"text": "get salary details", "label": "finance"}
+{"text": "What is the largest desert in the world?", "label": "other"}
+{"text": "How do I tie a Windsor knot?", "label": "other"}
+{"text": "What is the best way to clean a cast iron skillet?", "label": "other"}
+{"text": "Tell me about the history of the Great Wall of China.", "label": "other"}
+{"text": "Write a short bio for a professional social media profile.", "label": "other"}
+{"text": "What is the population of New York City?", "label": "other"}
+{"text": "Write a review for a fictional futuristic movie.", "label": "other"}
+{"text": "How do I meditate for the first time?", "label": "other"}
+{"text": "What are the primary colors in the RGB model?", "label": "other"}
+{"text": "Who invented the lightbulb?", "label": "other"}
+{"text": "Get the balance sheet as of today's date.", "label": "finance"}
+{"text": "Display the operational costs for the warehouse.", "label": "finance"}
+{"text": "Show me the list of corporate sponsorships paid this year.", "label": "finance"}
+{"text": "Retrieve the documentation for the R&D tax credit.", "label": "finance"}
+{"text": "What is the current net margin for the service division?", "label": "finance"}
+{"text": "Show me the history of late payment fees from clients.", "label": "finance"}
+{"text": "List all charitable donations made by the company.", "label": "finance"}
+{"text": "Get the account numbers for the payroll distribution.", "label": "finance"}
+{"text": "Display the financial KPIs for the board meeting.", "label": "finance"}
+{"text": "Show me the current year-to-date revenue.", "label": "finance"}
+{"text": "Get the credit limit for the new corporate account.", "label": "sales"}
+{"text": "Display the sales commission report for the team.", "label": "sales"}
+{"text": "Show me the list of VIP customers for the holiday event.", "label": "sales"}
+{"text": "Retrieve the specifications for the custom order.", "label": "sales"}
+{"text": "What is the average time it takes to close a deal?", "label": "sales"}
+{"text": "Show me the list of leads tagged as 'Hot'.", "label": "sales"}
+{"text": "List all customers who have a birthday this month.", "label": "sales"}
+{"text": "Get the tracking number for the international shipment.", "label": "sales"}
+{"text": "Display the competitor pricing analysis report.", "label": "sales"}
+{"text": "Show me the list of customers eligible for the loyalty program.", "label": "sales"}
+{"text": "Display the current status of the CI/CD pipeline.", "label": "it"}
+{"text": "Show me the list of users who have multi-factor authentication disabled.", "label": "it"}
+{"text": "Retrieve the Kubernetes logs for the crashing pod.", "label": "it"}
+{"text": "What is the current IP allocation for the subnet?", "label": "it"}
+{"text": "Show me the list of authorized service accounts.", "label": "it"}
+{"text": "Get the hardware specifications for the new server rack.", "label": "it"}
+{"text": "Display the temperature sensor readings for the data center.", "label": "it"}
+{"text": "Show me the list of printers on the print server.", "label": "it"}
+{"text": "Retrieve the disaster recovery plan document.", "label": "it"}
+{"text": "What is the status of the current software rollout?", "label": "it"}
+{"text": "Get the height and weight charts for the newborn.", "label": "healthcare"}
+{"text": "Display the respiratory therapist's notes for the COPD patient.", "label": "healthcare"}
+{"text": "Show me the list of available wheelchairs in the facility.", "label": "healthcare"}
+{"text": "Retrieve the historical lab data for the thyroid panel.", "label": "healthcare"}
+{"text": "What is the status of the organ donor registry for the patient?", "label": "healthcare"}
+{"text": "Show me the smoking cessation progress for the patient.", "label": "healthcare"}
+{"text": "List the patients who require a translator for their visit.", "label": "healthcare"}
+{"text": "Get the bone density scan results for the osteopenia screening.", "label": "healthcare"}
+{"text": "Display the hospice care plan for the terminal patient.", "label": "healthcare"}
+{"text": "Show me the medical power of attorney for the resident.", "label": "healthcare"}
+{"text": "Get the LinkedIn profiles for the current executive board.", "label": "hr"}
+{"text": "Display the attendance logs for the morning shift.", "label": "hr"}
+{"text": "Show me the bonus payout calculations for the sales department.", "label": "hr"}
+{"text": "Retrieve the referral history for the current hiring drive.", "label": "hr"}
+{"text": "What are the current labor law compliance certificates?", "label": "hr"}
+{"text": "Show me the list of employees who need visa renewals.", "label": "hr"}
+{"text": "List the departments with the highest overtime hours.", "label": "hr"}
+{"text": "Get the office equipment assignment list for the new staff.", "label": "hr"}
+{"text": "Display the professional development budget usage by team.", "label": "hr"}
+{"text": "Show me the current staff directory with office extensions.", "label": "hr"}
+{"text": "Give me a list of synonyms for the word 'happy'.", "label": "other"}
+{"text": "Who wrote the play 'Hamilton'?", "label": "other"}
+{"text": "What is the meaning of life, the universe, and everything?", "label": "other"}
+{"text": "Write a haiku about the winter.", "label": "other"}
+{"text": "How many ounces are in a gallon?", "label": "other"}
+{"text": "What is the tallest mountain in Africa?", "label": "other"}
+{"text": "Tell me a scary story in three sentences.", "label": "other"}
+{"text": "What are some healthy snack ideas for work?", "label": "other"}
+{"text": "How do I bake a sourdough bread from scratch?", "label": "other"}
+{"text": "What is the difference between a fruit and a vegetable?", "label": "other"}
+{"text": "List all the payments that were made in cash.", "label": "finance"}
+{"text": "What is the current amount of the company's long-term debt?", "label": "finance"}
+{"text": "Show me the list of suppliers with a minimum order quantity.", "label": "finance"}
+{"text": "Get the list of authorized signers for the investment account.", "label": "finance"}
+{"text": "Display the financial impact of the new tax law.", "label": "finance"}
+{"text": "Show me the list of tax credits that the company is eligible for.", "label": "finance"}
+{"text": "Retrieve the financial statements for the joint venture.", "label": "finance"}
+{"text": "List all the invoices that were paid early.", "label": "finance"}
+{"text": "What is the current amount of the company's short-term debt?", "label": "finance"}
+{"text": "Show me the list of assets that were impaired this year.", "label": "finance"}
+{"text": "Retrieve the sales contract for the school district account.", "label": "sales"}
+{"text": "List all orders that were delivered early.", "label": "sales"}
+{"text": "What is the current status of the sales goal for the team?", "label": "sales"}
+{"text": "Show me the list of leads that are in the 'Prospecting' stage.", "label": "sales"}
+{"text": "Get the list of products that have a limited edition release.", "label": "sales"}
+{"text": "Display the sales revenue by day of the week.", "label": "sales"}
+{"text": "Show me the list of customers who have a membership.", "label": "sales"}
+{"text": "Retrieve the sales commission policy for the company.", "label": "sales"}
+{"text": "List all orders that were picked up in-store.", "label": "sales"}
+{"text": "What is the current status of the sales lead database?", "label": "sales"}
+{"text": "Show me the list of users with access to the file server.", "label": "it"}
+{"text": "Get the list of active connections to the VPN.", "label": "it"}
+{"text": "Display the error logs for the CRM.", "label": "it"}
+{"text": "Show me the list of users who have access to the payroll system.", "label": "it"}
+{"text": "Retrieve the logs for the most recent database failure.", "label": "it"}
+{"text": "List all users who have access to the marketing database.", "label": "it"}
+{"text": "What is the current status of the web server?", "label": "it"}
+{"text": "Show me the list of users with access to the HR system.", "label": "it"}
+{"text": "Get the list of active connections to the file server.", "label": "it"}
+{"text": "Display the system logs for the last week.", "label": "it"}
+{"text": "List all doctors specialized in sports medicine.", "label": "healthcare"}
+{"text": "What are the latest lab results for the patient's liver enzymes?", "label": "healthcare"}
+{"text": "Show me the patient's history of autoimmune disorders.", "label": "healthcare"}
+{"text": "Get the results of the recent hearing test for the child.", "label": "healthcare"}
+{"text": "Display the schedule for the patient's upcoming chemotherapy.", "label": "healthcare"}
+{"text": "Show me the list of patients with a history of skin cancer.", "label": "healthcare"}
+{"text": "Retrieve the patient's record of recent vision exams.", "label": "healthcare"}
+{"text": "List all doctors who are currently accepting new patients.", "label": "healthcare"}
+{"text": "What are the results of the patient's recent allergy testing?", "label": "healthcare"}
+{"text": "Show me the patient's record of recent hospitalizations.", "label": "healthcare"}
+{"text": "Show me the bereavement leave policy.", "label": "hr"}
+{"text": "Who is the HR business partner for the Retail division?", "label": "hr"}
+{"text": "Retrieve the tax withholding forms for the new staff.", "label": "hr"}
+{"text": "List all employees who use public transit for commuting.", "label": "hr"}
+{"text": "Show me the list of staff with a company credit card.", "label": "hr"}
+{"text": "What are the current hiring targets for the AI team?", "label": "hr"}
+{"text": "Display the list of staff with outstanding expense reports.", "label": "hr"}
+{"text": "Show me the list of attendees for the leadership summit.", "label": "hr"}
+{"text": "Retrieve the job offer for the candidate who declined.", "label": "hr"}
+{"text": "Who is the main contact for the employee assistance program?", "label": "hr"}

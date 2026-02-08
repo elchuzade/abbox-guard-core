@@ -1,3 +1,4 @@
+import torch
 import numpy as np
 from datasets import load_dataset
 from transformers import (
@@ -66,6 +67,8 @@ def main():
         label2id=label2id,
         id2label=id2label
     )
+    device = torch.device("mps" if torch.backends.mps.is_available() else "cpu")
+    model = model.to(device)
 
     # 6) Training configuration
     args = TrainingArguments(

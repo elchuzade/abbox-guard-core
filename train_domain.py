@@ -1,3 +1,4 @@
+import torch
 import numpy as np
 from datasets import load_dataset
 from transformers import (
@@ -58,13 +59,15 @@ def main():
         label2id=label2id,
         id2label=id2label,
     )
+    device = torch.device("mps" if torch.backends.mps.is_available() else "cpu")
+    model = model.to(device)
 
     args = TrainingArguments(
         output_dir="out_domain",
-        learning_rate=2e-5,
+        learning_rate=1e-5,
         per_device_train_batch_size=16,
         per_device_eval_batch_size=32,
-        num_train_epochs=5,
+        num_train_epochs=10,
         eval_strategy="epoch",     # transformers v5
         save_strategy="epoch",
         logging_steps=20,

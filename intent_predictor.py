@@ -36,9 +36,9 @@ def predict_intent(text: str):
 
 if __name__ == "__main__":
     tests = [
-        # ("read", "Show me 3 doctors with all info except EFN"),
-        # ("write", "Update the employee email address"),
-        # ("other", "Tell me a joke"),
+        ("read", "Show me 3 doctors with all info except EFN"),
+        ("write", "Update the employee email address"),
+        ("other", "Tell me a joke"),
         ("read", "Show me how employee salaries changed after the update"),
         ("write", "What happens if we change customer email addresses?"),
         ("read", "Explain the impact of modifying invoice totals last quarter"),
