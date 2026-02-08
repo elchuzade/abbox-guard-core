@@ -10,3 +10,48 @@
 {"text":"How are you?","label":"other"}
 {"text":"Provide a brief overview of this article","label":"read"}
 {"text":"Add phone number to employee profile","label":"write"}
+{"text": "The visit details should be updated to match the chart.", "label": "write"}
+{"text": "Can we have the outdated transaction records cleaned up?", "label": "write"}
+{"text": "Make the patient address match the one on file at the clinic.", "label": "write"}
+{"text": "I'm ready for the customer records to be updated as agreed.", "label": "write"}
+{"text": "Could you remove those incorrect medical notes?", "label": "write"}
+{"text": "Let's resolve the address errors as soon as possible.", "label": "write"}
+{"text": "I need the benefits information to be up to date.", "label": "write"}
+{"text": "Please apply the changes to the doctor profiles.", "label": "write"}
+{"text": "Is it possible to get the visit notes corrected by noon?", "label": "write"}
+{"text": "The appointment data needs a fix for the wrong date.", "label": "write"}
+{"text": "Can you ensure the employee status is set to Active?", "label": "write"}
+{"text": "I want the transaction totals to be correct for the report.", "label": "write"}
+{"text": "Let's delete the test visits from production.", "label": "write"}
+{"text": "Can you fix the typo in the customer record?", "label": "write"}
+{"text": "I'd like the patient IDs to be updated in the system.", "label": "write"}
+{"text": "Go ahead and correct the error in the insurance number.", "label": "write"}
+{"text": "Can we update the doctor emails to the new domain?", "label": "write"}
+{"text": "I need the visit record to show the correct departure time.", "label": "write"}
+{"text": "Please correct the appointment times in the system.", "label": "write"}
+{"text": "Let's update the user's insurance information.", "label": "write"}
+{"text": "Tell me which columns would change when a visit is cancelled.", "label": "read"}
+{"text": "What's the result of re-computing the payroll for this month?", "label": "read"}
+{"text": "Does changing the address trigger a validation step?", "label": "read"}
+{"text": "If we standardized the phone format, how many would need updates?", "label": "read"}
+{"text": "I need the business rules for updating visit statuses.", "label": "read"}
+{"text": "Show me a side-by-side of the employee list before and after.", "label": "read"}
+{"text": "Would changing the invoice due date affect the reminder schedule?", "label": "read"}
+{"text": "What is the estimated impact of backfilling missing insurance?", "label": "read"}
+{"text": "If I set the status to Pending, what would change?", "label": "read"}
+{"text": "Measure the impact of an appointment cancellation on the day.", "label": "read"}
+{"text": "Can we preview the updated transaction before applying?", "label": "read"}
+{"text": "Will changing the medical note break the referral flow?", "label": "read"}
+{"text": "I want to review the possible edits to the customer record.", "label": "read"}
+{"text": "What happens to linked appointments if a patient is merged?", "label": "read"}
+{"text": "Show me the count of records that need a status update.", "label": "read"}
+{"text": "If the role was updated, how would that affect permissions?", "label": "read"}
+{"text": "Does changing the appointment affect the provider's schedule?", "label": "read"}
+{"text": "Check if a status update would resend the confirmation.", "label": "read"}
+{"text": "What is the outcome of a dry run on the invoice update?", "label": "read"}
+{"text": "Estimate how many exports would need to be regenerated.", "label": "read"}
+{"text": "Discuss what happens to reports when invoice dates are corrected.", "label": "other"}
+{"text": "Walk me through the flow when an employee record is deactivated.", "label": "other"}
+{"text": "Hypothetically, what if we normalized all customer phone numbers?", "label": "other"}
+{"text": "What would be the impact of recalculating visit durations?", "label": "other"}
+{"text": "Can you summarize the impact of archiving old medical notes?", "label": "other"}

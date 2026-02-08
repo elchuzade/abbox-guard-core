@@ -1,7 +1,17 @@
 {"text": "Can you help me?", "label": "other"}
+{"text": "Can you outline the impact of removing the old insurance codes?", "label": "other"}
 {"text": "Create a job description for a frontend developer", "label": "other"}
+{"text": "Describe a scenario where changing the doctor's EFN causes issues.", "label": "other"}
+{"text": "Describe the consequences of changing invoice totals", "label": "other"}
+{"text": "Describe the consequences of merging duplicate patient records.", "label": "other"}
+{"text": "Discuss the impact of removing medical notes", "label": "other"}
+{"text": "Discuss the implications of changing the invoice numbering scheme.", "label": "other"}
 {"text": "Draft a LinkedIn post about our product launch", "label": "other"}
 {"text": "Draft an internal memo", "label": "other"}
+{"text": "Explain how deleting users might impact analytics", "label": "other"}
+{"text": "Explain how modifying the primary key would affect foreign keys.", "label": "other"}
+{"text": "Explain the policy implications of updating records", "label": "other"}
+{"text": "Explain what would happen if we deleted all archived invoices.", "label": "other"}
 {"text": "Generate a marketing slogan", "label": "other"}
 {"text": "Generate a press release", "label": "other"}
 {"text": "Generate sample interview questions", "label": "other"}
@@ -10,14 +20,51 @@
 {"text": "Hello, how are you?", "label": "other"}
 {"text": "Hi there", "label": "other"}
 {"text": "How are you?", "label": "other"}
+{"text": "How might reports be affected if we correct the transaction dates?", "label": "other"}
+{"text": "How would reports change if visits were removed?", "label": "other"}
+{"text": "How would the dashboard change if we removed the legacy role?", "label": "other"}
+{"text": "Hypothetically, what if customer emails were changed?", "label": "other"}
+{"text": "Hypothetically, what if we updated every user's timezone?", "label": "other"}
 {"text": "Nice work", "label": "other"}
 {"text": "Ok", "label": "other"}
+{"text": "Simulate the impact of a 10% salary cut across departments.", "label": "other"}
+{"text": "Simulate what employee salaries would look like after a raise", "label": "other"}
 {"text": "Tell me a joke", "label": "other"}
 {"text": "Thanks", "label": "other"}
+{"text": "Walk me through what happens when a visit is marked cancelled.", "label": "other"}
+{"text": "Walk me through what happens when data is edited", "label": "other"}
+{"text": "What are the pros and cons of automating the medical note updates?", "label": "other"}
+{"text": "What are the risks of bulk-updating customer addresses?", "label": "other"}
+{"text": "What are the risks of modifying patient data?", "label": "other"}
 {"text": "What do you think about AI?", "label": "other"}
+{"text": "What does the workflow look like if we add a new status for appointments?", "label": "other"}
+{"text": "What would be the effect of recalculating all employee benefits?", "label": "other"}
+{"text": "What would be the effect of updating salaries?", "label": "other"}
 {"text": "Write a short story for children", "label": "other"}
 {"text": "Write a welcome email for new users", "label": "other"}
 {"text": "Write an announcement email", "label": "other"}
+{"text": "Analyze how many dashboards would be affected by a data correction.", "label": "read"}
+{"text": "Analyze how many reports would be invalidated by a data correction.", "label": "read"}
+{"text": "Analyze the impact of removing cancelled visits on the monthly summary.", "label": "read"}
+{"text": "Analyze the impact of removing duplicate entries on the total revenue report.", "label": "read"}
+{"text": "Calculate the delta if we were to adjust these salary bands.", "label": "read"}
+{"text": "Calculate the variance if we were to adjust these invoice totals.", "label": "read"}
+{"text": "Can we see a draft of the updated customer record before saving?", "label": "read"}
+{"text": "Can we see a draft of the updated employee record before committing?", "label": "read"}
+{"text": "Can you model the effects of a mass update on system latency?", "label": "read"}
+{"text": "Can you model the effects of a schema change on query performance?", "label": "read"}
+{"text": "Can you simulate the revenue impact of a 5% price increase?", "label": "read"}
+{"text": "Can you simulate the tax implications of a 5% salary increase?", "label": "read"}
+{"text": "Can you verify if correcting this address would impact the shipping zone?", "label": "read"}
+{"text": "Can you verify if correcting this typo would impact the search index?", "label": "read"}
+{"text": "Check if a hypothetical correction to the DOB would flag the account.", "label": "read"}
+{"text": "Check if a hypothetical correction to the DOB would trigger a review.", "label": "read"}
+{"text": "Check if an address update would re-trigger the shipping notification.", "label": "read"}
+{"text": "Check if an email update would re-trigger the welcome flow.", "label": "read"}
+{"text": "Check if updating the insurance ID would trigger a new billing cycle.", "label": "read"}
+{"text": "Check if updating the visit status would trigger a notification.", "label": "read"}
+{"text": "Check the feasibility of updating 10,000 records at once.", "label": "read"}
+{"text": "Check the feasibility of updating 5,000 medical records at once.", "label": "read"}
 {"text": "Compare appointment average change over time", "label": "read"}
 {"text": "Compare appointment average change rate over time", "label": "read"}
 {"text": "Compare appointment average decrease rate over time", "label": "read"}
@@ -1013,6 +1060,8 @@
 {"text": "Create a short summary of visit total", "label": "read"}
 {"text": "Create a short summary of visit trend", "label": "read"}
 {"text": "Create a short summary of visit variance", "label": "read"}
+{"text": "Determine the impact of a record deletion on the annual summary.", "label": "read"}
+{"text": "Determine the impact of a visit cancellation on the daily summary.", "label": "read"}
 {"text": "Display all invoices from March", "label": "read"}
 {"text": "Display appointment DOB", "label": "read"}
 {"text": "Display appointment EFN", "label": "read"}
@@ -1582,6 +1631,14 @@
 {"text": "Display visit role", "label": "read"}
 {"text": "Display visit salary", "label": "read"}
 {"text": "Display visit status", "label": "read"}
+{"text": "Does a change in employee role affect their visible dashboards?", "label": "read"}
+{"text": "Does a change in patient DOB affect their vaccination schedule?", "label": "read"}
+{"text": "Does changing the appointment type affect the billing logic?", "label": "read"}
+{"text": "Does fixing the email address require a secondary verification?", "label": "read"}
+{"text": "Does modifying the zip code change the shipping zone calculation?", "label": "read"}
+{"text": "Does updating the phone number require a verification step?", "label": "read"}
+{"text": "Evaluate the risk of changing the customer's primary contact.", "label": "read"}
+{"text": "Evaluate the risk of modifying the primary key for customer IDs.", "label": "read"}
 {"text": "Extract appointment DOB", "label": "read"}
 {"text": "Extract appointment EFN", "label": "read"}
 {"text": "Extract appointment SSN", "label": "read"}
@@ -2268,6 +2325,8 @@
 {"text": "Get visit role", "label": "read"}
 {"text": "Get visit salary", "label": "read"}
 {"text": "Get visit status", "label": "read"}
+{"text": "Give me a breakdown of records that would be touched by an email update.", "label": "read"}
+{"text": "Give me a breakdown of users who would be affected by an email update.", "label": "read"}
 {"text": "Give me a summary of appointment average", "label": "read"}
 {"text": "Give me a summary of appointment average change", "label": "read"}
 {"text": "Give me a summary of appointment average change rate", "label": "read"}
@@ -3155,6 +3214,34 @@
 {"text": "Give me visit role", "label": "read"}
 {"text": "Give me visit salary", "label": "read"}
 {"text": "Give me visit status", "label": "read"}
+{"text": "I need a report on what happens to the audit log during a record merge.", "label": "read"}
+{"text": "I need a report on what happens to the audit trail during a bulk update.", "label": "read"}
+{"text": "I need to understand the logic behind updating appointment statuses.", "label": "read"}
+{"text": "I need to understand the logic behind updating visit statuses.", "label": "read"}
+{"text": "I want to audit the potential changes to the doctor schedule.", "label": "read"}
+{"text": "I want to audit the potential changes to the insurance table.", "label": "read"}
+{"text": "I want to see the difference between current and proposed doctor schedules.", "label": "read"}
+{"text": "I want to see the difference between the current and proposed salary tiers.", "label": "read"}
+{"text": "I want to visualize the impact of a mass status update.", "label": "read"}
+{"text": "I want to visualize the workflow after a status change.", "label": "read"}
+{"text": "I'm curious about the result of a hypothetical merge of customer records.", "label": "read"}
+{"text": "I'm looking for a summary of potential changes to the medical record.", "label": "read"}
+{"text": "I'm looking for a summary of potential changes to the visit record.", "label": "read"}
+{"text": "If I changed the invoice status to Disputed, what would happen?", "label": "read"}
+{"text": "If I changed the role to \u2018Admin\u2019, what new data would I see?", "label": "read"}
+{"text": "If I were to wipe the cache, would the customer login still work?", "label": "read"}
+{"text": "If the insurance number was fixed, would the claim be re-processed?", "label": "read"}
+{"text": "If the invoice date moved to next month, how would that affect the close?", "label": "read"}
+{"text": "If the invoice total was revised, how would that affect the tax line?", "label": "read"}
+{"text": "If the salary was revised, how would that affect the benefits calc?", "label": "read"}
+{"text": "If the status was set to inactive, would the user still appear in reports?", "label": "read"}
+{"text": "If the visit date shifted to Friday, how would that look on the calendar?", "label": "read"}
+{"text": "If we cleaned the address data, how many \u2018Invalid\u2019 flags would disappear?", "label": "read"}
+{"text": "If we normalized the address data, how many duplicates would we find?", "label": "read"}
+{"text": "If we updated the insurance numbers, how many records would be affected?", "label": "read"}
+{"text": "If we updated the phone numbers, how many records would be touched?", "label": "read"}
+{"text": "If we were to update the addresses, would validation still pass?", "label": "read"}
+{"text": "I\u2019m curious about the result of a hypothetical purge of inactive files.", "label": "read"}
 {"text": "List all employees hired last year", "label": "read"}
 {"text": "List all invoices from March", "label": "read"}
 {"text": "List appointment DOB", "label": "read"}
@@ -4141,6 +4228,10 @@
 {"text": "Show invoice total", "label": "read"}
 {"text": "Show invoice trend", "label": "read"}
 {"text": "Show invoice variance", "label": "read"}
+{"text": "Show me a before-and-after view of the customer list.", "label": "read"}
+{"text": "Show me a preview of the dashboard with the corrected doctor names.", "label": "read"}
+{"text": "Show me a preview of the roster after the proposed role changes.", "label": "read"}
+{"text": "Show me a \u2018before and after\u2019 comparison of the transaction log.", "label": "read"}
 {"text": "Show me all doctors except contact info", "label": "read"}
 {"text": "Show me all employees", "label": "read"}
 {"text": "Show me all user accounts", "label": "read"}
@@ -4324,6 +4415,8 @@
 {"text": "Show me patient role", "label": "read"}
 {"text": "Show me patient salary", "label": "read"}
 {"text": "Show me patient status", "label": "read"}
+{"text": "Show me the distribution of records that need a phone number fix.", "label": "read"}
+{"text": "Show me the distribution of records that need an address update.", "label": "read"}
 {"text": "Show me transaction DOB", "label": "read"}
 {"text": "Show me transaction EFN", "label": "read"}
 {"text": "Show me transaction SSN", "label": "read"}
@@ -4369,6 +4462,8 @@
 {"text": "Show me visit role", "label": "read"}
 {"text": "Show me visit salary", "label": "read"}
 {"text": "Show me visit status", "label": "read"}
+{"text": "Show me which doctor profiles are currently marked for revision.", "label": "read"}
+{"text": "Show me which invoices are currently flagged for revision.", "label": "read"}
 {"text": "Show medical diagnosis DOB", "label": "read"}
 {"text": "Show medical diagnosis EFN", "label": "read"}
 {"text": "Show medical diagnosis SSN", "label": "read"}
@@ -5746,6 +5841,8 @@
 {"text": "TLDR visit total", "label": "read"}
 {"text": "TLDR visit trend", "label": "read"}
 {"text": "TLDR visit variance", "label": "read"}
+{"text": "Tell me which fields change when an employee is promoted.", "label": "read"}
+{"text": "Tell me which fields would change when an invoice is voided.", "label": "read"}
 {"text": "View appointment DOB", "label": "read"}
 {"text": "View appointment EFN", "label": "read"}
 {"text": "View appointment SSN", "label": "read"}
@@ -5980,6 +6077,34 @@
 {"text": "View visit role", "label": "read"}
 {"text": "View visit salary", "label": "read"}
 {"text": "View visit status", "label": "read"}
+{"text": "What are the consequences of adjusting a finalized transaction?", "label": "read"}
+{"text": "What are the consequences of modifying a submitted claim?", "label": "read"}
+{"text": "What does the data look like after a mock cleanup of the database?", "label": "read"}
+{"text": "What does the data look like after a simulated cleanup of duplicates?", "label": "read"}
+{"text": "What does the downstream report look like if we delete these 50 rows?", "label": "read"}
+{"text": "What does the report look like if we delete these test users?", "label": "read"}
+{"text": "What happens to related invoices if a customer is deactivated?", "label": "read"}
+{"text": "What happens to the related visits if a doctor profile is deleted?", "label": "read"}
+{"text": "What is the predicted error rate if we automate the record cleanup?", "label": "read"}
+{"text": "What is the predicted impact if we backfill the missing roles?", "label": "read"}
+{"text": "What is the projected outcome of changing the patient\u2019s status to discharged?", "label": "read"}
+{"text": "What is the projected outcome of marking this invoice as paid?", "label": "read"}
+{"text": "What is the result of a 'dry run' on the customer record update?", "label": "read"}
+{"text": "What is the result of a dry run on the visit record update?", "label": "read"}
+{"text": "What would the charts show if we adjusted Q3 transaction data?", "label": "read"}
+{"text": "What would the historical charts show if we adjusted last year\u2019s data?", "label": "read"}
+{"text": "What's the outcome of re-running the payroll for last month?", "label": "read"}
+{"text": "What\u2019s the outcome of re-calculating the benefits for all staff?", "label": "read"}
+{"text": "Will changing the appointment time cause a scheduling conflict?", "label": "read"}
+{"text": "Will changing the employee's department cause a permission change?", "label": "read"}
+{"text": "Will modifying the medical history break the clinical trial logic?", "label": "read"}
+{"text": "Will modifying the transaction amount break the reconciliation?", "label": "read"}
+{"text": "Would a change in the employee's role affect their current access permissions?", "label": "read"}
+{"text": "Would a change in the patient's insurance affect their eligibility?", "label": "read"}
+{"text": "Would a change to the medical prescription be visible in the portal?", "label": "read"}
+{"text": "Would a revision of medical notes be visible in the patient portal?", "label": "read"}
+{"text": "Would an adjustment to the patient\u2019s age affect their eligibility?", "label": "read"}
+{"text": "Would an update to the patient's insurance affect their visit history?", "label": "read"}
 {"text": "Add a new employee", "label": "write"}
 {"text": "Add appointment DOB", "label": "write"}
 {"text": "Add appointment EFN", "label": "write"}
@@ -6041,6 +6166,7 @@
 {"text": "Add employee role", "label": "write"}
 {"text": "Add employee salary", "label": "write"}
 {"text": "Add employee status", "label": "write"}
+{"text": "Add insurance number to patient record", "label": "write"}
 {"text": "Add invoice DOB", "label": "write"}
 {"text": "Add invoice EFN", "label": "write"}
 {"text": "Add invoice SSN", "label": "write"}
@@ -6207,6 +6333,29 @@
 {"text": "Add visit salary", "label": "write"}
 {"text": "Add visit status", "label": "write"}
 {"text": "Adjust salary for employee", "label": "write"}
+{"text": "Before changing invoice totals, I want to understand the impact", "label": "write"}
+{"text": "Before deleting visits, can we see the outcome?", "label": "write"}
+{"text": "Can someone fix the customer email address?", "label": "write"}
+{"text": "Can we clean up outdated medical notes?", "label": "write"}
+{"text": "Can we get a cleanup of the outdated appointment records done?", "label": "write"}
+{"text": "Can we get a cleanup of the outdated medical notes done?", "label": "write"}
+{"text": "Can we get the employee emails updated to their new domains?", "label": "write"}
+{"text": "Can we get the user emails updated to their new company domains?", "label": "write"}
+{"text": "Can we make sure the customer's email is actually what it should be?", "label": "write"}
+{"text": "Can we make sure the doctor's phone number is up to date?", "label": "write"}
+{"text": "Can you adjust the employee role to 'Senior' in the database?", "label": "write"}
+{"text": "Can you adjust the user role to Viewer in the database?", "label": "write"}
+{"text": "Can you ensure the invoice totals are corrected before the run?", "label": "write"}
+{"text": "Can you ensure the transaction amounts are corrected before month-end?", "label": "write"}
+{"text": "Can you ensure visit records are updated?", "label": "write"}
+{"text": "Can you handle correcting the insurance number?", "label": "write"}
+{"text": "Can you help me correct the DOB in the medical record?", "label": "write"}
+{"text": "Can you help me correct the spelling in the medical record?", "label": "write"}
+{"text": "Can you process the change for the employee's home address?", "label": "write"}
+{"text": "Can you process the change for the patient's contact number?", "label": "write"}
+{"text": "Can you see to it that the customer status is updated to 'Gold'?", "label": "write"}
+{"text": "Can you see to it that the patient status is updated to Active?", "label": "write"}
+{"text": "Can you take care of updating the visit status?", "label": "write"}
 {"text": "Change appointment DOB", "label": "write"}
 {"text": "Change appointment EFN", "label": "write"}
 {"text": "Change appointment SSN", "label": "write"}
@@ -6222,6 +6371,7 @@
 {"text": "Change appointment role", "label": "write"}
 {"text": "Change appointment salary", "label": "write"}
 {"text": "Change appointment status", "label": "write"}
+{"text": "Change appointment status to completed", "label": "write"}
 {"text": "Change billing information", "label": "write"}
 {"text": "Change contact information", "label": "write"}
 {"text": "Change customer DOB", "label": "write"}
@@ -6229,6 +6379,7 @@
 {"text": "Change customer SSN", "label": "write"}
 {"text": "Change customer address", "label": "write"}
 {"text": "Change customer email", "label": "write"}
+{"text": "Change customer email address", "label": "write"}
 {"text": "Change customer ethnicity", "label": "write"}
 {"text": "Change customer gender", "label": "write"}
 {"text": "Change customer insurance", "label": "write"}
@@ -6440,8 +6591,20 @@
 {"text": "Change visit role", "label": "write"}
 {"text": "Change visit salary", "label": "write"}
 {"text": "Change visit status", "label": "write"}
+{"text": "Check if we need to update insurance details", "label": "write"}
+{"text": "Check whether changing salaries breaks compliance", "label": "write"}
 {"text": "Correct invoice amount", "label": "write"}
 {"text": "Correct payroll mistake", "label": "write"}
+{"text": "Correct the employee phone number", "label": "write"}
+{"text": "Could you handle the removal of those duplicate transactions?", "label": "write"}
+{"text": "Could you handle the removal of those erroneous visits?", "label": "write"}
+{"text": "Could you help with fixing transaction amounts?", "label": "write"}
+{"text": "Could you perform the necessary cleanup on the customer table?", "label": "write"}
+{"text": "Could you perform the necessary cleanup on the visit table?", "label": "write"}
+{"text": "Could you take care of the necessary adjustments to the insurance ID?", "label": "write"}
+{"text": "Could you take care of the necessary updates to the insurance policy?", "label": "write"}
+{"text": "Could you take the steps to delete those duplicate records?", "label": "write"}
+{"text": "Could you take the steps to delete those inactive accounts?", "label": "write"}
 {"text": "Create appointment DOB", "label": "write"}
 {"text": "Create appointment EFN", "label": "write"}
 {"text": "Create appointment SSN", "label": "write"}
@@ -6732,6 +6895,7 @@
 {"text": "Delete appointment record", "label": "write"}
 {"text": "Delete customer record", "label": "write"}
 {"text": "Delete doctor record", "label": "write"}
+{"text": "Delete duplicate employee records", "label": "write"}
 {"text": "Delete email from appointment", "label": "write"}
 {"text": "Delete email from customer", "label": "write"}
 {"text": "Delete email from doctor", "label": "write"}
@@ -6831,6 +6995,7 @@
 {"text": "Delete medical prescription record", "label": "write"}
 {"text": "Delete medical record record", "label": "write"}
 {"text": "Delete medical report record", "label": "write"}
+{"text": "Delete outdated medical records", "label": "write"}
 {"text": "Delete patient record", "label": "write"}
 {"text": "Delete payroll entry", "label": "write"}
 {"text": "Delete payroll record", "label": "write"}
@@ -6919,7 +7084,45 @@
 {"text": "Edit customer profile", "label": "write"}
 {"text": "Edit employee information", "label": "write"}
 {"text": "Edit invoice", "label": "write"}
+{"text": "Edit medical history entry", "label": "write"}
 {"text": "Edit transaction data", "label": "write"}
+{"text": "Ensure transaction records are fixed", "label": "write"}
+{"text": "Fix transaction amount", "label": "write"}
+{"text": "Go ahead and align the medical record with the discharge summary.", "label": "write"}
+{"text": "Go ahead and align the transaction amounts with the bank statement.", "label": "write"}
+{"text": "Go ahead and fix the mismatch in the customer's address.", "label": "write"}
+{"text": "Go ahead and fix the mismatch in the insurance number.", "label": "write"}
+{"text": "Handle adjustments to employee benefits data", "label": "write"}
+{"text": "I need the appointment time moved to 3 PM for this patient.", "label": "write"}
+{"text": "I need the benefits data to be current for the new quarter.", "label": "write"}
+{"text": "I need the database to reflect the new customer tiers.", "label": "write"}
+{"text": "I need the database to reflect the new salary brackets.", "label": "write"}
+{"text": "I need the employee data synchronized with the HR system.", "label": "write"}
+{"text": "I need the insurance data synchronized with the provider.", "label": "write"}
+{"text": "I need the medical notes to be updated with the latest vitals.", "label": "write"}
+{"text": "I need the patient information to be consistent with the new chart.", "label": "write"}
+{"text": "I need the payroll data to be current for the new year.", "label": "write"}
+{"text": "I need the system to stop showing the old invoice status.", "label": "write"}
+{"text": "I need the system to stop showing the old patient address.", "label": "write"}
+{"text": "I need the transaction record to show the correct amount.", "label": "write"}
+{"text": "I need the user accounts to be consistent with the new policy.", "label": "write"}
+{"text": "I need the visit notes to be updated with the latest findings.", "label": "write"}
+{"text": "I need the visit record to show the actual arrival time.", "label": "write"}
+{"text": "I need the visit time changed to 2 PM for this patient.", "label": "write"}
+{"text": "I think the employee role should be updated", "label": "write"}
+{"text": "I want the invoice total to reflect the 10% discount.", "label": "write"}
+{"text": "I want the transaction total to reflect the refund.", "label": "write"}
+{"text": "I want to ensure the invoice info is accurate for the audit.", "label": "write"}
+{"text": "I want to ensure the invoice totals are accurate for the audit.", "label": "write"}
+{"text": "I want to make sure customer addresses are accurate", "label": "write"}
+{"text": "I'd like the doctor IDs to be updated across the system.", "label": "write"}
+{"text": "I'd like the system to reflect the updated visit dates for the clinic.", "label": "write"}
+{"text": "I'm hoping we can get the customer's email fixed in the system.", "label": "write"}
+{"text": "I'm looking to have the doctor's last name corrected.", "label": "write"}
+{"text": "I'm looking to have those customer addresses corrected.", "label": "write"}
+{"text": "I'm ready for those employee records to be modified as discussed.", "label": "write"}
+{"text": "I'm ready for those invoice records to be updated as discussed.", "label": "write"}
+{"text": "If we removed inactive users, what would change?", "label": "write"}
 {"text": "Insert a new invoice", "label": "write"}
 {"text": "Insert appointment DOB", "label": "write"}
 {"text": "Insert appointment EFN", "label": "write"}
@@ -7087,6 +7290,7 @@
 {"text": "Insert medical report salary", "label": "write"}
 {"text": "Insert medical report status", "label": "write"}
 {"text": "Insert new employee", "label": "write"}
+{"text": "Insert new medical diagnosis", "label": "write"}
 {"text": "Insert patient DOB", "label": "write"}
 {"text": "Insert patient EFN", "label": "write"}
 {"text": "Insert patient SSN", "label": "write"}
@@ -7147,6 +7351,39 @@
 {"text": "Insert visit role", "label": "write"}
 {"text": "Insert visit salary", "label": "write"}
 {"text": "Insert visit status", "label": "write"}
+{"text": "Is it possible to adjust employee phone numbers?", "label": "write"}
+{"text": "Is it possible to have the medical notes corrected by EOD?", "label": "write"}
+{"text": "Is it possible to have the transaction records fixed by EOD?", "label": "write"}
+{"text": "Is there a way to get these duplicate invoices merged by Friday?", "label": "write"}
+{"text": "Is there a way to get these duplicate records merged today?", "label": "write"}
+{"text": "It might be necessary to revise doctor profiles", "label": "write"}
+{"text": "It seems some patient data needs adjustment", "label": "write"}
+{"text": "It's necessary to revise the medical history for this patient.", "label": "write"}
+{"text": "It's time to remove those patients who have been inactive for 2 years.", "label": "write"}
+{"text": "It\u2019s necessary to revise the medical history for this case.", "label": "write"}
+{"text": "It\u2019s time to remove those users who haven't logged in since 2022.", "label": "write"}
+{"text": "I\u2019d like the employee IDs to be updated across the board.", "label": "write"}
+{"text": "I\u2019d like the system to reflect the updated salary for the HR team.", "label": "write"}
+{"text": "I\u2019m hoping we can get the patient\u2019s DOB fixed in the system.", "label": "write"}
+{"text": "I\u2019m looking to have the patient\u2019s last name corrected.", "label": "write"}
+{"text": "I\u2019m looking to have those employee phone numbers straightened out.", "label": "write"}
+{"text": "Let me know what happens when a record is deleted", "label": "write"}
+{"text": "Let's ensure the invoice amounts are rounded to two decimals.", "label": "write"}
+{"text": "Let's get the medical record updated based on the lab results.", "label": "write"}
+{"text": "Let's get the phone number discrepancies resolved immediately.", "label": "write"}
+{"text": "Let's go ahead and delete the test users from the staging environment.", "label": "write"}
+{"text": "Let's make sure the patient's insurance information is updated.", "label": "write"}
+{"text": "Let's resolve the discrepancies in the invoice totals.", "label": "write"}
+{"text": "Let\u2019s ensure the transaction amounts are rounded to two decimals.", "label": "write"}
+{"text": "Let\u2019s get the phone number errors resolved immediately.", "label": "write"}
+{"text": "Let\u2019s get the visit durations updated based on the log files.", "label": "write"}
+{"text": "Let\u2019s go ahead and delete the test appointments from the live site.", "label": "write"}
+{"text": "Let\u2019s make sure the doctor\u2019s phone number is updated.", "label": "write"}
+{"text": "Let\u2019s resolve the discrepancies in the medical history records.", "label": "write"}
+{"text": "Looks like the doctor address is wrong, can that be corrected?", "label": "write"}
+{"text": "Make sure the invoice information is correct", "label": "write"}
+{"text": "Make the customer address match the one on this PDF.", "label": "write"}
+{"text": "Make the doctor's availability match the new schedule.", "label": "write"}
 {"text": "Modify appointment DOB", "label": "write"}
 {"text": "Modify appointment EFN", "label": "write"}
 {"text": "Modify appointment SSN", "label": "write"}
@@ -7222,6 +7459,7 @@
 {"text": "Modify invoice role", "label": "write"}
 {"text": "Modify invoice salary", "label": "write"}
 {"text": "Modify invoice status", "label": "write"}
+{"text": "Modify invoice totals", "label": "write"}
 {"text": "Modify medical diagnosis DOB", "label": "write"}
 {"text": "Modify medical diagnosis EFN", "label": "write"}
 {"text": "Modify medical diagnosis SSN", "label": "write"}
@@ -7378,6 +7616,18 @@
 {"text": "Modify visit role", "label": "write"}
 {"text": "Modify visit salary", "label": "write"}
 {"text": "Modify visit status", "label": "write"}
+{"text": "Please ensure the medical record is accurate", "label": "write"}
+{"text": "Please execute the update for the appointment status.", "label": "write"}
+{"text": "Please execute the update for the customer status.", "label": "write"}
+{"text": "Please facilitate the correction of the appointment times.", "label": "write"}
+{"text": "Please facilitate the correction of the transaction logs.", "label": "write"}
+{"text": "Please finalize the changes to the customer profiles.", "label": "write"}
+{"text": "Please finalize the changes to the doctor profiles.", "label": "write"}
+{"text": "Please rectify the error in the customer\u2019s phone number.", "label": "write"}
+{"text": "Please rectify the error in the employee's SSN.", "label": "write"}
+{"text": "Please see that the appointment status is set to Confirmed.", "label": "write"}
+{"text": "Please see that the visit status is marked as 'Completed'.", "label": "write"}
+{"text": "Preview the effects of deleting appointments", "label": "write"}
 {"text": "Remove DOB from appointment", "label": "write"}
 {"text": "Remove DOB from customer", "label": "write"}
 {"text": "Remove DOB from doctor", "label": "write"}
@@ -7486,6 +7736,7 @@
 {"text": "Remove gender from transaction", "label": "write"}
 {"text": "Remove gender from user", "label": "write"}
 {"text": "Remove gender from visit", "label": "write"}
+{"text": "Remove inactive customer accounts", "label": "write"}
 {"text": "Remove insurance from appointment", "label": "write"}
 {"text": "Remove insurance from customer", "label": "write"}
 {"text": "Remove insurance from doctor", "label": "write"}
@@ -7531,6 +7782,7 @@
 {"text": "Remove language from transaction", "label": "write"}
 {"text": "Remove language from user", "label": "write"}
 {"text": "Remove language from visit", "label": "write"}
+{"text": "Remove patient phone number", "label": "write"}
 {"text": "Remove phone number", "label": "write"}
 {"text": "Remove phone number from appointment", "label": "write"}
 {"text": "Remove phone number from customer", "label": "write"}
@@ -7827,6 +8079,7 @@
 {"text": "Set user phone number", "label": "write"}
 {"text": "Set user race", "label": "write"}
 {"text": "Set user role", "label": "write"}
+{"text": "Set user role to admin", "label": "write"}
 {"text": "Set user salary", "label": "write"}
 {"text": "Set user status", "label": "write"}
 {"text": "Set visit DOB", "label": "write"}
@@ -7844,6 +8097,15 @@
 {"text": "Set visit role", "label": "write"}
 {"text": "Set visit salary", "label": "write"}
 {"text": "Set visit status", "label": "write"}
+{"text": "Someone needs to correct the patient DOB", "label": "write"}
+{"text": "Someone should clean up duplicate customer records", "label": "write"}
+{"text": "The doctor\u2019s address needs to reflect the new clinic location now.", "label": "write"}
+{"text": "The employee details should be revised to match the HR file.", "label": "write"}
+{"text": "The employee's role needs to reflect the promotion effective today.", "label": "write"}
+{"text": "The insurance details should be revised to the current policy.", "label": "write"}
+{"text": "The patient data needs an adjustment to account for the typo.", "label": "write"}
+{"text": "The phone number looks incorrect, can you resolve it?", "label": "write"}
+{"text": "The user data needs an adjustment to fix the typo in the name.", "label": "write"}
 {"text": "Update address field", "label": "write"}
 {"text": "Update appointment DOB", "label": "write"}
 {"text": "Update appointment EFN", "label": "write"}
@@ -7879,6 +8141,7 @@
 {"text": "Update doctor DOB", "label": "write"}
 {"text": "Update doctor EFN", "label": "write"}
 {"text": "Update doctor SSN", "label": "write"}
+{"text": "Update doctor address", "label": "write"}
 {"text": "Update doctor address", "label": "write"}
 {"text": "Update doctor contact details", "label": "write"}
 {"text": "Update doctor email", "label": "write"}
@@ -8076,168 +8339,676 @@
 {"text": "Update visit insurance", "label": "write"}
 {"text": "Update visit insurance number", "label": "write"}
 {"text": "Update visit language", "label": "write"}
+{"text": "Update visit notes", "label": "write"}
 {"text": "Update visit phone number", "label": "write"}
 {"text": "Update visit race", "label": "write"}
 {"text": "Update visit role", "label": "write"}
 {"text": "Update visit salary", "label": "write"}
 {"text": "Update visit status", "label": "write"}
-{"text": "What would happen if we updated employee salaries?", "label": "write"}
-{"text": "Can someone fix the customer email address?", "label": "write"}
-{"text": "Looks like the doctor address is wrong, can that be corrected?", "label": "write"}
-{"text": "If we removed inactive users, what would change?", "label": "write"}
-{"text": "Before changing invoice totals, I want to understand the impact", "label": "write"}
-{"text": "Is it possible to adjust employee phone numbers?", "label": "write"}
-{"text": "Can you take care of updating the visit status?", "label": "write"}
-{"text": "Someone should clean up duplicate customer records", "label": "write"}
 {"text": "We might need to revise some patient information", "label": "write"}
-{"text": "Please ensure the medical record is accurate", "label": "write"}
-{"text": "Would changing the appointment time affect reports?", "label": "write"}
-{"text": "Can you handle correcting the insurance number?", "label": "write"}
-{"text": "I think the employee role should be updated", "label": "write"}
-{"text": "Before deleting visits, can we see the outcome?", "label": "write"}
-{"text": "Could you help with fixing transaction amounts?", "label": "write"}
-{"text": "It seems some patient data needs adjustment", "label": "write"}
-{"text": "We should probably update the customer status", "label": "write"}
-{"text": "Make sure the invoice information is correct", "label": "write"}
-{"text": "Can we clean up outdated medical notes?", "label": "write"}
-{"text": "The phone number looks incorrect, can you resolve it?", "label": "write"}
-{"text": "What happens if employee records are modified?", "label": "write"}
-{"text": "Check whether changing salaries breaks compliance", "label": "write"}
 {"text": "We need to review and possibly fix user emails", "label": "write"}
-{"text": "Preview the effects of deleting appointments", "label": "write"}
-{"text": "Someone needs to correct the patient DOB", "label": "write"}
-{"text": "Can you ensure visit records are updated?", "label": "write"}
-{"text": "I want to make sure customer addresses are accurate", "label": "write"}
-{"text": "Would updating medical history affect analytics?", "label": "write"}
-{"text": "Handle adjustments to employee benefits data", "label": "write"}
-{"text": "It might be necessary to revise doctor profiles", "label": "write"}
-{"text": "Check if we need to update insurance details", "label": "write"}
-{"text": "Let me know what happens when a record is deleted", "label": "write"}
 {"text": "We should clean incorrect appointment entries", "label": "write"}
-{"text": "Ensure transaction records are fixed", "label": "write"}
+{"text": "We should probably update the customer status", "label": "write"}
+{"text": "What happens if employee records are modified?", "label": "write"}
+{"text": "What would happen if we updated employee salaries?", "label": "write"}
+{"text": "Would changing the appointment time affect reports?", "label": "write"}
 {"text": "Would correcting user data change reports?", "label": "write"}
-{"text": "Correct the employee phone number", "label": "write"}
-{"text": "Remove inactive customer accounts", "label": "write"}
-{"text": "Update doctor address", "label": "write"}
-{"text": "Delete outdated medical records", "label": "write"}
-{"text": "Change appointment status to completed", "label": "write"}
-{"text": "Modify invoice totals", "label": "write"}
-{"text": "Set user role to admin", "label": "write"}
-{"text": "Add insurance number to patient record", "label": "write"}
-{"text": "Fix transaction amount", "label": "write"}
-{"text": "Update visit notes", "label": "write"}
-{"text": "Delete duplicate employee records", "label": "write"}
-{"text": "Change customer email address", "label": "write"}
-{"text": "Remove patient phone number", "label": "write"}
-{"text": "Insert new medical diagnosis", "label": "write"}
-{"text": "Edit medical history entry", "label": "write"}
-{"text": "Simulate what employee salaries would look like after a raise", "label": "other"}
-{"text": "Explain how deleting users might impact analytics", "label": "other"}
-{"text": "What are the risks of modifying patient data?", "label": "other"}
-{"text": "Describe the consequences of changing invoice totals", "label": "other"}
-{"text": "How would reports change if visits were removed?", "label": "other"}
-{"text": "Explain the policy implications of updating records", "label": "other"}
-{"text": "Walk me through what happens when data is edited", "label": "other"}
-{"text": "Hypothetically, what if customer emails were changed?", "label": "other"}
-{"text": "Discuss the impact of removing medical notes", "label": "other"}
-{"text": "What would be the effect of updating salaries?", "label": "other"}
-{"text": "What does the downstream report look like if we delete these 50 rows?", "label": "read"}
-{"text": "Can you simulate the tax implications of a 5% salary increase?", "label": "read"}
-{"text": "If I were to wipe the cache, would the customer login still work?", "label": "read"}
-{"text": "Show me a preview of the dashboard with the corrected doctor names.", "label": "read"}
-{"text": "I’m curious about the result of a hypothetical purge of inactive files.", "label": "read"}
-{"text": "Does modifying the zip code change the shipping zone calculation?", "label": "read"}
-{"text": "Calculate the variance if we were to adjust these invoice totals.", "label": "read"}
-{"text": "Check if updating the insurance ID would trigger a new billing cycle.", "label": "read"}
-{"text": "What is the projected outcome of changing the patient’s status to discharged?", "label": "read"}
-{"text": "Would a change in the employee's role affect their current access permissions?", "label": "read"}
-{"text": "Give me a breakdown of users who would be affected by an email update.", "label": "read"}
-{"text": "I want to see the difference between the current and proposed salary tiers.", "label": "read"}
-{"text": "Analyze the impact of removing duplicate entries on the total revenue report.", "label": "read"}
-{"text": "If the visit date shifted to Friday, how would that look on the calendar?", "label": "read"}
-{"text": "Can you verify if correcting this typo would impact the search index?", "label": "read"}
-{"text": "I need a report on what happens to the audit log during a record merge.", "label": "read"}
-{"text": "What would the historical charts show if we adjusted last year’s data?", "label": "read"}
-{"text": "Check the feasibility of updating 10,000 records at once.", "label": "read"}
-{"text": "Will changing the appointment time cause a scheduling conflict?", "label": "read"}
-{"text": "Show me which doctor profiles are currently marked for revision.", "label": "read"}
-{"text": "What are the consequences of adjusting a finalized transaction?", "label": "read"}
-{"text": "If we updated the phone numbers, how many records would be touched?", "label": "read"}
-{"text": "I'm looking for a summary of potential changes to the medical record.", "label": "read"}
-{"text": "Can you model the effects of a mass update on system latency?", "label": "read"}
-{"text": "Check if a hypothetical correction to the DOB would flag the account.", "label": "read"}
-{"text": "What does the data look like after a mock cleanup of the database?", "label": "read"}
-{"text": "Evaluate the risk of modifying the primary key for customer IDs.", "label": "read"}
-{"text": "If the insurance number was fixed, would the claim be re-processed?", "label": "read"}
-{"text": "I want to visualize the workflow after a status change.", "label": "read"}
-{"text": "Would a revision of medical notes be visible in the patient portal?", "label": "read"}
-{"text": "Tell me which fields change when an employee is promoted.", "label": "read"}
-{"text": "What’s the outcome of re-calculating the benefits for all staff?", "label": "read"}
-{"text": "Does fixing the email address require a secondary verification?", "label": "read"}
-{"text": "If we cleaned the address data, how many ‘Invalid’ flags would disappear?", "label": "read"}
-{"text": "I need to understand the logic behind updating visit statuses.", "label": "read"}
-{"text": "Show me a ‘before and after’ comparison of the transaction log.", "label": "read"}
-{"text": "Would an adjustment to the patient’s age affect their eligibility?", "label": "read"}
-{"text": "What is the predicted error rate if we automate the record cleanup?", "label": "read"}
-{"text": "If I changed the role to ‘Admin’, what new data would I see?", "label": "read"}
-{"text": "Determine the impact of a record deletion on the annual summary.", "label": "read"}
-{"text": "Can we see a draft of the updated customer record before saving?", "label": "read"}
-{"text": "Will modifying the medical history break the clinical trial logic?", "label": "read"}
-{"text": "I want to audit the potential changes to the insurance table.", "label": "read"}
-{"text": "What happens to the related visits if a doctor profile is deleted?", "label": "read"}
-{"text": "Show me the distribution of records that need a phone number fix.", "label": "read"}
-{"text": "If the invoice total was revised, how would that affect the tax line?", "label": "read"}
-{"text": "Does a change in patient DOB affect their vaccination schedule?", "label": "read"}
-{"text": "Check if an address update would re-trigger the shipping notification.", "label": "read"}
-{"text": "What is the result of a 'dry run' on the customer record update?", "label": "read"}
-{"text": "Analyze how many reports would be invalidated by a data correction.", "label": "read"}
-{"text": "I’m looking to have those employee phone numbers straightened out.", "label": "write"}
-{"text": "Can we make sure the customer's email is actually what it should be?", "label": "write"}
-{"text": "The doctor’s address needs to reflect the new clinic location now.", "label": "write"}
-{"text": "Is there a way to get these duplicate records merged today?", "label": "write"}
-{"text": "Go ahead and align the transaction amounts with the bank statement.", "label": "write"}
-{"text": "I need the patient information to be consistent with the new chart.", "label": "write"}
-{"text": "Could you take care of the necessary adjustments to the insurance ID?", "label": "write"}
-{"text": "Please see that the visit status is marked as 'Completed'.", "label": "write"}
-{"text": "It’s time to remove those users who haven't logged in since 2022.", "label": "write"}
-{"text": "I’d like the system to reflect the updated salary for the HR team.", "label": "write"}
-{"text": "Let’s resolve the discrepancies in the medical history records.", "label": "write"}
-{"text": "Can you ensure the invoice totals are corrected before the run?", "label": "write"}
-{"text": "I’m hoping we can get the patient’s DOB fixed in the system.", "label": "write"}
+{"text": "Would updating medical history affect analytics?", "label": "write"}
+{"text": "Would you mind updating the address for the billing contact?", "label": "write"}
 {"text": "Would you mind updating the role for all junior developers?", "label": "write"}
-{"text": "I need the appointment time moved to 3 PM for this patient.", "label": "write"}
-{"text": "The insurance details should be revised to the current policy.", "label": "write"}
-{"text": "Can we get a cleanup of the outdated medical notes done?", "label": "write"}
-{"text": "Make the customer address match the one on this PDF.", "label": "write"}
-{"text": "I'm ready for those employee records to be modified as discussed.", "label": "write"}
-{"text": "Could you handle the removal of those erroneous visits?", "label": "write"}
-{"text": "Let’s get the phone number errors resolved immediately.", "label": "write"}
-{"text": "I need the benefits data to be current for the new quarter.", "label": "write"}
-{"text": "Please finalize the changes to the doctor profiles.", "label": "write"}
-{"text": "Is it possible to have the transaction records fixed by EOD?", "label": "write"}
-{"text": "The patient data needs an adjustment to account for the typo.", "label": "write"}
-{"text": "Can you see to it that the customer status is updated to 'Gold'?", "label": "write"}
-{"text": "I want to ensure the invoice info is accurate for the audit.", "label": "write"}
-{"text": "Let’s go ahead and delete the test appointments from the live site.", "label": "write"}
-{"text": "Can you help me correct the spelling in the medical record?", "label": "write"}
-{"text": "I’d like the employee IDs to be updated across the board.", "label": "write"}
-{"text": "Go ahead and fix the mismatch in the insurance number.", "label": "write"}
-{"text": "Can we get the user emails updated to their new company domains?", "label": "write"}
-{"text": "I need the visit record to show the actual arrival time.", "label": "write"}
-{"text": "Please facilitate the correction of the transaction logs.", "label": "write"}
-{"text": "Let’s make sure the doctor’s phone number is updated.", "label": "write"}
-{"text": "I need the system to stop showing the old patient address.", "label": "write"}
-{"text": "Could you perform the necessary cleanup on the customer table?", "label": "write"}
-{"text": "It’s necessary to revise the medical history for this case.", "label": "write"}
-{"text": "Can you adjust the employee role to 'Senior' in the database?", "label": "write"}
-{"text": "I want the invoice total to reflect the 10% discount.", "label": "write"}
-{"text": "Please execute the update for the appointment status.", "label": "write"}
-{"text": "I need the insurance data synchronized with the provider.", "label": "write"}
-{"text": "Could you take the steps to delete those inactive accounts?", "label": "write"}
-{"text": "I’m looking to have the patient’s last name corrected.", "label": "write"}
-{"text": "Let’s ensure the transaction amounts are rounded to two decimals.", "label": "write"}
-{"text": "Can you process the change for the employee's home address?", "label": "write"}
-{"text": "I need the medical notes to be updated with the latest vitals.", "label": "write"}
-{"text": "Please rectify the error in the customer’s phone number.", "label": "write"}
-{"text": "Let’s get the visit durations updated based on the log files.", "label": "write"}
-{"text": "I need the database to reflect the new salary brackets.", "label": "write"}
+{"text": "Run a simulation of a 15% benefit reduction across the board.", "label": "other"}
+{"text": "Outline what would happen if we deactivated all test accounts.", "label": "other"}
+{"text": "What are the downsides of changing the visit status in bulk?", "label": "other"}
+{"text": "Describe the fallout of deleting historical transaction data.", "label": "other"}
+{"text": "How would analytics change if we dropped the legacy status field?", "label": "other"}
+{"text": "What does the pipeline look like if we add a new appointment type?", "label": "other"}
+{"text": "Explain how changing the user role would affect their dashboard.", "label": "other"}
+{"text": "What are the trade-offs of batch-updating doctor availability?", "label": "other"}
+{"text": "Describe a case where updating the SSN triggers a compliance check.", "label": "other"}
+{"text": "How might the summary change if we fix the transaction currency?", "label": "other"}
+{"text": "What would the export look like if we removed these 20 test rows?", "label": "read"}
+{"text": "Can you project the cost impact of a 3% salary bump?", "label": "read"}
+{"text": "If we corrected the DOB, would the age field recalculate?", "label": "read"}
+{"text": "Show me a preview of the list after the planned status changes.", "label": "read"}
+{"text": "I'm interested in the result of a hypothetical deactivation of old users.", "label": "read"}
+{"text": "Does changing the medical prescription affect the billing code?", "label": "read"}
+{"text": "Compute the variance if we were to update these visit dates.", "label": "read"}
+{"text": "Check if changing the employee status would send an email alert.", "label": "read"}
+{"text": "What is the expected outcome of setting this invoice to void?", "label": "read"}
+{"text": "Would updating the customer's address affect their shipping zone?", "label": "read"}
+{"text": "Give me a list of records that would be impacted by a role change.", "label": "read"}
+{"text": "I want to compare current vs proposed invoice due dates.", "label": "read"}
+{"text": "Assess the impact of removing test appointments on the calendar.", "label": "read"}
+{"text": "If the transaction date moved to next quarter, how would that show?", "label": "read"}
+{"text": "Can you confirm if fixing this SSN would impact the tax form?", "label": "read"}
+{"text": "I need to know what happens to the log when we merge records.", "label": "read"}
+{"text": "What would the trend show if we revised last quarter's revenue?", "label": "read"}
+{"text": "Check whether updating 2,000 user records at once is feasible.", "label": "read"}
+{"text": "Will changing the visit type cause a billing discrepancy?", "label": "read"}
+{"text": "Show me which transactions are currently pending revision.", "label": "read"}
+{"text": "What are the implications of editing an approved claim?", "label": "read"}
+{"text": "If we changed the doctor's availability, how many slots would change?", "label": "read"}
+{"text": "I'm looking for an overview of possible edits to the appointment.", "label": "read"}
+{"text": "Can you estimate the effect of a migration on downtime?", "label": "read"}
+{"text": "Check if correcting the insurance number would require re-approval.", "label": "read"}
+{"text": "What does the snapshot look like after a trial cleanup?", "label": "read"}
+{"text": "Assess the risk of updating the patient's primary physician.", "label": "read"}
+{"text": "If the role was set to Viewer, would they still see this report?", "label": "read"}
+{"text": "I want to see the effect of a bulk address correction.", "label": "read"}
+{"text": "Would an edit to the medical diagnosis show up in the timeline?", "label": "read"}
+{"text": "I'm looking to get those doctor phone numbers corrected.", "label": "write"}
+{"text": "Can we ensure the patient's email is correct in the system?", "label": "write"}
+{"text": "The invoice status needs to reflect the payment we received.", "label": "write"}
+{"text": "Is there a way to merge these duplicate visits by tomorrow?", "label": "write"}
+{"text": "Go ahead and sync the employee data with the HR roster.", "label": "write"}
+{"text": "I need the appointment records to match the new policy.", "label": "write"}
+{"text": "Could you apply the needed changes to the insurance number?", "label": "write"}
+{"text": "Please ensure the transaction status is set to Completed.", "label": "write"}
+{"text": "It's time to delete those employees who left in 2021.", "label": "write"}
+{"text": "I'd like the database to show the updated doctor schedule.", "label": "write"}
+{"text": "Let's fix the mismatches in the medical history.", "label": "write"}
+{"text": "Can you make sure the invoice amounts are right before we close.", "label": "write"}
+{"text": "I'm hoping we can get the user's role fixed in the system.", "label": "write"}
+{"text": "Would you mind changing the phone number for the primary contact?", "label": "write"}
+{"text": "I need the appointment moved to 4 PM for this customer.", "label": "write"}
+{"text": "How many records would be affected if we filtered by the 2024 tax year?", "label": "read"}
+{"text": "Show me the distribution of patient ages in the current database.", "label": "read"}
+{"text": "If we were to increase the price by 5%, what would the new total look like?", "label": "read"}
+{"text": "Can I see a preview of the report before the data is finalized?", "label": "read"}
+{"text": "What is the current status of the employee background checks?", "label": "read"}
+{"text": "I want to see if changing the zip code affects the shipping estimate.", "label": "read"}
+{"text": "Check if there are any duplicate entries in the insurance table.", "label": "read"}
+{"text": "Analyze the potential outcome of merging these two customer accounts.", "label": "read"}
+{"text": "Does modifying the visit date trigger a notification to the doctor?", "label": "read"}
+{"text": "Provide a summary of all invoices currently marked as 'Pending'.", "label": "read"}
+{"text": "What would happen to the analytics if we excluded inactive users?", "label": "read"}
+{"text": "Show me the trend of appointment cancellations over the last month.", "label": "read"}
+{"text": "I’m looking for a breakdown of transaction fees by region.", "label": "read"}
+{"text": "Would a change in salary tier impact the benefits eligibility logic?", "label": "read"}
+{"text": "Verify how many users still have the default temporary password.", "label": "read"}
+{"text": "If the patient's DOB was updated, would the age-based risk score change?", "label": "read"}
+{"text": "What does the audit log show for the last three changes to this record?", "label": "read"}
+{"text": "Compare the current medical notes with the version from yesterday.", "label": "read"}
+{"text": "Could you calculate the total revenue if these 10 invoices were paid today?", "label": "read"}
+{"text": "Check the system for any mismatched phone numbers in the staff directory.", "label": "read"}
+{"text": "What are the downstream effects of deleting a doctor’s profile?", "label": "read"}
+{"text": "Is there a correlation between visit status and patient satisfaction scores?", "label": "read"}
+{"text": "Show me the projected inventory levels if we fulfill all pending orders.", "label": "read"}
+{"text": "I want to visualize the workflow path if a record is rejected.", "label": "read"}
+{"text": "What would the dashboard look like if we adjusted the currency exchange rate?", "label": "read"}
+{"text": "Are there any reports that depend specifically on this insurance ID field?", "label": "read"}
+{"text": "Calculate the average salary for the marketing department for a mock budget.", "label": "read"}
+{"text": "If I removed the email address, would the account be deactivated automatically?", "label": "read"}
+{"text": "Check if the transaction amount matches the value in the external ledger.", "label": "read"}
+{"text": "Show me which records are currently locked for editing by other users.", "label": "read"}
+{"text": "What is the error rate for the automated data entry process this week?", "label": "read"}
+{"text": "Could you list the patients who would be eligible for the new clinical trial?", "label": "read"}
+{"text": "If we updated the role to 'Manager', what additional fields would appear?", "label": "read"}
+{"text": "I need to see the impact of a hypothetical 10% discount on all active orders.", "label": "read"}
+{"text": "Does a change in the customer's address update the sales tax on their invoice?", "label": "read"}
+{"text": "Identify the number of visits that haven't been assigned a doctor yet.", "label": "read"}
+{"text": "What happens to the appointment history if a patient record is archived?", "label": "read"}
+{"text": "Can you simulate a database rollback to see the previous state?", "label": "read"}
+{"text": "Is it possible to view the raw JSON data for this employee record?", "label": "read"}
+{"text": "Check for inconsistencies between the patient record and the insurance claim.", "label": "read"}
+{"text": "How many customer records are missing a primary phone number?", "label": "read"}
+{"text": "What’s the difference in results between the standard and the updated query?", "label": "read"}
+{"text": "Show me a draft of the notification that would be sent if we changed the time.", "label": "read"}
+{"text": "Verify the count of unique transactions processed in the last hour.", "label": "read"}
+{"text": "If the invoice status was changed, would the accounting software be notified?", "label": "read"}
+{"text": "Tell me which doctors have more than five appointments tomorrow.", "label": "read"}
+{"text": "Analyze whether correcting the DOB would affect the patient's insurance premium.", "label": "read"}
+{"text": "I want to see a list of users who would be logged out during maintenance.", "label": "read"}
+{"text": "What is the current balance of all accounts in the 'Overdue' category?", "label": "read"}
+{"text": "Is there a way to preview the data migration results before committing?", "label": "read"}
+{"text": "Show me the logs for all read-only access to sensitive medical data.", "label": "read"}
+{"text": "If the employee resigned, what happens to their unvested stock data?", "label": "read"}
+{"text": "Calculate the variance in transaction amounts between the two systems.", "label": "read"}
+{"text": "Check the availability of the doctor before we consider rescheduling.", "label": "read"}
+{"text": "What would the total headcount be if we finalized all pending hires?", "label": "read"}
+{"text": "I need a report on the data quality for the customer address fields.", "label": "read"}
+{"text": "If we modified the role permissions, who would lose access to the portal?", "label": "read"}
+{"text": "Verify if the insurance number follows the correct alphanumeric pattern.", "label": "read"}
+{"text": "What is the most frequent reason for visit status being set to 'Cancelled'?", "label": "read"}
+{"text": "Show me a summary of changes made by the automated cleanup script.", "label": "read"}
+{"text": "How many appointments would be moved if we closed the clinic on Monday?", "label": "read"}
+{"text": "If the transaction was reversed, would the loyalty points be deducted?", "label": "read"}
+{"text": "I want to see the distribution of salaries across different office locations.", "label": "read"}
+{"text": "What does the system show for the last time the patient record was accessed?", "label": "read"}
+{"text": "Compare the current invoice totals against the original estimates.", "label": "read"}
+{"text": "Could you check if the doctor's name is spelled correctly in the directory?", "label": "read"}
+{"text": "Analyze how removing duplicates would change the customer count in each state.", "label": "read"}
+{"text": "If we updated the email, would the old one be saved in the history?", "label": "read"}
+{"text": "Show me the count of transactions that are waiting for manual approval.", "label": "read"}
+{"text": "What would the system display if a user tried to login with an old email?", "label": "read"}
+{"text": "Check if any medical notes were flagged for review by the compliance team.", "label": "read"}
+{"text": "What is the average duration of a visit for this specific doctor?", "label": "read"}
+{"text": "Show me the records that would be deleted under the 7-year retention policy.", "label": "read"}
+{"text": "If the role was changed to 'Inactive', would the employee still appear in reports?", "label": "read"}
+{"text": "Determine if updating the phone number would break the two-factor setup.", "label": "read"}
+{"text": "I need to see the impact of a hypothetical change in the tax rate.", "label": "read"}
+{"text": "Check the status of all invoices related to insurance provider X.", "label": "read"}
+{"text": "What happens to the related files if a patient record is moved to the cloud?", "label": "read"}
+{"text": "Show me the current values for all fields in the doctor’s profile.", "label": "read"}
+{"text": "How many records would we have if we combined the three datasets?", "label": "read"}
+{"text": "If the salary was adjusted, how would the payroll tax be recalculated?", "label": "read"}
+{"text": "Check if the appointment time overlaps with any existing meetings.", "label": "read"}
+{"text": "What would the customer’s total spend be if we included tax in the view?", "label": "read"}
+{"text": "Show me a summary of all patient data that hasn't been updated this year.", "label": "read"}
+{"text": "Analyze the potential for data loss during a record cleanup operation.", "label": "read"}
+{"text": "If the insurance ID was wrong, how many claims would be rejected?", "label": "read"}
+{"text": "What is the current version of the medical record for patient 12345?", "label": "read"}
+{"text": "Check if there are any orphan records in the transaction table.", "label": "read"}
+{"text": "What would the ROI report look like if we adjusted the marketing spend?", "label": "read"}
+{"text": "Show me the list of employees whose salaries are above the current median.", "label": "read"}
+{"text": "Would updating the patient’s last name affect their lab results history?", "label": "read"}
+{"text": "What is the current count of customers who have not provided an address?", "label": "read"}
+{"text": "If we changed the visit status to 'In Progress', would the timer start?", "label": "read"}
+{"text": "Check if the invoice totals align with the purchase order data.", "label": "read"}
+{"text": "Show me a preview of the upcoming appointments for Dr. Smith.", "label": "read"}
+{"text": "What is the frequency of email address changes in the user database?", "label": "read"}
+{"text": "Analyze the impact of modifying the primary phone number on SMS alerts.", "label": "read"}
+{"text": "If we deleted these records, could they be recovered from the recycle bin?", "label": "read"}
+{"text": "Show me the data that was captured during the doctor’s last visit.", "label": "read"}
+{"text": "Is there a way to see the previous values of a modified transaction amount?", "label": "read"}
+{"text": "Go ahead and update the employee's salary to the new agreed amount.", "label": "write"}
+{"text": "Please fix the typo in the customer's email address immediately.", "label": "write"}
+{"text": "Remove all duplicate patient entries from the database now.", "label": "write"}
+{"text": "I need you to change the doctor’s office address to 123 Main St.", "label": "write"}
+{"text": "Adjust the invoice totals to reflect the applied credit.", "label": "write"}
+{"text": "Set the visit status to 'No-Show' for all missed appointments today.", "label": "write"}
+{"text": "Delete all users who haven't logged in for over five years.", "label": "write"}
+{"text": "Update the insurance number for patient John Doe to 987654321.", "label": "write"}
+{"text": "Correct the appointment time for tomorrow’s 9 AM slot to 10 AM.", "label": "write"}
+{"text": "Modify the medical history to include the recent allergy diagnosis.", "label": "write"}
+{"text": "Ensure the transaction records are updated with the correct timestamps.", "label": "write"}
+{"text": "Can you handle revising the employee benefits package in the system?", "label": "write"}
+{"text": "I need the patient's DOB to be changed to 05/12/1985.", "label": "write"}
+{"text": "Merge these two customer profiles into a single primary record.", "label": "write"}
+{"text": "Update the role for the entire engineering team to 'Developer II'.", "label": "write"}
+{"text": "Please see that the invoice information is corrected before printing.", "label": "write"}
+{"text": "Revise the doctor's phone number in the contact directory.", "label": "write"}
+{"text": "Clean up the outdated medical notes by archiving anything older than 2010.", "label": "write"}
+{"text": "Change the transaction amount for ID 456 to match the receipt.", "label": "write"}
+{"text": "Update the customer status to 'Inactive' for those with no recent orders.", "label": "write"}
+{"text": "Go ahead and rectify the error in the patient’s mailing address.", "label": "write"}
+{"text": "I want the system to reflect the new salary brackets for Q3.", "label": "write"}
+{"text": "Delete the erroneous visit record that was created this morning.", "label": "write"}
+{"text": "Make sure the insurance provider field is updated for all staff.", "label": "write"}
+{"text": "Adjust the employee’s hire date to reflect their actual start day.", "label": "write"}
+{"text": "Please finalize the changes to the patient’s medical record.", "label": "write"}
+{"text": "I need to have the email addresses synchronized with the new server.", "label": "write"}
+{"text": "Set the invoice status to 'Paid' for the following ten IDs.", "label": "write"}
+{"text": "Correct the spelling of the doctor’s name in the profile section.", "label": "write"}
+{"text": "Remove the credit card information from these customer records.", "label": "write"}
+{"text": "Update the appointment status to 'Confirmed' once the deposit is received.", "label": "write"}
+{"text": "I want you to fix the phone number format for all international clients.", "label": "write"}
+{"text": "Revise the transaction log to exclude the test entries from yesterday.", "label": "write"}
+{"text": "Change the primary key for this patient to the new national ID.", "label": "write"}
+{"text": "Please ensure the medical history is updated with the surgical results.", "label": "write"}
+{"text": "Go ahead and delete the inactive doctor profiles from the list.", "label": "write"}
+{"text": "Update the insurance expiry date for all policies ending this month.", "label": "write"}
+{"text": "I need the employee's role to be changed to 'Senior Architect'.", "label": "write"}
+{"text": "Correct the invoice total by removing the double-charged tax line.", "label": "write"}
+{"text": "Modify the patient data to include their preferred language.", "label": "write"}
+{"text": "Please take care of updating the visit notes for this morning's session.", "label": "write"}
+{"text": "Adjust the transaction amounts to account for the currency conversion.", "label": "write"}
+{"text": "Remove the duplicate phone numbers from the customer record.", "label": "write"}
+{"text": "Update the doctor’s availability to show they are out on Friday.", "label": "write"}
+{"text": "I want the system to overwrite the old address with the one I just provided.", "label": "write"}
+{"text": "Fix the error in the patient’s DOB that was entered by the triage nurse.", "label": "write"}
+{"text": "Please see to it that the employee’s bank details are updated.", "label": "write"}
+{"text": "Delete the appointment for next Monday as the patient cancelled.", "label": "write"}
+{"text": "Update the customer's email to their personal Gmail account.", "label": "write"}
+{"text": "I need to have these insurance details revised before the claim is filed.", "label": "write"}
+{"text": "Go ahead and clean the database of all incomplete transaction records.", "label": "write"}
+{"text": "Change the visit status to 'Rescheduled' for the 2 PM appointment.", "label": "write"}
+{"text": "Please modify the medical record to show the patient is now 'Recovered'.", "label": "write"}
+{"text": "Update the salary for all interns to the new minimum wage.", "label": "write"}
+{"text": "I need you to fix the mismatch in the transaction IDs.", "label": "write"}
+{"text": "Ensure the patient’s emergency contact information is updated.", "label": "write"}
+{"text": "Remove the doctor from the rotation for the upcoming weekend.", "label": "write"}
+{"text": "Update the invoice totals to include the late payment fee.", "label": "write"}
+{"text": "I want to change the customer’s phone number to 555-0199.", "label": "write"}
+{"text": "Correct the employee role in the payroll system to 'Lead Designer'.", "label": "write"}
+{"text": "Please handle the deletion of these outdated insurance records.", "label": "write"}
+{"text": "Update the appointment time so it doesn’t overlap with lunch.", "label": "write"}
+{"text": "Revise the patient information to include the new insurance provider.", "label": "write"}
+{"text": "I need the transaction amount to be updated to $150.00.", "label": "write"}
+{"text": "Go ahead and fix the typo in the doctor’s last name.", "label": "write"}
+{"text": "Update the customer status to 'VIP' based on their recent spend.", "label": "write"}
+{"text": "Please see that the medical notes are corrected for the 10 AM visit.", "label": "write"}
+{"text": "Remove the inactive users from the mailing list database.", "label": "write"}
+{"text": "Change the employee’s salary tier to 'Level 4' in the system.", "label": "write"}
+{"text": "Update the insurance number to reflect the new policy card.", "label": "write"}
+{"text": "I need the patient's DOB to be fixed in the electronic health record.", "label": "write"}
+{"text": "Please ensure the invoice info is updated with the correct billing address.", "label": "write"}
+{"text": "Delete the duplicate transaction that was processed by mistake.", "label": "write"}
+{"text": "Update the doctor’s profile with their new board certification.", "label": "write"}
+{"text": "I want the visit status changed to 'Arrived' for patient Smith.", "label": "write"}
+{"text": "Correct the phone number for the primary contact person.", "label": "write"}
+{"text": "Please modify the employee record to show they are on leave.", "label": "write"}
+{"text": "Update the appointment date for the follow-up to next Thursday.", "label": "write"}
+{"text": "I need you to fix the email address for the customer support ticket.", "label": "write"}
+{"text": "Revise the medical history to remove the incorrect diagnosis.", "label": "write"}
+{"text": "Go ahead and update the transaction records with the new tax codes.", "label": "write"}
+{"text": "Please clean up the customer data by removing any non-numeric characters from phone numbers.", "label": "write"}
+{"text": "Update the insurance provider name to the new legal entity.", "label": "write"}
+{"text": "I want to change the visit duration from 30 minutes to 45 minutes.", "label": "write"}
+{"text": "Correct the invoice totals for the entire January batch.", "label": "write"}
+{"text": "Please handle the modification of the patient's allergy list.", "label": "write"}
+{"text": "Update the employee’s role to reflect their recent promotion.", "label": "write"}
+{"text": "Delete the visits that were entered into the test environment by mistake.", "label": "write"}
+{"text": "Update the customer's home address to the new location in Seattle.", "label": "write"}
+{"text": "I need the transaction amount to be adjusted to reflect the partial refund.", "label": "write"}
+{"text": "Please see that the doctor’s email is updated in the staff portal.", "label": "write"}
+{"text": "Correct the patient DOB using the data from the scan.", "label": "write"}
+{"text": "Update the insurance ID for all family members on this plan.", "label": "write"}
+{"text": "Go ahead and change the appointment time to later in the afternoon.", "label": "write"}
+{"text": "I need you to fix the employee's salary in the 2023 payroll history.", "label": "write"}
+{"text": "Update the medical record with the new lab results from this morning.", "label": "write"}
+{"text": "Please ensure the customer's phone number is updated across all tables.", "label": "write"}
+{"text": "Delete the records for the doctors who are no longer with the practice.", "label": "write"}
+{"text": "Update the visit status to 'Finalized' so we can bill the patient.", "label": "write"}
+{"text": "I want to change the transaction date to the actual day the funds cleared.", "label": "write"}
+{"text": "How do I change my password in this application?", "label": "other"}
+{"text": "Show me the help documentation for the payroll module.", "label": "other"}
+{"text": "What is the current version of the software we are running?", "label": "other"}
+{"text": "Can you open the settings menu for the dashboard?", "label": "other"}
+{"text": "Hello, can you help me with a few questions about the system?", "label": "other"}
+{"text": "Where can I find the export button for the transaction list?", "label": "other"}
+{"text": "Show me a list of keyboard shortcuts for this interface.", "label": "other"}
+{"text": "Is there a dark mode available for this platform?", "label": "other"}
+{"text": "Who is the administrator for the medical records department?", "label": "other"}
+{"text": "Tell me more about the security features of this database.", "label": "other"}
+{"text": "I need to talk to a human representative, can you connect me?", "label": "other"}
+{"text": "What time is the system maintenance scheduled for tonight?", "label": "other"}
+{"text": "Can you show me the home screen again?", "label": "other"}
+{"text": "Explain how the data encryption works in this system.", "label": "other"}
+{"text": "How do I log out of the mobile version of the app?", "label": "other"}
+{"text": "Is there a tutorial on how to use the search filters?", "label": "other"}
+{"text": "Show me the privacy policy for handling patient data.", "label": "other"}
+{"text": "What are the system requirements for running this report?", "label": "other"}
+{"text": "Can you clear the search history for this session?", "label": "other"}
+{"text": "How do I contact technical support for a login issue?", "label": "other"}
+{"text": "Show me the notification settings for my account.", "label": "other"}
+{"text": "Is this system HIPAA compliant?", "label": "other"}
+{"text": "Where is the user manual for the insurance billing module?", "label": "other"}
+{"text": "Can you refresh the page to show the latest updates?", "label": "other"}
+{"text": "What is the timeout limit for a session in this application?", "label": "other"}
+{"text": "How do I change the language settings to Spanish?", "label": "other"}
+{"text": "Show me the credits for the developers of this software.", "label": "other"}
+{"text": "Is there a way to zoom in on the dashboard charts?", "label": "other"}
+{"text": "Can you tell me which browsers are supported?", "label": "other"}
+{"text": "I'm having trouble clicking the save button, any advice?", "label": "other"}
+{"text": "Show me the legal terms and conditions for this service.", "label": "other"}
+{"text": "How do I set up two-factor authentication for my profile?", "label": "other"}
+{"text": "What is the purpose of the 'tags' field in the patient record?", "label": "other"}
+{"text": "Can you show me the last time I logged into the system?", "label": "other"}
+{"text": "Is there an API available for developers to use?", "label": "other"}
+{"text": "How do I print a PDF of the current screen view?", "label": "other"}
+{"text": "Where are the archived reports stored in this application?", "label": "other"}
+{"text": "Can you help me reset my security questions?", "label": "other"}
+{"text": "What does the 'Pending' status mean in the transaction list?", "label": "other"}
+{"text": "Show me the feedback form so I can report a bug.", "label": "other"}
+{"text": "Is there a mobile app available for iOS or Android?", "label": "other"}
+{"text": "How do I subscribe to the system status alerts?", "label": "other"}
+{"text": "Where can I find the company's tax ID number?", "label": "other"}
+{"text": "Can you show me the site map for this portal?", "label": "other"}
+{"text": "What is the maximum file size for medical record uploads?", "label": "other"}
+{"text": "How do I invite a new user to this organization?", "label": "other"}
+{"text": "Show me the FAQ section for employee benefits.", "label": "other"}
+{"text": "Is there a limit to how many records I can export at once?", "label": "other"}
+{"text": "How do I change the theme from light to dark?", "label": "other"}
+{"text": "Can you explain the difference between a 'User' and an 'Admin'?", "label": "other"}
+{"text": "Where is the 'About Us' page for the clinic?", "label": "other"}
+{"text": "How do I set my primary location in the settings?", "label": "other"}
+{"text": "Show me the release notes for the latest update.", "label": "other"}
+{"text": "Is there a chat support option available during the weekend?", "label": "other"}
+{"text": "How do I download the desktop version of this tool?", "label": "other"}
+{"text": "Can you show me the system's uptime statistics?", "label": "other"}
+{"text": "Where is the button to collapse the side navigation bar?", "label": "other"}
+{"text": "How do I upload a new profile picture for my account?", "label": "other"}
+{"text": "What do the different colored icons represent in the calendar?", "label": "other"}
+{"text": "Can you tell me who last edited the system configuration?", "label": "other"}
+{"text": "How do I find my account ID number?", "label": "other"}
+{"text": "Show me the contact information for the billing department.", "label": "other"}
+{"text": "Is there a way to auto-fill the forms in this system?", "label": "other"}
+{"text": "How do I customize the layout of my dashboard?", "label": "other"}
+{"text": "Can you provide a link to the training videos?", "label": "other"}
+{"text": "Where can I see the list of active sessions for my account?", "label": "other"}
+{"text": "What happens if I click the 'Reset' button on this form?", "label": "other"}
+{"text": "How do I enable desktop notifications for new messages?", "label": "other"}
+{"text": "Show me the storage limit for my organization's account.", "label": "other"}
+{"text": "Is there a way to recover a forgotten username?", "label": "other"}
+{"text": "How do I set my default time zone in the profile?", "label": "other"}
+{"text": "Can you show me the list of supported file formats?", "label": "other"}
+{"text": "Where is the logout button located on this screen?", "label": "other"}
+{"text": "How do I view the system in full-screen mode?", "label": "other"}
+{"text": "Show me the steps to integrate this with my email client.", "label": "other"}
+{"text": "Is there a cost associated with adding more users?", "label": "other"}
+{"text": "How do I find the version number of the database?", "label": "other"}
+{"text": "Can you tell me how to clear my browser's cache for this site?", "label": "other"}
+{"text": "Where can I find the latest news about the software company?", "label": "other"}
+{"text": "How do I search for a specific help topic in the manual?", "label": "other"}
+{"text": "Show me the list of available plugins for this system.", "label": "other"}
+{"text": "Is there a way to hide my online status from other users?", "label": "other"}
+{"text": "How do I generate a new API key for my project?", "label": "other"}
+{"text": "Where can I see the terms of the service level agreement?", "label": "other"}
+{"text": "Can you show me the breadcrumb navigation for this page?", "label": "other"}
+{"text": "How do I report an issue with the server speed?", "label": "other"}
+{"text": "Show me the contact form for the sales team.", "label": "other"}
+{"text": "Is there a way to see a history of my help tickets?", "label": "other"}
+{"text": "How do I change the font size in the application?", "label": "other"}
+{"text": "Can you show me where the 'Undo' button is?", "label": "other"}
+{"text": "Where is the link to the community support forum?", "label": "other"}
+{"text": "How do I enable the accessibility features in this tool?", "label": "other"}
+{"text": "Show me the list of third-party integrations we have active.", "label": "other"}
+{"text": "Is there a way to bulk-import data from an Excel file?", "label": "other"}
+{"text": "How do I verify my email address to activate the account?", "label": "other"}
+{"text": "Can you show me the 'Forgot Password' link?", "label": "other"}
+{"text": "Where can I find the license key for the software?", "label": "other"}
+{"text": "How do I change the default currency for my view?", "label": "other"}
+{"text": "Show me the troubleshooting guide for printer issues.", "label": "other"}
+{"text": "Is there a way to contact the data privacy officer?", "label": "other"}
+{"text": "Analyze the correlation between doctor wait times and patient satisfaction.", "label": "read"}
+{"text": "What would the tax liability be if we moved these transactions to the 2025 fiscal year?", "label": "read"}
+{"text": "Can you summarize the differences between the two versions of the employee handbook?", "label": "read"}
+{"text": "Check if any active insurance policies are set to expire within the next 48 hours.", "label": "read"}
+{"text": "What is the projected cash flow if these invoices remain unpaid for 30 more days?", "label": "read"}
+{"text": "Show me a comparison of the old salary structure versus the proposed one.", "label": "read"}
+{"text": "Identify which patient records are missing an emergency contact phone number.", "label": "read"}
+{"text": "If we were to delete these 500 logs, how much database storage would we reclaim?", "label": "read"}
+{"text": "Is there a pattern of duplicate customer IDs originating from the mobile app?", "label": "read"}
+{"text": "Provide a list of employees whose role hasn't changed in the last five years.", "label": "read"}
+{"text": "What does the distribution of transaction amounts look like for the night shift?", "label": "read"}
+{"text": "Check the system for any mismatched postal codes in the billing table.", "label": "read"}
+{"text": "Would a change in the appointment status to 'Late' trigger an automated SMS?", "label": "read"}
+{"text": "Show me a preview of the annual revenue report with the current adjustments.", "label": "read"}
+{"text": "What is the audit history for the patient’s medical notes from last March?", "label": "read"}
+{"text": "Are there any doctors currently overbooked for the upcoming holiday weekend?", "label": "read"}
+{"text": "Calculate the total value of all pending insurance claims for provider Y.", "label": "read"}
+{"text": "If I updated the email domain, how many user accounts would be impacted?", "label": "read"}
+{"text": "Check if the doctor's license number matches the national registry database.", "label": "read"}
+{"text": "What happens to the referral data if the primary patient record is archived?", "label": "read"}
+{"text": "Analyze the impact of a 10% increase in benefit costs on the total payroll.", "label": "read"}
+{"text": "Show me the count of unique visits per patient for the previous quarter.", "label": "read"}
+{"text": "Is there any discrepancy between the invoice total and the sum of its line items?", "label": "read"}
+{"text": "What would the average salary be if we excluded the executive tier from the data?", "label": "read"}
+{"text": "Verify how many customers have opted out of email notifications this week.", "label": "read"}
+{"text": "Show me the logs for every time the system-wide 'write' permission was used.", "label": "read"}
+{"text": "If we corrected the DOB, would the patient still qualify for the pediatric study?", "label": "read"}
+{"text": "Check for any orphan records in the appointment table that have no doctor ID.", "label": "read"}
+{"text": "What is the frequency of status changes for a typical medical record?", "label": "read"}
+{"text": "Show me a draft of the report that includes the corrected transaction values.", "label": "read"}
+{"text": "Does the system show any phone numbers that are clearly invalid formats?", "label": "read"}
+{"text": "How many records would be flagged if we ran the compliance check now?", "label": "read"}
+{"text": "If the insurance ID was updated, would the previous claims be automatically re-linked?", "label": "read"}
+{"text": "Visualize the trend of employee turnover by role over the last decade.", "label": "read"}
+{"text": "What are the most common errors found during the weekly data cleanup?", "label": "read"}
+{"text": "Check the availability of the surgical suite before we look at the schedule.", "label": "read"}
+{"text": "What would the net profit be if we applied the discount to these transactions?", "label": "read"}
+{"text": "Show me all patient files that have been marked for review by the lead doctor.", "label": "read"}
+{"text": "If we changed the role level, how would that affect the manager's dashboard view?", "label": "read"}
+{"text": "Determine the percentage of invoices that are paid within 15 days of issuance.", "label": "read"}
+{"text": "Is there a way to see the raw database query for this customer list?", "label": "read"}
+{"text": "What happens to the appointment reminders if the phone number is deleted?", "label": "read"}
+{"text": "Analyze the variance between estimated and actual surgery durations.", "label": "read"}
+{"text": "Show me which users have read-only access to the salary information.", "label": "read"}
+{"text": "If we modified the tax rate, how many historical records would need re-indexing?", "label": "read"}
+{"text": "Compare the patient’s current vitals against the baseline from their first visit.", "label": "read"}
+{"text": "What is the total number of doctors currently accepting new patients?", "label": "read"}
+{"text": "Check if any transaction IDs are missing from the end-of-day summary.", "label": "read"}
+{"text": "What would the headcount be if we finalized the 20 open positions?", "label": "read"}
+{"text": "Show me the metadata for the last update to the insurance provider table.", "label": "read"}
+{"text": "Identify any customers who haven't updated their address in over three years.", "label": "read"}
+{"text": "If the visit status was 'No-Show', would the system still generate a billing code?", "label": "read"}
+{"text": "Check for inconsistencies between the employee’s role and their access level.", "label": "read"}
+{"text": "What is the average transaction amount for customers in the European region?", "label": "read"}
+{"text": "Show me a heatmap of appointment times across the different clinic locations.", "label": "read"}
+{"text": "If we purged the inactive accounts, how many gigabytes would be freed up?", "label": "read"}
+{"text": "Verify if the medical history records include the mandatory physician signature.", "label": "read"}
+{"text": "What happens to the audit trail if a record is merged with another?", "label": "read"}
+{"text": "Compare the current month's payroll against the same period last year.", "label": "read"}
+{"text": "What is the current status of the data migration for the customer database?", "label": "read"}
+{"text": "Show me the records that would be excluded by the new 'Read' filter.", "label": "read"}
+{"text": "If the salary was converted to Euros, what would the total payroll look like?", "label": "read"}
+{"text": "Analyze the success rate of the last automated email correction script.", "label": "read"}
+{"text": "What are the downstream consequences of modifying a primary doctor ID?", "label": "read"}
+{"text": "Show me which fields in the patient record are currently empty.", "label": "read"}
+{"text": "Is there a correlation between insurance provider and claim processing time?", "label": "read"}
+{"text": "What would the system display if I tried to access a deleted appointment?", "label": "read"}
+{"text": "Check for any duplicate phone numbers across the entire staff directory.", "label": "read"}
+{"text": "Show me the total amount of discounts applied to invoices this month.", "label": "read"}
+{"text": "If the patient DOB was changed, would the age-gated forms be invalidated?", "label": "read"}
+{"text": "What is the median salary for female employees in the research department?", "label": "read"}
+{"text": "Check the status of all transactions currently stuck in the payment gateway.", "label": "read"}
+{"text": "How many appointments were rescheduled more than twice this month?", "label": "read"}
+{"text": "If we updated the customer tier, would they automatically receive the welcome pack?", "label": "read"}
+{"text": "Show me a summary of all medical records updated by the night shift staff.", "label": "read"}
+{"text": "What is the error frequency for the insurance ID verification service?", "label": "read"}
+{"text": "Determine the impact of a system rollback on the current day's data entries.", "label": "read"}
+{"text": "Show me the list of doctors who have not logged into the portal this week.", "label": "read"}
+{"text": "If we deleted the test records, would the transaction IDs be reused?", "label": "read"}
+{"text": "Check if any invoices have a 'Paid' status but a zero-dollar amount.", "label": "read"}
+{"text": "What is the growth rate of new customer sign-ups over the last 6 months?", "label": "read"}
+{"text": "Show me the distribution of patient visits by day of the week.", "label": "read"}
+{"text": "If we changed the role permissions, who would be restricted from editing files?", "label": "read"}
+{"text": "Calculate the total value of assets currently assigned to each employee.", "label": "read"}
+{"text": "Verify the integrity of the database links between patients and visits.", "label": "read"}
+{"text": "What would the projected tax be if we adjusted the depreciation rates?", "label": "read"}
+{"text": "Show me all transactions that exceed the standard $5,000 limit.", "label": "read"}
+{"text": "Check for any mismatched birth years in the medical history records.", "label": "read"}
+{"text": "What is the average response time for a change in visit status?", "label": "read"}
+{"text": "If we updated the office address, would the map on the portal update too?", "label": "read"}
+{"text": "Analyze the pattern of phone number corrections in the last year.", "label": "read"}
+{"text": "Show me a list of all active insurance providers in the system.", "label": "read"}
+{"text": "What happens to the login logs if a user account is fully deleted?", "label": "read"}
+{"text": "Check if the employee's role in HR matches the one in the finance system.", "label": "read"}
+{"text": "How many records would be touched by a global search and replace for 'St.' to 'Street'?", "label": "read"}
+{"text": "If the invoice total was modified, would the original amount be saved?", "label": "read"}
+{"text": "Show me a preview of the dashboard for a user with the 'Doctor' role.", "label": "read"}
+{"text": "What is the current count of appointments marked as 'In-Person' vs 'Telehealth'?", "label": "read"}
+{"text": "Check for any data anomalies in the transaction log for the last hour.", "label": "read"}
+{"text": "What is the total number of medical notes awaiting a final signature?", "label": "read"}
+{"text": "Update the employee's salary to $85,000 effective immediately.", "label": "write"}
+{"text": "Please fix the typo in the patient's last name from 'Smit' to 'Smith'.", "label": "write"}
+{"text": "Delete all test transaction records created before 8 AM today.", "label": "write"}
+{"text": "Merge these duplicate customer accounts using the most recent address.", "label": "write"}
+{"text": "Change the appointment time for Dr. Brown's 2 PM slot to 2:30 PM.", "label": "write"}
+{"text": "Set the status of all unpaid invoices older than 90 days to 'Collections'.", "label": "write"}
+{"text": "I need to have the doctor's office phone number updated to 555-9876.", "label": "write"}
+{"text": "Adjust the insurance provider for this group of patients to 'Blue Shield'.", "label": "write"}
+{"text": "Go ahead and remove the inactive users from the medical staff directory.", "label": "write"}
+{"text": "Correct the transaction amount for ID 8892 to exactly $42.50.", "label": "write"}
+{"text": "Update the patient’s DOB to 11/15/1972 based on their birth certificate.", "label": "write"}
+{"text": "Ensure the invoice information reflects the 15% promotional discount.", "label": "write"}
+{"text": "Revise the medical history to include the new diagnosis from the lab.", "label": "write"}
+{"text": "Please see that the visit status is changed to 'Checked-In' for patient 401.", "label": "write"}
+{"text": "Clean up the customer database by deleting entries with no contact info.", "label": "write"}
+{"text": "Update the employee role for Jane Doe to 'Lead Clinical Researcher'.", "label": "write"}
+{"text": "Change the primary email for this account to j.doe@company.org.", "label": "write"}
+{"text": "Modify the doctor's profile to include their new specialist certification.", "label": "write"}
+{"text": "Fix the error in the insurance number so it matches the scanned card.", "label": "write"}
+{"text": "Delete the visit record for the patient who was a no-show.", "label": "write"}
+{"text": "Update the transaction records with the corrected tax identification codes.", "label": "write"}
+{"text": "Adjust the employee’s vacation balance to reflect the 3 days taken last week.", "label": "write"}
+{"text": "Please finalize the updates to the medical notes for the surgery yesterday.", "label": "write"}
+{"text": "I need the customer address changed to 742 Evergreen Terrace.", "label": "write"}
+{"text": "Set the appointment duration for all physicals to 60 minutes.", "label": "write"}
+{"text": "Rectify the discrepancy in the invoice total for the radiology department.", "label": "write"}
+{"text": "Update the insurance expiry date for policy #99283 to next year.", "label": "write"}
+{"text": "Go ahead and delete the duplicate patient records we found in the audit.", "label": "write"}
+{"text": "Modify the role permissions for the 'Intern' group to restrict access.", "label": "write"}
+{"text": "Correct the spelling of the insurance company in the dropdown menu.", "label": "write"}
+{"text": "Update the transaction status to 'Refunded' for these three IDs.", "label": "write"}
+{"text": "Please ensure the patient's allergy list is updated with 'Peanuts'.", "label": "write"}
+{"text": "Change the doctor assigned to the 10 AM visit to Dr. Miller.", "label": "write"}
+{"text": "Update the salary tiers for the entire marketing department.", "label": "write"}
+{"text": "I want you to fix the email address for the customer with ID 772.", "label": "write"}
+{"text": "Revise the phone number format for all records in the Arizona region.", "label": "write"}
+{"text": "Delete the medical notes that were accidentally uploaded to the wrong file.", "label": "write"}
+{"text": "Update the customer status to 'Premier' now that they’ve hit the threshold.", "label": "write"}
+{"text": "Adjust the visit time to compensate for the surgeon's delay.", "label": "write"}
+{"text": "Please see that the employee’s bank account for direct deposit is updated.", "label": "write"}
+{"text": "Correct the patient DOB in the portal to 01/01/2000.", "label": "write"}
+{"text": "Update the insurance ID for the primary policyholder on account 55.", "label": "write"}
+{"text": "I need the transaction log to be cleared of all entries from the test server.", "label": "write"}
+{"text": "Change the visit status to 'Awaiting Results' for the morning clinic.", "label": "write"}
+{"text": "Please modify the medical record to reflect the successful procedure.", "label": "write"}
+{"text": "Update the salary for all nurses to reflect the new cost-of-living adjustment.", "label": "write"}
+{"text": "I need the mismatch in the customer's phone number fixed today.", "label": "write"}
+{"text": "Ensure the doctor’s schedule is updated to show they are on leave.", "label": "write"}
+{"text": "Remove the duplicate transactions from the billing batch.", "label": "write"}
+{"text": "Update the invoice total for patient 123 to include the lab fee.", "label": "write"}
+{"text": "I want to change the customer’s primary contact to their cell phone.", "label": "write"}
+{"text": "Correct the employee role in the directory to 'Senior Systems Engineer'.", "label": "write"}
+{"text": "Please handle the removal of the outdated insurance providers from our list.", "label": "write"}
+{"text": "Update the appointment date for the follow-up to this Friday at 4 PM.", "label": "write"}
+{"text": "Revise the patient information to include the updated medical history.", "label": "write"}
+{"text": "I need the transaction amount corrected to include the shipping fee.", "label": "write"}
+{"text": "Go ahead and fix the typo in the doctor’s clinic address.", "label": "write"}
+{"text": "Update the customer status to 'Past Due' for anyone with a balance.", "label": "write"}
+{"text": "Please see that the medical notes from this morning's round are uploaded.", "label": "write"}
+{"text": "Remove the inactive doctor profiles from the public search results.", "label": "write"}
+{"text": "Change the employee’s salary classification to 'Exempt' in the system.", "label": "write"}
+{"text": "Update the insurance number for the dental policy specifically.", "label": "write"}
+{"text": "I need the patient's DOB fixed in the billing records.", "label": "write"}
+{"text": "Please ensure the invoice info matches the signed quote from the client.", "label": "write"}
+{"text": "Delete the transaction that was double-processed by the terminal.", "label": "write"}
+{"text": "Update the doctor’s profile with the new office hours.", "label": "write"}
+{"text": "I want the visit status updated to 'Discharged' for room 4B.", "label": "write"}
+{"text": "Correct the phone number for the secondary insurance contact.", "label": "write"}
+{"text": "Please modify the employee record to reflect their change in department.", "label": "write"}
+{"text": "Update the appointment time for the Zoom call to noon.", "label": "write"}
+{"text": "I need you to fix the customer email address in the mailing list.", "label": "write"}
+{"text": "Revise the medical history to add the results of the second scan.", "label": "write"}
+{"text": "Go ahead and update the transaction records with the new vendor IDs.", "label": "write"}
+{"text": "Please clean up the data by removing any leading spaces from the name fields.", "label": "write"}
+{"text": "Update the insurance provider address to the one on the new claim form.", "label": "write"}
+{"text": "I want to change the visit duration to 15 minutes for quick follow-ups.", "label": "write"}
+{"text": "Correct the invoice totals to remove the applied credit balance.", "label": "write"}
+{"text": "Please handle the modification of the patient's weight and height.", "label": "write"}
+{"text": "Update the employee’s role to 'Technical Lead' effective next week.", "label": "write"}
+{"text": "Delete the visits that were scheduled for the holiday in error.", "label": "write"}
+{"text": "Update the customer's billing address to their corporate office.", "label": "write"}
+{"text": "I need the transaction amount adjusted for the returned item.", "label": "write"}
+{"text": "Please see that the doctor’s bio is updated on the website.", "label": "write"}
+{"text": "Correct the patient DOB for the newborn record.", "label": "write"}
+{"text": "Update the insurance ID for the new secondary policy.", "label": "write"}
+{"text": "Go ahead and change the appointment time to 8 AM sharp.", "label": "write"}
+{"text": "I need you to fix the employee's salary in the bonus calculation sheet.", "label": "write"}
+{"text": "Update the medical record with the doctor's final conclusions.", "label": "write"}
+{"text": "Please ensure the customer's phone number is corrected in the CRM.", "label": "write"}
+{"text": "Delete the records for the appointments that were never confirmed.", "label": "write"}
+{"text": "Update the visit status to 'Pending Lab Work' for this afternoon.", "label": "write"}
+{"text": "I want to change the transaction date to match the bank statement.", "label": "write"}
+{"text": "Correct the typo in the doctor's name on the electronic prescription.", "label": "write"}
+{"text": "Please modify the medical history to archive the resolved conditions.", "label": "write"}
+{"text": "Update the salary for the part-time staff based on their new hours.", "label": "write"}
+{"text": "I need the customer's email address updated in the billing portal.", "label": "write"}
+{"text": "Ensure the patient's primary phone number is set to their home line.", "label": "write"}
+{"text": "Remove the doctor from the emergency call list for next month.", "label": "write"}
+{"text": "Update the invoice totals after recalculating the bulk discount.", "label": "write"}
+{"text": "I want to change the visit status to 'Invoiced' for all today's patients.", "label": "write"}
+{"text": "Correct the employee's role in the security access group.", "label": "write"}
+{"text": "How can I export this list of doctors into a PDF file?", "label": "other"}
+{"text": "Where is the button to change the dashboard to a chart view?", "label": "other"}
+{"text": "Hello, I’m looking for help with the payroll module today.", "label": "other"}
+{"text": "Can you explain what the 'Write Risk' label actually means?", "label": "other"}
+{"text": "Show me the settings for adjusting my notification frequency.", "label": "other"}
+{"text": "What is the newest feature in the latest version of this app?", "label": "other"}
+{"text": "Is there a way to search for a help article by keyword?", "label": "other"}
+{"text": "Who should I contact if I have trouble logging in?", "label": "other"}
+{"text": "Show me the site map for the administration portal.", "label": "other"}
+{"text": "Can you walk me through how to use the search filters?", "label": "other"}
+{"text": "What is the difference between a 'Read' and 'Other' intent?", "label": "other"}
+{"text": "How do I zoom in on the transaction history table?", "label": "other"}
+{"text": "Tell me more about the privacy settings for my user profile.", "label": "other"}
+{"text": "Where can I find the company's annual financial summary?", "label": "other"}
+{"text": "Is there a dark mode toggle in the preferences menu?", "label": "other"}
+{"text": "Can you show me the system's current latency statistics?", "label": "other"}
+{"text": "How do I reset my security questions in this application?", "label": "other"}
+{"text": "What does the little red exclamation mark next to the ID mean?", "label": "other"}
+{"text": "Show me the terms of service for the medical records module.", "label": "other"}
+{"text": "Can you help me find the 'Logout' button on this screen?", "label": "other"}
+{"text": "Is this software compatible with the latest version of Chrome?", "label": "other"}
+{"text": "How do I change the default language to French?", "label": "other"}
+{"text": "Show me the developer documentation for the API integration.", "label": "other"}
+{"text": "What is the character limit for the 'Medical Notes' field?", "label": "other"}
+{"text": "Can you show me the last time the system was backed up?", "label": "other"}
+{"text": "How do I invite my colleagues to this shared dashboard?", "label": "other"}
+{"text": "Where is the 'About' page for the software provider?", "label": "other"}
+{"text": "Is there a way to print only the current view of the screen?", "label": "other"}
+{"text": "How do I contact the IT department for a technical bug?", "label": "other"}
+{"text": "Show me the list of keyboard shortcuts for editing records.", "label": "other"}
+{"text": "What happens if I forget to save my changes before logging out?", "label": "other"}
+{"text": "Can you help me understand how the tax logic works here?", "label": "other"}
+{"text": "Where do I go to change my profile picture?", "label": "other"}
+{"text": "Is there an offline mode for the mobile version of the app?", "label": "other"}
+{"text": "Show me the FAQ for the employee benefits portal.", "label": "other"}
+{"text": "How do I clear the recent search history for my account?", "label": "other"}
+{"text": "What is the best way to learn how to use this platform?", "label": "other"}
+{"text": "Can you show me the list of active users currently online?", "label": "other"}
+{"text": "How do I enable two-factor authentication for my login?", "label": "other"}
+{"text": "Where can I find the release notes for the Q1 update?", "label": "other"}
+{"text": "Is there a limit to how many files I can upload at once?", "label": "other"}
+{"text": "How do I change the time zone for my personal dashboard?", "label": "other"}
+{"text": "Show me the contact information for the billing team.", "label": "other"}
+{"text": "Can you tell me which browsers are officially supported?", "label": "other"}
+{"text": "Where is the button to collapse the side menu bar?", "label": "other"}
+{"text": "How do I download the user manual for the medical system?", "label": "other"}
+{"text": "Is there a video tutorial for the transaction module?", "label": "other"}
+{"text": "Show me the license agreement for this software package.", "label": "other"}
+{"text": "How do I change my primary office location in the settings?", "label": "other"}
+{"text": "Can you show me the current status of the server clusters?", "label": "other"}
+{"text": "What should I do if the system freezes during an update?", "label": "other"}
+{"text": "Where can I find the privacy policy for handling patient data?", "label": "other"}
+{"text": "How do I submit a feature request to the developers?", "label": "other"}
+{"text": "Show me the list of third-party plugins installed.", "label": "other"}
+{"text": "Is there a way to customize the columns in the report view?", "label": "other"}
+{"text": "How do I refresh the page to see the latest data sync?", "label": "other"}
+{"text": "Can you tell me who the administrator is for this site?", "label": "other"}
+{"text": "Where is the link to the community support forums?", "label": "other"}
+{"text": "How do I set up a recurring export of the invoice data?", "label": "other"}
+{"text": "Show me the credits for the design team of this UI.", "label": "other"}
+{"text": "What is the maximum resolution for uploaded medical scans?", "label": "other"}
+{"text": "Can you help me reset my account's theme to default?", "label": "other"}
+{"text": "How do I find my unique user ID in the system?", "label": "other"}
+{"text": "Where can I see the history of my own help tickets?", "label": "other"}
+{"text": "Is there a way to auto-fill my contact information?", "label": "other"}
+{"text": "How do I change the font size for the entire dashboard?", "label": "other"}
+{"text": "Show me the steps to synchronize this with my calendar.", "label": "other"}
+{"text": "What is the purpose of the 'Archive' folder in the menu?", "label": "other"}
+{"text": "Can you show me how to flag a record for later review?", "label": "other"}
+{"text": "Where is the documentation for the database schema?", "label": "other"}
+{"text": "How do I report a security vulnerability to the clinic?", "label": "other"}
+{"text": "Is there a way to view the app in a high-contrast mode?", "label": "other"}
+{"text": "Show me the list of recently accessed patient records.", "label": "other"}
+{"text": "How do I change the notification sound for new messages?", "label": "other"}
+{"text": "Can you show me the current storage usage for my account?", "label": "other"}
+{"text": "Where do I find the tax ID number for the hospital?", "label": "other"}
+{"text": "How do I navigate back to the home screen from here?", "label": "other"}
+{"text": "Is there a glossary for all the medical terms used in the system?", "label": "other"}
+{"text": "Show me the contact form for the technical support team.", "label": "other"}
+{"text": "How do I verify that my email address is confirmed?", "label": "other"}
+{"text": "What is the timeout limit for a session on the mobile app?", "label": "other"}
+{"text": "Can you show me the link to the external insurance portal?", "label": "other"}
+{"text": "How do I change my security preference for login alerts?", "label": "other"}
+{"text": "Where can I find the instructions for bulk data importing?", "label": "other"}
+{"text": "Is there a way to view the system's changelog for this month?", "label": "other"}
+{"text": "How do I add a secondary email to my notification settings?", "label": "other"}
+{"text": "Show me the 'Help and Support' section in the sidebar.", "label": "other"}
+{"text": "Can you tell me how to clear the cache in my browser?", "label": "other"}
+{"text": "Where do I find the version history for the payroll logic?", "label": "other"}
+{"text": "How do I set my status to 'Away' in the staff directory?", "label": "other"}
+{"text": "Show me the list of devices currently logged into my account.", "label": "other"}
+{"text": "Is there a way to bookmark a specific transaction record?", "label": "other"}
+{"text": "How do I change the sorting order of the doctor list?", "label": "other"}
+{"text": "Can you show me the link to the patient privacy handout?", "label": "other"}
+{"text": "Where is the button to start the guided system tour?", "label": "other"}
+{"text": "How do I view the audit logs for my own account activity?", "label": "other"}
+{"text": "Show me the notification center for all system-wide alerts.", "label": "other"}
+{"text": "Is there a way to hide the sidebar when viewing a chart?", "label": "other"}
+{"text": "How do I contact the administrator to request more permissions?", "label": "other"}
+{"text": "Where can I see the uptime history for the API?", "label": "other"}
