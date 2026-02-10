@@ -7,21 +7,6 @@
 {"text":"Show headcount trend month over month","label":"aggregate"}
 {"text":"Show revenue change from last quarter to this quarter","label":"aggregate"}
 {"text":"Show revenue growth rate this year","label":"aggregate"}
-{"text":"Sum total revenue per quarter","label":"aggregate"}
-{"text":"Show total invoice amount by month","label":"aggregate"}
-{"text":"What is the total spend by category","label":"aggregate"}
-{"text":"Count invoices by status","label":"aggregate"}
-{"text":"Show number of transactions per day","label":"aggregate"}
-{"text":"Show average transaction amount","label":"aggregate"}
-{"text":"Show churn rate by month","label":"aggregate"}
-{"text":"Show retention rate by cohort","label":"aggregate"}
-{"text":"How many doctors are in each specialty","label":"aggregate"}
-{"text":"Show patient visits per week","label":"aggregate"}
-{"text":"Show average appointment duration by doctor","label":"aggregate"}
-{"text":"Show the top 5 departments by revenue","label":"aggregate"}
-{"text":"Show the bottom 5 products by sales","label":"aggregate"}
-{"text":"Give me a breakdown of costs by vendor","label":"aggregate"}
-{"text":"Show conversion rate by channel","label":"aggregate"}
 {"text":"Show email open rate by campaign","label":"aggregate"}
 {"text":"Show average time to hire by role","label":"aggregate"}
 {"text":"Count new hires by month","label":"aggregate"}
@@ -453,22 +438,3 @@
 {"text": "Show me the full record for employee with salary '75000'", "label": "record_level"}
 {"text": "Get the detailed profile for patient with age '30'", "label": "record_level"}
 {"text": "Show me every transaction that was made for channel 'Online'", "label": "record_level"}
-{"text": "List all patients who have a 'Improving' status", "label": "record_level"}
-{"text": "Show me the full record for the doctor with salary '200000'", "label": "record_level"}
-{"text": "Get the detailed profile for customer with location 'London'", "label": "record_level"}
-{"text": "Show me every row from the 'Schedules' table", "label": "record_level"}
-{"text": "List all users who have a 'Lead' role", "label": "record_level"}
-{"text": "Show me the full record for employee with bonus '5000'", "label": "record_level"}
-{"text": "Get the detailed profile for patient with height '180cm'", "label": "record_level"}
-{"text": "Show me every transaction that was made for region 'APAC'", "label": "record_level"}
-{"text": "List all patients who have a 'Deteriorating' status", "label": "record_level"}
-{"text": "Show me the full record for the doctor with bonus '20000'", "label": "record_level"}
-{"text": "Get the detailed profile for customer with loyalty 'Platinum'", "label": "record_level"}
-{"text": "Show me every row from the 'Applications' table", "label": "record_level"}
-{"text": "List all users who have a 'Junior' role", "label": "record_level"}
-{"text": "Show me the full record for employee with office 'Chicago'", "label": "record_level"}
-{"text": "Get the detailed profile for patient with weight '70kg'", "label": "record_level"}
-{"text": "Show me every transaction that was made for date '2023-12-31'", "label": "record_level"}
-{"text": "List all patients who have a 'Stable' status", "label": "record_level"}
-{"text": "Show me the full record for the doctor with office 'Miami'", "label": "record_level"}
-{"text": "Get the detailed profile for customer with tier 'Silver'", "label": "record_level"}
